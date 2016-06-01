@@ -61,6 +61,10 @@ end
 #   end
 # end
 
+# disqus for abling comments on blogs
+activate :disqus do |d|
+  d.shortname = 'mymultunuswebsite' # Replace with your Disqus shortname.
+end
 # Build-specific configuration
 configure :build do
   # Minify CSS on build
