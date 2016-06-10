@@ -1,0 +1,19 @@
+ <section class="section section-striped our-thoughts clearfix">
+    <h1 class="title text-center font-weight-light">Our thoughts</h1>
+      <div class="container">
+         <div class="row tile">
+            <% blog.articles[0...5].each do |article| %>
+               <div class="col-sm-6"> 
+                  <div class="blog-tile">
+                     <h3 class="title font-weight-bold">
+                        <a href="<%= article.url %>"><%= article.title %></a>
+                     </h3>
+                     <%= with_ellipsised_text tag: 'p', text: article.data.synopsis , length: 180, options: {class: 'short-description'}  %>
+                  </div>
+                </div>
+            <% end %>
+         </div>
+       </div>
+ </section>
+
+<%= partial 'footer_banner', locals: { message: 'Need help on your project?', button_text: "Let's get in touch", button_styles: 'btn btn-primary with-pressed-effect' } %>
