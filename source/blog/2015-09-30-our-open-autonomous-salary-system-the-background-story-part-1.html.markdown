@@ -5,6 +5,7 @@ tags:
 - cap-vaidy
 - business
 - culture
+- featured
 wp:post_id: '5598'
 link: http://www.multunus.com/blog/2015/09/our-autonomous-salary-system-the-background-story-part-1/
 ---

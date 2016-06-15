@@ -6,6 +6,7 @@ tags:
 - javascript
 - react
 - technology
+- featured
 wp:post_id: '5724'
 link: http://www.multunus.com/blog/2015/11/react-essentials-for-javascript-beginners/
 ---

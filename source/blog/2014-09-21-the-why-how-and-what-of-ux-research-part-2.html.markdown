@@ -6,6 +6,7 @@ tags:
 - design
 - lean-ux
 - ux
+- featured
 wp:post_id: '5191'
 link: http://www.multunus.com/blog/2014/09/the-why-how-and-what-of-ux-research-part-2/
 ---

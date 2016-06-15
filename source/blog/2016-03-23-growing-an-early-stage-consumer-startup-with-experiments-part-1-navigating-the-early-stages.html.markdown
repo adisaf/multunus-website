@@ -5,6 +5,7 @@ date: '2016-03-23 17:17:02'
 tags:
 - cap-vaidy
 - process
+- featured
 wp:post_id: '6029'
 link: http://www.multunus.com/blog/2016/03/growing-early-stage-consumer-startup-experiments-part-1-navigating-early-stages/
 ---

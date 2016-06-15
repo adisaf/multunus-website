@@ -7,6 +7,7 @@ tags:
 - continuous-delivery
 - process
 - technology
+- featured
 wp:post_id: '4140'
 link: http://www.multunus.com/blog/2013/06/github-workflow-vs-mainline-development/
 ---

@@ -4,6 +4,7 @@ date: '2016-03-23 17:15:44'
 tags:
 - cap-karthik
 - process
+- featured
 wp:post_id: '6041'
 link: http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-3-getting-stickiness-using-experiments/
 ---
