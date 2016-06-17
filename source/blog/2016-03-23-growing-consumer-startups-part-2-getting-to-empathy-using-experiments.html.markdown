@@ -6,8 +6,6 @@ tags:
 - cap-vaidy
 - process
 - featured
-wp:post_id: '6039'
-link: http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-2-getting-empathy-using-experiments/
 ---
 
 In this post, we dive into the gory details of performing experiments to cross the Pre-Empathy stage in a Consumer Startup.
@@ -15,16 +13,18 @@ In this post, we dive into the gory details of performing experiments to cross t
 [If that makes no sense to you, read 
 [Part 1 of this series](http://www.multunus.com/blog/2016/03/growing-early-stage-consumer-startup-experiments-part-1-navigating-early-stages/)]
 
-As mentioned in the last post, the four stages of experiments are as follows:*Step 1: Setup the experiment
+As mentioned in the last post, the four stages of experiments are as follows:
+
+* Step 1: Setup the experiment
 
     
-*Step 2: Build
+* Step 2: Build
 
     
-*Step 3: Review results
+* Step 3: Review results
 
     
-*Step 4: Iterate
+* Step 4: Iterate
 
 Here’s how you execute those steps for a Consumer Startup:
 
@@ -72,35 +72,35 @@ How do you come up with these hypotheses? Read the following two chapters from
 [Talking to Humans](http://www.talkingtohumans.com/):
 
 
-***"Who do you want to learn from?”**
+* **"Who do you want to learn from?”**
 : Who are the people who will find your product most useful? Who will eventually want to partner with you? And most importantly, who are those people who will pay to use your product? You need to have hypotheses on who these people might be and talk to 
 them.
 
     
-***“What do you want to learn”**
+* **“What do you want to learn”**
 : Most first time entrepreneurs have a hard time thinking about their “
 [business as their product](https://leanstack.com/your-product-is-not-the-product/)”. There’s usually a very strong tendency to focus on the product “idea”, its features, the technology and the user experience. But there’s a bunch of much more important questions that need answering. Here’s a quick starter:
 
 
-*The problem my customer wants to solve is?
+1. The problem my customer wants to solve is?
 
     
-*Why can’t my customer solve this today?
+2. Why can’t my customer solve this today?
 
     
-*I will make money (revenue) by?
+3. I will make money (revenue) by?
 
     
-*My primary competition will be?
+4. My primary competition will be?
 
     
-*I will beat my competitors primarily because of?
+5. I will beat my competitors primarily because of?
 
     
-*My biggest risk to financial viability is?
+6. My biggest risk to financial viability is?
 
     
-*What assumptions do we have that, if proven wrong, would cause this business to fail? (Tip: include market size in this list)
+7.  What assumptions do we have that, if proven wrong, would cause this business to fail? (Tip: include market size in this list)
 
 Make sure to read the chapter end to end. That will help you get into the habit of thinking about your “business model as your product” and then get into the habit of systematically de-risking your business model.
 
@@ -114,10 +114,10 @@ Make sure to read the chapter end to end. That will help you get into the habit 
 Here’s 2 key reasons why Cust Dev’s are much more efficient at testing hypotheses than, say testing with a real product:
 
 
-*You can test multiple hypotheses in a single interview
+* You can test multiple hypotheses in a single interview
 
     
-*You can get much quicker feedback. It only takes a maximum of 90min.
+* You can get much quicker feedback. It only takes a maximum of 90min.
 
 
 **6. How will you measure whether your “idea” is working?**
@@ -136,21 +136,21 @@ As you consistently and diligently follow this process, you will have significan
  Here’s why a good reporting structure is important:
 
 
-***Don’t have a team to share your learnings with?**
+* **Don’t have a team to share your learnings with?**
  You still need this to keep your sanity and ensure that you’re not drowning in a sea of information. You will collect a ton of learnings in a very short period of time - and you need an easy way to navigate through all that. Only then will you be able to discover insights and patterns between various interviews.
 
     
-***Have a team? Great.**
+* **Have a team? Great.**
  Everyone on your team should be doing Cust Devs. And if that’s happening, you need a consistent way to share your learnings with each other. Every time that happens, you’re extracting multi-fold value (in terms increased empathy across the team) from each Cust Dev.
 
 There are two things that you need to report on:
 
 
-*The notes from the interview: Here’s a 
+* The notes from the interview: Here’s a 
 [template](https://docs.google.com/document/d/1Nh2iRttvUWoZAlEmgd8cVEj47EkwYSiD6aCjSzRUfrM/edit?usp=sharing) that you could start with
 
     
-*The score of the interview: Here’s the link once again to the 
+* The score of the interview: Here’s the link once again to the 
 [scoring sheet template](https://docs.google.com/a/multunus.com/spreadsheets/d/1PvphjCbtq-VFgjoKmzw7rIXYlLI3KKDGUUeZmFO1czs/edit?usp=sharing).
 
 
@@ -160,10 +160,10 @@ There are two things that you need to report on:
 To reiterate, the two key parts of this phase are:
 
 
-*Implement the idea
+1. Implement the idea
 
 
-*Keeping your measuring process sustainable
+2. Keeping your measuring process sustainable
 
 
 Details:
@@ -173,28 +173,28 @@ Details:
 : Doing Cust Dev’s well requires some key skills:
 
 
-*Recruiting
+* Recruiting
 
     
-*Active listening
+* Active listening
 
     
-*Probing for “stories”
+* Probing for “stories”
 
     
-*Avoiding selling your idea
+* Avoiding selling your idea
 
     
-*Avoiding confirmation bias
+* Avoiding confirmation bias
 
 Once again, I’d recommend reading 
 [Talking To Humans](http://www.talkingtohumans.com/). Specifically, the following chapters:
 
 
-*“How do you find your interview subjects?”
+* “How do you find your interview subjects?”
 
     
-*“How to ensure an effective session”?
+* “How to ensure an effective session”?
 
 
 **2. Is your measuring process sustainable?**
@@ -232,7 +232,7 @@ invalidated
  As mentioned earlier, Cust Dev’s are about “listening”. Not listening for what you “want to hear”, but for discovering 
 [“unknown unknowns”](https://en.wikipedia.org/wiki/There_are_known_knowns). Watch the following video, to get a better understanding of this concept.
 
-[playlist type="video" ids="6043"]
+[![**Source:YouTube**](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=pTv4yD6BKlAE)
 
 It is almost certain that once you get to 20+ Cust Devs, you’d have had a good number of insights - on both who are your target users are and also what they want.
 
