@@ -1,6 +1,7 @@
 ---
 title: 'Growing Consumer startups [Part 2]: Getting to Empathy Using Experiments'
 date: '2016-03-23 17:16:30'
+synopsis: 'early stage startup'
 tags:
 - cap-vaidy
 - process
