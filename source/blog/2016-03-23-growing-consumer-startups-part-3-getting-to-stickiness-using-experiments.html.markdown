@@ -6,8 +6,6 @@ tags:
 - cap-karthik
 - process
 - featured
-wp:post_id: '6041'
-link: http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-3-getting-stickiness-using-experiments/
 ---
 
 In this third and final part of the series, we dive into the details of performing experiments to cross the Stickiness stage in a Consumer Startup.
@@ -15,16 +13,17 @@ In this third and final part of the series, we dive into the details of performi
 [If you need more context, please start at 
 [Part 1 of this series](http://www.multunus.com/blog/2016/03/growing-early-stage-consumer-startup-experiments-part-1-navigating-early-stages/)]
 
-Here’s the four stages of experiments:*Step 1: Setup the experiment
+Here’s the four stages of experiments:
+* Step 1: Setup the experiment
 
     
-*Step 2: Build
+* Step 2: Build
 
     
-*Step 3: Review results
+* Step 3: Review results
 
     
-*Step 4: Iterate
+* Step 4: Iterate
 
 Here’s how you execute those steps for a Consumer Startup:
 
@@ -37,26 +36,26 @@ Here’s how you execute those steps for a Consumer Startup:
  Here’s some examples of metrics that you could track at this stage:
 
 
-[![Lean-Analytics-Stages highlighted](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-Analytics-Stages1.png)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-Analytics-Stages1.png)
+![Lean-Analytics-Stages highlighted](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-Analytics-Stages1.png)
 
 I realize that the above image could be a bit overwhelming. Beyond the empathy stage, the metrics that you need to keep track of depends on two factors:
 
 
-*The stage of your startup (Stickiness, Virality and so on)
+* The stage of your startup (Stickiness, Virality and so on)
 
     
-*The type of your business model: The image above has 6 business models (from 
+* The type of your business model: The image above has 6 business models (from 
 [Lean Analytics](http://leananalyticsbook.com/)) - that pretty much cover most types of business models. Your startup idea is probably a combo of one or more of those business models. So you should be able to use the above image to get some good starter ideas to come up with an OMTM.
 
-*Make sure to grab a copy of the 
+* Make sure to grab a copy of the 
 [Lean Analytics book](http://leananalyticsbook.com/) - before you move forward. You’ll save a ton of time, money. And also keep your stress levels down :).
 
     
-*Want something quicker? Watch this 
+* Want something quicker? Watch this 
 [fantastic (and free!) course on Udemy](https://www.udemy.com/lean-analytics-workshop-alistair-croll-and-ben-yoskovitz/).
 
     
-*Finally, you could also 
+* Finally, you could also 
 [check out this post I wrote](https://vforvaidy.wordpress.com/2015/05/26/lean-analytics-part-1-notes-from-a-fantastic-udemy-course/) (which summarizes the Udemy course).
 
 A key point to keep in mind is the concept of 
@@ -86,28 +85,27 @@ It’s prudent to come up with hypotheses that are based on this kind of signifi
 Here’s each phase of the hooked cycle:
 
 
-*Trigger
+* Trigger
 
     
-*Action
+* Action
 
     
-*Variable Reward
+* Variable Reward
 
     
-*Investment
+* Investment
 
 Your goal is to ensure that your product has an increasing number of strong Hook cycles encoded in its “design”. Here’s a few next steps for you:
 
 
-*[Refer to this post](http://www.multunus.com/blog/2016/02/hooked-users-to-moveit/) to learn more about the Hooked model.
+* [Refer to this post](http://www.multunus.com/blog/2016/02/hooked-users-to-moveit/) to learn more about the Hooked model.
 
-    
-*Fill up the 
+* Fill up the 
 [Hooked Workbook](http://www.nirandfar.com/download/hooked-workbook.pdf)
 
     
-*[This post](https://medium.com/startup-strategy/the-lean-roadmap-9f96f507dca8#.iy04j58io) has an example of how you could craft experiments using the Hooked model at the Stickiness stage.
+* [This post](https://medium.com/startup-strategy/the-lean-roadmap-9f96f507dca8#.iy04j58io) has an example of how you could craft experiments using the Hooked model at the Stickiness stage.
 
 
 **NOTE**
@@ -122,10 +120,10 @@ Your goal is to ensure that your product has an increasing number of strong Hook
  You will be measuring both of the following:
 
 
-*Whether your users are interacting with the specific change that you made in the product, as predicted
+* Whether your users are interacting with the specific change that you made in the product, as predicted
 
     
-*Whether you’re moving closer to the OMTM goal
+* Whether you’re moving closer to the OMTM goal
 
 If you can connect both a 
 [correlation and causation](http://statistics.about.com/od/HelpandTutorials/a/Correlation-And-Causation.htm) between the above metrics, then you can say with confidence that your hypotheses has been validated.
@@ -135,10 +133,10 @@ If you can connect both a
 
 
 
-*[Use this template](https://docs.google.com/presentation/d/1JUjuH1wO3Nge9F6G-QlCy-5NDK_gBGZffotcxjF5HXI/edit?usp=sharing) to keep record the details of each experiment.
+* [Use this template](https://docs.google.com/presentation/d/1JUjuH1wO3Nge9F6G-QlCy-5NDK_gBGZffotcxjF5HXI/edit?usp=sharing) to keep record the details of each experiment.
 
     
-*[Use this template](https://docs.google.com/spreadsheets/d/1JTm9CBdFrwwVFq_BozwJ5GFpLocZu-6wAeQzvnI2nik/edit?usp=sharing) to keep track of how your OMTM is changing with each experiment
+* [Use this template](https://docs.google.com/spreadsheets/d/1JTm9CBdFrwwVFq_BozwJ5GFpLocZu-6wAeQzvnI2nik/edit?usp=sharing) to keep track of how your OMTM is changing with each experiment
 
 
 ##Step 2: Build
@@ -147,10 +145,10 @@ If you can connect both a
 To reiterate, the two key parts of this phase are:
 
 
-*Implement the idea
+* Implement the idea
 
 
-*Keeping your measuring process sustainable
+* Keeping your measuring process sustainable
 
 
 Details:
@@ -168,10 +166,10 @@ Here’s 3 options that you can choose from to do that:
 [this](http://www.multunus.com/blog/2015/12/super-fast-mvps-just-google-docs-part-2/) and 
 [this](http://www.multunus.com/blog/2015/12/build-super-fast-mvps-without-programmers-part-3/) to learn more..
 
-NOTE:*While the first link above is a Consumer Product, the last two links above are enterprise products. But the posts will still help you realize that you can actually get a lot done with off the shelf free tools and some scripting.
+**NOTE:** While the first link above is a Consumer Product, the last two links above are enterprise products. But the posts will still help you realize that you can actually get a lot done with off the shelf free tools and some scripting.
 
     
-*While it is less straightforward to implement the Hooked cycle, it is still possible to do this. We’re currently working on a Proof-of-Concept that demonstrates that this is possible - using a combination of the following Slack and Google Spreadsheets. It’s still work-in-progress, but if you’re keen to learn more about this, let us know in the comments.
+* While it is less straightforward to implement the Hooked cycle, it is still possible to do this. We’re currently working on a Proof-of-Concept that demonstrates that this is possible - using a combination of the following Slack and Google Spreadsheets. It’s still work-in-progress, but if you’re keen to learn more about this, let us know in the comments.
 
 
 **B. Low Fidelity Prototypes:**
