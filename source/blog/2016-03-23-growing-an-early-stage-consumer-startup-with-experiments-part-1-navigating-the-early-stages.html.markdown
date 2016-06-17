@@ -7,8 +7,6 @@ tags:
 - cap-vaidy
 - process
 - featured
-wp:post_id: '6029'
-link: http://www.multunus.com/blog/2016/03/growing-early-stage-consumer-startup-experiments-part-1-navigating-early-stages/
 ---
 
 You’ve got an idea for a consumer product. And you’re raring to go build it.
@@ -43,9 +41,9 @@ Navigating the whole process of systematically de-risking your business model is
 
 The first thing to realize is that every startup has the following stages of growth:
 
-[caption id="attachment_6033" align="alignnone" width="638"]
-[![Lean Startup stages](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-analytics-stages.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-analytics-stages.jpg) Source : 
-[Slideshare on Understanding lean Analytics by Ben Yoskovitz](http://www.slideshare.net/Leananalytics/understanding-lean-analytics-and-how-analytics-helps-businesses-win-17324564)[/caption]
+![Lean Startup stages](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-analytics-stages.jpg) 
+
+Source :[Slideshare on Understanding lean Analytics by Ben Yoskovitz](http://www.slideshare.net/Leananalytics/understanding-lean-analytics-and-how-analytics-helps-businesses-win-17324564)
 
 
 ##Which stage am I in?
@@ -108,9 +106,9 @@ When we’re building a product, there’s usually multiple things we could meas
 
 But here’s the thing: If what you’re doing is backing up your car, the only thing that matters at that time is the distance of the wall behind you.
 
-[caption id="attachment_6034" align="alignnone" width="266"]
-[![Car backing up](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/backingup.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/backingup.jpg) Source : 
-[Daily Remarks](http://dailyremarks.com/tag/car-backing-up/)[/caption]
+![Car backing up](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/backingup.jpg) 
+
+Source :[Daily Remarks](http://dailyremarks.com/tag/car-backing-up/)
 
 We call that the “One Metric That Matters” or OMTM for short. This is a concept from the 
 [Lean Analytics book](http://leananalyticsbook.com/).
@@ -123,9 +121,9 @@ The idea is that once we know the stage of your startup and the type of product 
 
 The Lean Analytics book has a nice matrix of which metrics to measure in what situations. From what I know, this is based on significant research and experience. So, if I were you, I would go with what is suggested there - at least for starters. It’s better than any gut feels or guesses that you or I could make.
 
-[caption id="attachment_6036" align="alignnone" width="884"]
-[![Lean Analytics Stages](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-Analytics-Stages.png)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-Analytics-Stages.png) Source : 
-[Lean Analytics Workshop on Udemy - Alistair Croll and Ben Yoskovitz](https://www.udemy.com/lean-analytics-workshop-alistair-croll-and-ben-yoskovitz/?siteID=TnL5HPStwNw-N1qdLwJbe7s9cC7sovBIeA&LSNPUBID=TnL5HPStwNw)[/caption]
+![Lean Analytics Stages](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Lean-Analytics-Stages.png) 
+
+Source : [Lean Analytics Workshop on Udemy - Alistair Croll and Ben Yoskovitz](https://www.udemy.com/lean-analytics-workshop-alistair-croll-and-ben-yoskovitz/?siteID=TnL5HPStwNw-N1qdLwJbe7s9cC7sovBIeA&LSNPUBID=TnL5HPStwNw)
 
 After a couple of weeks of using the metric while also performing 
 experiments at the same time [described in the next section], you will be able to start seeing some patterns. If there’s a more important metric other than the one you’re measuring currently, it’ll start showing up in your radar and you can them switch focus to that metric. In essence, you will just “know”.
@@ -154,77 +152,77 @@ learning (about your market) at a good pace.
 The process is as follows:
 
 
-*Step 1: Setup the experiment
+* Step 1: Setup the experiment
 
     
-*Step 2: Build
+* Step 2: Build
 
     
-*Step 3: Review results
+* Step 3: Review results
 
     
-*Step 4: Iterate
+* Step 4: Iterate
 
 
 ###Step 1: Setup the experiment:
 
 
 
-*What is your OMTM?
+1. What is your OMTM?
 
     
-*What is the current value of the OMTM?
+2. What is the current value of the OMTM?
 
     
-*What is your target value for your OMTM?
+3. What is your target value for your OMTM?
 
     
-*What is your 
+4. What is your 
 experiment hypothesis (or “idea”) to help you move forward toward the OMTM goal?
 [What’s a 
 hypothesis? They’re simply assumptions that you write down about the  market’s perspective of your idea. The only significant difference here is that you also have an explicit intention to test and confirm whether your assumption is true or false (validated or invalidated).]
 
     
-*How will the idea help you to learn more about your customer?
+5. How will the idea help you to learn more about your customer?
 This question will help you stay grounded during the ideation process. A high level of excitement while coming up with product features is a common scenario. While the excitement is great in that you will feel more energized, it’s quite risky in that you may end up forgetting that these are your ideas and that your users would still need to buy into them, for your investment of time and money to make business sense.
 
     
-*How will you measure whether your idea is working?
+6. How will you measure whether your idea is working?
 
     
-*What is the reporting structure for the above information?
+7. What is the reporting structure for the above information?
 
 
 ###Step 2: Build:
 
 
 
-*Implement the “idea”
+1. Implement the “idea”
 
     
-*Is your measuring process easy?
+2. Is your measuring process easy?
 
 
 ###Step 3: Review results:
 
 
 
-*What is the OMTM value, after the experiment?
+1. What is the OMTM value, after the experiment?
 
     
-*Update the Report with the new OMTM value
+2. Update the Report with the new OMTM value
 
     
-*How well did your “idea” work? Which hypotheses were validated and which were invalidated?
+3. How well did your “idea” work? Which hypotheses were validated and which were invalidated?
 
     
-*Is the customer’s behavior more predictable to you after the experiment?
+4. Is the customer’s behavior more predictable to you after the experiment?
 
     
-*Was there something else (perhaps unexpected) that you discovered during the experiment? If you had an insight during the experiment, that’s fantastic. These are the gems you’re looking for.
+5. Was there something else (perhaps unexpected) that you discovered during the experiment? If you had an insight during the experiment, that’s fantastic. These are the gems you’re looking for.
 
     
-*Are there any new hypotheses that you want to test? Any hypotheses that need updating?
+6. Are there any new hypotheses that you want to test? Any hypotheses that need updating?
 
 
 ###Step 4: Iterate:
@@ -263,7 +261,7 @@ Further, experiments also look quite different in the Empathy and Stickiness sta
 It's now time to roll up your sleeves and get to work on the experiments. Check out the remaining parts of this series to get started:
 
 
-*[Consumer startups [Part 2]: Getting to Empathy Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-2-getting-empathy-using-experiments/)
+* [Consumer startups Part 2: Getting to Empathy Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-2-getting-empathy-using-experiments/)
 
     
-*[Consumer startups [Part 3]: Getting to Stickiness Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-3-getting-stickiness-using-experiments/)
+* [Consumer startups Part 3: Getting to Stickiness Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-3-getting-stickiness-using-experiments/)
