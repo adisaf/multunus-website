@@ -4,8 +4,6 @@ date: '2016-03-15 18:44:24'
 tags:
 - cap-karthik
 - business
-wp:post_id: '6017'
-link: http://www.multunus.com/blog/2016/03/business-model-case-study-skype/
 ---
 
 Have you ever used Skype? or do you use it daily or at least once every week?.
@@ -26,10 +24,9 @@ Skype initially started as an instant messaging and a voice chat service. Later 
 [Comcast](https://en.wikipedia.org/wiki/Comcast). Skype user base grew significantly after the introduction of video calling. As on January 2016, there are 300 million active users.
 
 
-[![Interesting Facts about Skype](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Interesting-Facts-about-Skype.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Interesting-Facts-about-Skype.jpg)
+![Interesting Facts about Skype](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Interesting-Facts-about-Skype.jpg)
 
-[caption id="attachment_6022" align="alignnone" width="480"]
-[![ Images from beta version of Skype (Apr 2004)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Skype-beta-version.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Skype-beta-version.jpg) Images from beta version of Skype (Apr 2004)[/caption]
+![ Images from beta version of Skype (Apr 2004)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Skype-beta-version.jpg)
 
 
 ##Lean Canvas for Skype:
@@ -45,7 +42,9 @@ Below is a Lean Canvas that I have come up for Skype.
  
 
 
-[![Skype - Lean Canvas](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Skype-Lean-Canvas.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Skype-Lean-Canvas.jpg)The highlighted blocks in the Lean Canvas are the ones which in my opinion helped Skype to win over their competition and go ahead to revolutionize the communication industry. Though Skype didn’t have the first mover advantage, they did certain things differently.
+![Skype - Lean Canvas](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Skype-Lean-Canvas.jpg)
+
+The highlighted blocks in the Lean Canvas are the ones which in my opinion helped Skype to win over their competition and go ahead to revolutionize the communication industry. Though Skype didn’t have the first mover advantage, they did certain things differently.
 
 I have explained each block of Lean Canvas in detail below. If you are too eager to start on Lean Canvas for your business, log on to  
 [https://leanstack.com/](https://leanstack.com/).
@@ -59,10 +58,10 @@ I would suggest you to go through the entire post before jumping on to create yo
 Here're a few major problems that Skype tried to solve during its early days:
 
 
-*International calls were very costly. There was a heavy dependency on the network providers for communication.
+* International calls were very costly. There was a heavy dependency on the network providers for communication.
 
 
-*There wasn’t any application which provided instant file sharing system among online users. The users relied on emails for sending files.
+* There wasn’t any application which provided instant file sharing system among online users. The users relied on emails for sending files.
 
 According to a survey done by Canada’s National Statistical Agency, a Canadian household spent over 1,000 CAD per year on regular and mobile phone calls, in 2004.  In UK, an average household spent more than the double - £960 per year.
 
@@ -78,10 +77,10 @@ Skype promised to challenge the outdated business models and rip-off tactics of 
 There were two set of users Skype targeted:
 
 
-*Users who want to chat instantly with other online users for free (with family, friends or colleagues)
+* Users who want to chat instantly with other online users for free (with family, friends or colleagues)
 
     
-*Users who want to share files instantly and make free international voice calls for lesser cost than making phone calls
+* Users who want to share files instantly and make free international voice calls for lesser cost than making phone calls
 
 The early adopters that Skype targeted were individuals who were making international phone calls and spending significant amount of money for communicating outside their respective countries.
 
@@ -100,13 +99,13 @@ Skype’s high-level pitch was to provide the same call quality or even better f
 Skype designed its product to solve three distinct problems:
 
 
-*Making international calls cheaper (Computer to telephone calls)
+1. Making international calls cheaper (Computer to telephone calls)
 
     
-*Free international calls (Computer to computer calls)
+2. Free international calls (Computer to computer calls)
 
     
-*Easy file sharing system
+3. Easy file sharing system
 
 Skype voice chat allowed telephone calls between pairs of users and conference calling by using a proprietary audio 
 [codec](https://en.wikipedia.org/wiki/Codec). Skype earned a majority of its revenue from supporting for paid service such as calling mobiles/landlines from Skype (formerly called SkypeOut) and calling Skype from mobiles/landlines (currently known as Skype Number).
@@ -131,28 +130,28 @@ Initially, Skype relied on increasing the user base by word of mouth marketing. 
 Through partner program, Skype got access to millions of users who would otherwise be out of reach for a small startup. Below are few other partners which helped Skype to get more users during the initial years.
 
 
-*Logitech (US / Global)
+* Logitech (US / Global)
 
     
-*Bebo (US / Global)
+* Bebo (US / Global)
 
     
-*Salesforce.com (US)
+* Salesforce.com (US)
 
     
-*19  Radioshack (US)
+* 19  Radioshack (US)
 
     
-*El Corte Ingles (Spain)
+* El Corte Ingles (Spain)
 
     
-*Phillips (Dutch / Global)
+* Phillips (Dutch / Global)
 
     
-*Panasonic (US / Global)
+* Panasonic (US / Global)
 
     
-*Aftonbladet (Sweden)
+* Aftonbladet (Sweden)
 
 Credits: 
 [Master Thesis on, Skype: Reasons for growth by Nils Hammar](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjCxc6I3rXLAhVCPo4KHdiUACkQFghJMAc&url=http%3A%2F%2Farc.hhs.se%2Fdownload.aspx%3FMediumId%3D496&usg=AFQjCNGGNWjJrWkNNFxg93573sf0SUdaUA)
@@ -162,7 +161,7 @@ Apart from the partner program, Skype increased its user base by word of mouth m
 The unique value proposition of Skype and growing user base got them on all the leading business magazines. They got featured in Forbes Magazine in Feb 2004 edition.
 
 
-[![Testimonial for Skype](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-09-at-9.14.24-AM.png)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-09-at-9.14.24-AM.png)
+![Testimonial for Skype](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-09-at-9.14.24-AM.png)
 
 
 ##Revenues:
