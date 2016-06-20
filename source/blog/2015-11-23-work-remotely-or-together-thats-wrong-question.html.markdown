@@ -4,7 +4,6 @@ date: '2015-11-23 16:26:57'
 tags:
 - cap-vaidy
 - culture
-wp:post_id: '5753'
 link: http://www.multunus.com/blog/2015/11/work-remotely-or-together-thats-wrong-question/
 ---
 
@@ -18,9 +17,13 @@ At the office of Automattic - the company that makes and ships Wordpress and emp
 
 Is this because Automattic has a global workforce? And it’s just logistically easier (cheaper?) to have them work remotely rather than setup office spaces everywhere? Or is there more to it?
 
-Automattic is what you’d call a 
-[ROWE](https://en.wikipedia.org/wiki/ROWE) - a “Results Only Working Environment”. It doesn’t matter when or where you work - as long as you’re producing “Results”.#Which option or 
+Automattic is what you’d call a [ROWE](https://en.wikipedia.org/wiki/ROWE) - a “Results Only Working Environment”. It doesn’t matter when or where you work - as long as you’re producing “Results”.#Which option or 
 whose option? That is the question
+
+
+# Which option or ***whose*** option?
+
+# That is the question
 
 
 At Multunus however, we’ve been averse to remote work. We’ve believed that co-located teams end up being more close knit, have fewer communication gaps and are more productive. We were a strictly “no remote work” company until about 6 months ago.
@@ -34,27 +37,27 @@ It’s been 6 months since we left this choice to the team. The trend we’re se
 Some of the reasons for remote work:
 
 
-*Freedom to run errands near their home
+* Freedom to run errands near their home
 
     
-*Avoid traffic at least a couple of times a week
+* Avoid traffic at least a couple of times a week
 
     
-*Just work alone and get stuff done without getting pulled into meetings
+* Just work alone and get stuff done without getting pulled into meetings
 
 And for co-location:
 
 
-*Attend meetings face to face
+* Attend meetings face to face
 
     
-*Collaborate more closely with the team on tougher challenges
+* Collaborate more closely with the team on tougher challenges
 
     
-*Bond better with teammates
+* Bond better with teammates
 
     
-*Engage with the business better
+* Engage with the business better
 
 The impact? We don’t have a full office everyday because people come in when it works for them. That’s it. Nothing more. Nothing less.
 
@@ -73,8 +76,7 @@ We also spent precious time and energy in stressful conversations around why peo
 It was clear that people had the 
 intention to come in on time - but the work timings were not synced with their biological clock and productivity cycles.
 
-The more painful thing to admit was that the meetings were actually not very useful either. There was no agenda, no one was ever really prepared. 
-[Ad hoc meetings. The worst kind.](https://www.gv.com/lib/meetings-that-dont-suck)
+The more painful thing to admit was that the meetings were actually not very useful either. There was no agenda, no one was ever really prepared. [Ad hoc meetings. The worst kind.](https://www.gv.com/lib/meetings-that-dont-suck)
 
 
 #What matters most
@@ -108,16 +110,16 @@ That’s where great hiring comes in. Only hire the kind of people who can lever
 Remember:
 
 
-*They’ve got to be very good communicators - they should be able to write and speak very good English (or whichever language suits your team the best).
+* They’ve got to be very good communicators - they should be able to write and speak very good English (or whichever language suits your team the best).
 
     
-*They’ve also got to be energetic, honest and self-confident.
+* They’ve also got to be energetic, honest and self-confident.
 
     
-*Folks who know how to work in teams very well. Look for great listening skills. Equally importantly, look for folks who have high expectations from their teammates.
+* Folks who know how to work in teams very well. Look for great listening skills. Equally importantly, look for folks who have high expectations from their teammates.
 
     
-*Finally, have small teams and provide them with great tools to help them collaborate well. None of our teams are larger than 3-4 people and we use Slack, Trello and Skype heavily.
+* Finally, have small teams and provide them with great tools to help them collaborate well. None of our teams are larger than 3-4 people and we use Slack, Trello and Skype heavily.
 
 
 #Conclusion
