@@ -7,7 +7,6 @@ tags:
 - continuous-delivery
 - lean-startup
 - process
-wp:post_id: '5744'
 link: http://www.multunus.com/blog/2015/11/art-execution/
 ---
 
@@ -41,8 +40,7 @@ There are always times when you get stuck at a certain point where you need to d
 **Obstacle #3: Working on Multiple Tasks**
 
 
-Most people work on multiple tasks at the same time. You are in this imaginary world where you think you are getting so many things done at the same time. But the reality is you are going no where. This is the concept of WIP or "
-[Work-In-Progress](https://en.wikipedia.org/wiki/Work_in_process)". As you keep increasing the number of unfinished items that you're juggling, you'll find it much harder to make progress on any of them.
+Most people work on multiple tasks at the same time. You are in this imaginary world where you think you are getting so many things done at the same time. But the reality is you are going no where. This is the concept of WIP or "[Work-In-Progress](https://en.wikipedia.org/wiki/Work_in_process)". As you keep increasing the number of unfinished items that you're juggling, you'll find it much harder to make progress on any of them.
 
 
 **Lesson Learned:**
