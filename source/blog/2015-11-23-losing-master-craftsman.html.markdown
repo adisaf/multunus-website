@@ -4,7 +4,6 @@ date: '2015-11-23 16:07:45'
 tags:
 - cap-vaidy
 - culture
-wp:post_id: '5746'
 link: http://www.multunus.com/blog/2015/11/losing-master-craftsman/
 ---
 
@@ -17,9 +16,7 @@ This is a difficult topic to talk about. But I wanna share some key lessons from
 When we hire, we look for both skill fit and cultural fit - and Guru did well in both. So, what went wrong?
 
 
-**This**
-: We learned much later that he did 
-too well on the skill fit side.
+**This**: We learned much later that he did too well on the skill fit side.
 
 Read on.
 
@@ -58,10 +55,10 @@ The customer is always right, of course. And it was time for us to take a hard l
 We had been optimizing everything around just two key points:
 
 
-*Customer Success, and
+* Customer Success, and
 
     
-*Team Collaboration
+* Team Collaboration
 
 This works in 80-90% of situations. But for folks like Guru, that just doesn’t cut it.
 
@@ -71,11 +68,10 @@ We also need to know how to spot and recognize mastery when we come folks who de
 Here’s some changes we’re putting in place to move faster toward mastery:
 
 
-*Some people are better suited for Individual Contributor roles. We’re loosening our team structure to accommodate this fact.
+* Some people are better suited for Individual Contributor roles. We’re loosening our team structure to accommodate this fact.
 
     
-*Our new 
-[OKR’s](https://weekdone.com/resources/objectives-key-results) focus on acceleration toward the “pursuit of mastery” as a key objective. As a first step, we are experimenting with a 20% investment time for our team. This will mean a 20% decrease in our revenue but we believe it’ll be worth it in the longer term
+* Our new [OKR’s](https://weekdone.com/resources/objectives-key-results) focus on acceleration toward the “pursuit of mastery” as a key objective. As a first step, we are experimenting with a 20% investment time for our team. This will mean a 20% decrease in our revenue but we believe it’ll be worth it in the longer term
 
 
 **Conclusion**
