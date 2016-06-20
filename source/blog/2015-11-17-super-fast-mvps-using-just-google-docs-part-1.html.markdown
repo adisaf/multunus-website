@@ -5,7 +5,6 @@ tags:
 - cap-vaidy
 - lean-startup
 - process
-wp:post_id: '5711'
 link: http://www.multunus.com/blog/2015/11/super-fast-mvps-using-just-google-docs-part-1/
 ---
 
@@ -21,10 +20,10 @@ We love building quick prototypes with Google Docs and Trello. They’re both fr
 This post is about MoveIt. Ourtool, with a twist.
 
 
-Brain Power
+**Brain Power**
 
 
-I’m a neuroscience junkie. A[common recurring point](http://www.brainrules.net/exercise)in[brain research](http://brainblogger.com/2015/03/11/exercise-boosts-brain-power/)is the link between regular physical exercise and higher brain power. As a bonus, you also have some happy hormones that get released when you
+I’m a neuroscience junkie. A [common recurring point](http://www.brainrules.net/exercise)in[brain research](http://brainblogger.com/2015/03/11/exercise-boosts-brain-power/)is the link between regular physical exercise and higher brain power. As a bonus, you also have some happy hormones that get released when you
 
 
 If more exercise is gonna make us smarter, we wanted that in our team. Get everybody to exercise and then make everyone smarter instantly. And then get the big bucks.
@@ -33,22 +32,22 @@ If more exercise is gonna make us smarter, we wanted that in our team. Get every
 Okay, we got a bit carried away with all that excitement. But it was good, because fast forward 6 months, we’ve actually made some decent progress.
 
 
-The first MVP
+**The first MVP**
 
 
 We’re a software company. And we like to build stuff.
 
 
-Our problem: We wanted to start exercising. And we wanted to share our progress with everyone on team in a super easy way.
+**Our problem**: We wanted to start exercising. And we wanted to share our progress with everyone on team in a super easy way.
 
 
-The first step to solve that problem: Of course, we need to build an app to track the team’s progress. And, if we could squeeze in a GPS based tracker into it too, that would be awesome. Oh, and we also need this to be on both iOS and Android.
+**The first step to solve that problem**: Of course, we need to build an app to track the team’s progress. And, if we could squeeze in a GPS based tracker into it too, that would be awesome. Oh, and we also need this to be on both iOS and Android.
 
 
 [Like I said. We like to build stuff.]
 
 
-Total estimated effort: at least a week something basic out the door. And that’s if, this was thething our team was gonna work on.
+**Total estimated effort**: at least a week something basic out the door. And that’s if, this was thething our team was gonna work on.
 
 
 Could we wait a week and risk all the excitement of starting to exercise die? Since we like to build stuff, we almost said “Yes” to that question.
@@ -63,13 +62,13 @@ So, we created a Google spreadsheet instead - a much more lean way of doing thin
 Except of course it wasn’t. We met again a couple of days later, timidly opening up the spreadsheet to see a bunch of empty rows in there.
 
 
-But weto make this work.
+But we *had* to make this work.
 
 
-Thank you, Nike
+**Thank you, Nike**
 
 
-That’s when someone on the team shared about how great it was when the[Nike app](http://www.nike.com/us/en_us/c/running/nikeplus/gps-app)had run the charity campaign a few months earlier in Dec.
+That’s when someone on the team shared about how great it was when the [Nike app](http://www.nike.com/us/en_us/c/running/nikeplus/gps-app) had run the charity campaign a few months earlier in Dec.
 
 
 You did your bit by logging your running minutes in the app. And Nike donates a tiny bit of money to charity for each of those minutes.
@@ -90,7 +89,7 @@ We also needed a “leaderboard” with the total charity amount clearly display
 Besides it wasn’t like we were expending serious effort into tweaking the spreadsheet anyway.
 
 
-Traction! And then a slowdown. Kinda.
+**Traction! And then a slowdown. Kinda.**
 
 
 Traction is about growing your userbase in themarketplace.
@@ -123,13 +122,13 @@ Zooming in a bit more, it turns out that it’s not the easiest thing to pull ou
 We needed something that was simpler.
 
 
-Problem:We wanted a solution that would make allow us to log an exercise entry in less than a minute and thereby reduce friction to use the app.
+**Problem:** We wanted a solution that would make allow us to log an exercise entry in less than a minute and thereby reduce friction to use the app.
 
 
 We were now excited, once again. Could we scratch that “build an app” itch now?
 
 
-The hacknight. And the second MVP.
+**The hacknight. And the second MVP.**
 
 
 The fact that we could start using the spreadsheet within 10min of thinking about it, had changed us. For good.
@@ -141,7 +140,7 @@ Now, with that kind of instant gratification mindset embedded within us, could w
 That’s why we’ve got hacknights. All we needed to do was to bribe our team with pizzas and coke. We got together the next Fri evening and started to hack away.
 
 
-And by early Sat morning, we had an app. Not exactlygratification. But almost there.
+And by early Sat morning, we had an app. Not exactly *instant* gratification. But almost there.
 
 
 We got together on Monday and took another look at the app. Was it good enough to replace the spreadsheet? We were almost there.
@@ -151,7 +150,7 @@ It was at least good enough, for us to spend another couple of late evenings on 
 it (pun intended).
 
 
-Atool
+**A communication tool**
 
 
 Fast forward to today. It’s been 6 months since that hacknight.
@@ -160,7 +159,7 @@ Fast forward to today. It’s been 6 months since that hacknight.
 The app now has a decent bunch of features. Here’s some of the features it has: 
 
 
-[![MoveIt_Animated_Gif](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/11/MoveIt_Animated_Gif.gif)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/11/MoveIt_Animated_Gif.gif)
+![MoveIt_Animated_Gif](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/11/MoveIt_Animated_Gif.gif)
 
 
 Beyond the obvious benefit of being able to track and compete on our exercise minutes in a much easier way, we’ve now got a tool that allows us to “silently” communicate with each other - about how each of us is investing in our health. And how much we care about each other’s health.
@@ -169,32 +168,32 @@ Beyond the obvious benefit of being able to track and compete on our exercise mi
 And brain power. And making more money.
 
 
-Learnings
+**Learnings**
 
 
 Here’s our key learnings from this experience:
 
 
-*MVP’s are not a fad. They do work. They’re fantastic for getting quick feedback and for learning fromusers. We were able to speed up our rate of learning significantly using just the spreadsheet.
+* MVP’s are not a fad. They do work. They’re fantastic for getting quick feedback and for learning from *real* users. We were able to speed up our rate of learning significantly using just the spreadsheet.
 
-*We knew that the single biggest problem we had was ease of accessibility of the app itself and not really about motivating our team to exercise. So that’s what we focused on when building the initial app prototype.
-
-    
-*[Timeboxing](https://en.wikipedia.org/wiki/Timeboxing)is a great tool for reducing scope of the prototype and making sure it the team does not get into analysis paralysis and fall prey to[feature creep](https://en.wikipedia.org/wiki/Feature_creep). We used that successfully for both the:
-
-*Initial spreadsheet prototype (timeboxed to just 10 min) and also for the,
+  * We knew that the single biggest problem we had was ease of accessibility of the app itself and not really about motivating our team to exercise. So that’s what we focused on when building the initial app prototype.
 
     
-*App prototype (a working app was due at the end of the hacknight - which lasted about 6 hours)
+* [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) is a great tool for reducing scope of the prototype and making sure it the team does not get into analysis paralysis and fall prey to [feature creep](https://en.wikipedia.org/wiki/Feature_creep). We used that successfully for both the:
+
+  * Initial spreadsheet prototype (timeboxed to just 10 min) and also for the,
 
     
-*It’s much easier to get a team motivated to get together to spend some extra effort building something that has traction. So, the idea is to keep going from one MVP to the next, as quickly as you can, getting real feedback from the market at each stage. Every dev team loves this kind of real feedback.
+  * App prototype (a working app was due at the end of the hacknight - which lasted about 6 hours)
+
+    
+* It’s much easier to get a team motivated to get together to spend some extra effort building something that has traction. So, the idea is to keep going from one MVP to the next, as quickly as you can, getting real feedback from the market at each stage. Every dev team loves this kind of real feedback.
 
 
-The upcoming posts
+**The upcoming posts**
 
 
-The next 2 posts in the series will talk about how we used Google Spreadsheets and Trello to not just build prototypes, but actually full fledgedthat we’re using on a daily basis within Multunus.
+The next 2 posts in the series will talk about how we used Google Spreadsheets and Trello to not just build prototypes, but actually full fledged *applications* that we’re using on a daily basis within Multunus.
 
 
 Stay tuned.
