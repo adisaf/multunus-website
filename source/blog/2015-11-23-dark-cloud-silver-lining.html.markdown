@@ -4,15 +4,13 @@ date: '2015-11-23 16:05:50'
 tags:
 - cap-vaidy
 - culture
-wp:post_id: '5748'
 link: http://www.multunus.com/blog/2015/11/dark-cloud-silver-lining/
 ---
 
 [Photo credits: haRee](https://www.flickr.com/people/hb2/)
 
 One of our more challenging consulting assignments was to build a Mobile Device Management (MDM) solution from the ground up. It’s a network of 
-**5000+ devices**
- - android tablets and linux based video players, installed across the US in hundreds of cities.
+**5000+ devices**- android tablets and linux based video players, installed across the US in hundreds of cities.
 
 These devices would be loaded with health content and installed at health clinics - mostly educational videos about specific ailments. And patients consume this content when they visit these clinics.
 
@@ -22,14 +20,11 @@ We built the software that allowed anyone to control these devices remotely. It 
 
 
 [![MDM](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/11/MDM.png)](https://www.youtube.com/watch?v=xfpxOCI8dlc)
-​
 
 **A suspicious “Virus”**
 
 
-Things were going well, when one day, we got a 
-**Red Alert**
- email from our customer. Some of the devices were not accessible from the command centre. This kind of problem usually corrected itself, when the internet connection at the clinic got back to normal.
+Things were going well, when one day, we got a **Red Alert** email from our customer. Some of the devices were not accessible from the command centre. This kind of problem usually corrected itself, when the internet connection at the clinic got back to normal.
 
 But this time it was different. It was almost like a virus - spreading across the entire network, one device at a time.
 
@@ -60,7 +55,9 @@ This is not a great story. It didn’t end well. We worked round the clock that 
 That was not a fun week. None of the usual banter and humor that you’d otherwise see. But there was also no finger pointing. No arguments. No grumbling. Just silent work.
 
 
-![Serenity](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/11/9711009229_52ec1ef0c0_b-1024x674.jpg)[Photo Credits: David Yu](https://www.flickr.com/photos/davidyuweb/)
+![Serenity](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/11/9711009229_52ec1ef0c0_b-1024x674.jpg)
+
+[Photo Credits: David Yu](https://www.flickr.com/photos/davidyuweb/)
 
 And this is what we’d like to call teamwork. Resilience in the face of intense adversity. The maturity to empathize with your team members and take collective responsibility. To help everyone focus on the job at hand. To introspect silently.
 
