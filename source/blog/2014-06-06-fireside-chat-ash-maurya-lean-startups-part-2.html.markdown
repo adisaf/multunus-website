@@ -6,7 +6,6 @@ tags:
 - community
 - lean-startup
 - process
-wp:post_id: '4822'
 link: http://www.multunus.com/blog/2014/06/fireside-chat-ash-maurya-lean-startups-part-2/
 ---
 
@@ -22,11 +21,9 @@ My question is with respect to the customers that you have been working with and
 
 
 **Ash:**
- Yeah, and so I would say that maybe I will give some comments on the whole 10x model. I actually recommend raising sign-up friction against lowering sign-up friction. If you ever have a kid, like a 5 year old or something, you can tell her 
-not to go into that room, they want to go into that room even more. So if you actually tell them they can't have the product they actually want it more. I've seen this in the past.
+ Yeah, and so I would say that maybe I will give some comments on the whole 10x model. I actually recommend raising sign-up friction against lowering sign-up friction. If you ever have a kid, like a 5 year old or something, you can tell her *not* to go into that room, they want to go into that room even more. So if you actually tell them they can't have the product they actually want it more. I've seen this in the past.
 
-People start asking me, at a very high level, what I'm doing and offer to be a beta user. 
-We don't want beta users. We want just customers and that changes the conversation. So I think that's just something to throw out there.
+People start asking me, at a very high level, what I'm doing and offer to be a beta user. We don't want *beta users*. We want just *customers* and that *changes the conversation*. So I think that's just something to throw out there.
 
 But, I would say that as far as adoption goes, yes this is definitely at the infancy stage which is why I engage people at many different levels. There are people who just read the book and read the blog and they take what they want out from it and there's a process. So, a lot of stuff sounds very simple and some of the things 
 are simple, like if you have an idea, instead of spending six months writing an iPhone app, you can actually just build the demo, put up a landing page - see if anyone will even say they're interested.
@@ -36,8 +33,9 @@ So people get very excited when they go through those kind of things. But at som
 So I find that there are levels where people come and practise a lot of these things and they'll try different tactics but it's still at that jolting phase. Now there are workshops and camps where the idea is to have a more deliberate process so it's common to understand the concepts, take your startup idea or growth product and have you apply it in every week, design experiments, come back with a learning and if you get stuck talk about how we can get it restarted. So I think that has had a much bigger impact just from the people I work with.
 
 
-[![DSC_0085](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/04/DSC_0085-300x209.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/04/DSC_0085.jpg)          
-[![DSC_0095](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/04/DSC_0095-300x197.jpg)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/04/DSC_0095-e1402987260314.jpg)
+![DSC_0085](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/04/DSC_0085-300x209.jpg)
+
+![DSC_0095](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/04/DSC_0095-300x197.jpg)]
 
 
 **Vaidy:**
@@ -55,8 +53,7 @@ So Customer Factory was not a book first, it was really just an idea - a picture
 
 But that's this process of incremental validation - if I get encouragement here then I go to the next level, which may be a blogpost, and so I've done some blogposts on Customer Factory and before I even announced the book I just shared the idea as a business model, as a system, and that got a lot of positive feedback and then I will come out and decide, okay, I'm gonna write this product and let's see - will people even want a second book?
 
-So it's very much the same exact process and so I'm going through the same process of 
-[Running Lean](http://runninglean.co/), but in some ways on a different scale, because now, and this is where some of the bigger companies always ask - well we have a brand to protect and lean stuff makes us look like fools if we don't build the right product. That's where this kind of incremental reveal and also not committing to doing something before you are ready to do it helps. So it's the same thing but I'm being a little bit more deliberate in how I'm releasing the content this time.
+So it's very much the same exact process and so I'm going through the same process of [Running Lean](http://runninglean.co/), but in some ways on a different scale, because now, and this is where some of the bigger companies always ask - well we have a brand to protect and lean stuff makes us look like fools if we don't build the right product. That's where this kind of incremental reveal and also not committing to doing something before you are ready to do it helps. So it's the same thing but I'm being a little bit more deliberate in how I'm releasing the content this time.
 
 
 **Vaidy:**
@@ -79,8 +76,7 @@ So even like I would talk about this Lean Stack thing. So we have this Lean Canv
 
 The current one is the better version, so right now we have a latest version that we like, but from experience I would say that may not be the one that's going to stay there. So I talk about this late-finding - I talk about having a big vision but you wanna late-find a solution to it as late as possible so as to understand the problem really well, throw out a few possible solutions, and you're gonna iterate on that till you come up with that final solution.
 
-So if you've an idea as the lean stack, if you were in software we would say it's faster to build this thing in software so let's just build it, and inevitably in software it 
-always takes longer than you expect. So it took us two months to build instead of a month and after we built it it was the wrong thing so we ended up killing that feature. This stuff doesn't really work.
+So if you've an idea as the lean stack, if you were in software we would say it's faster to build this thing in software so let's just build it, and inevitably in software it *always* takes longer than you expect. So it took us two months to build instead of a month and after we built it it was the wrong thing so we ended up killing that feature. This stuff doesn't really work.
 
 
 **Vaidy:**
