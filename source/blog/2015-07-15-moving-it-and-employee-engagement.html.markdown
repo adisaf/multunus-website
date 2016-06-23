@@ -10,8 +10,6 @@ tags:
 link: http://www.multunus.com/blog/2015/07/moving-it-and-employee-engagement/
 ---
 
-![Engaged Employee](http://www.multunus.com/wp-content/uploads/2015/07/EE-Blog-Posg1.jpg)
-
 ![Engaged employee](http://www.multunus.com/wp-content/uploads/2015/07/EE-Blog-Posg1.jpg)
 
 Let’s begin with the story of *Moving It...*

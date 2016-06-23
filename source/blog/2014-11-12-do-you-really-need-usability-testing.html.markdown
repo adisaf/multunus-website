@@ -13,8 +13,6 @@ link: http://www.multunus.com/blog/2014/11/do-you-really-need-usability-testing/
 
 ![Should you do usability testing on a perfect design?](http://www.multunus.com/wp-content/uploads/2014/11/1.jpg)
 
-![Should you do usability testing on a perfect design?](http://www.multunus.com/wp-content/uploads/2014/11/1.jpg)
-
 One of our customers is the [IntersectFund](http://intersectfund.org). They are a nonprofit microlender who have trained, coached and financed hundreds of New Jersey's emerging entrepreneurs from lower income groups.
 
 
