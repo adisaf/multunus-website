@@ -11,6 +11,8 @@ tags:
 link: http://www.multunus.com/blog/2014/03/experience-rubyconf-india-2014/
 ---
 
+![Jerry During Lightning Talk](http://www.multunus.com/wp-content/uploads/2014/03/ii_14507c4d213f194a.jpeg)
+
 A congregation of Rubyists would be a great place for any Ruby programmer to be. Have the same by the beach, and it becomes a dream. It was like a dream come true when it was announced that [RubyConf India of 2014](http://rubyconfindia.org/2014/) would be held in beach resort town of [Goa](http://en.wikipedia.org/wiki/Goa). Before we move on, please allow me to apologize for the poor image quality of some of the images.
 
 The conference was scheduled for the weekend of March 22, 2014. We arrived in Goa on Friday and were checked in at 

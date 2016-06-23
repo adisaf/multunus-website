@@ -7,6 +7,8 @@ tags:
 - culture
 link: http://www.multunus.com/blog/2014/10/difficult-job-building-trust-huh/
 ---
+
+![3-JSFoo MLR Entrance](http://www.multunus.com/wp-content/uploads/2014/09/3-JSFoo-MLR-Entrance.jpg)
 ![3-JSFoo MLR Entrance](http://www.multunus.com/wp-content/uploads/2014/09/3-JSFoo-MLR-Entrance.jpg)
 
 We all know building trust is very difficult. Now what’s more difficult than that? Take a minute to silently wonder. Now that you have an answer in your mind, read on to know what we think -

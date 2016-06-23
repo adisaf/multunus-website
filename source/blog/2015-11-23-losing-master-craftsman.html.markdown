@@ -7,6 +7,8 @@ tags:
 link: http://www.multunus.com/blog/2015/11/losing-master-craftsman/
 ---
 
+![losing-a-master-craftsman](http://www.multunus.com/wp-content/uploads/2015/11/4385681932_5c5c9a578b_o.jpg)
+
 [Photo Credits: Abhishek Sarda](https://www.flickr.com/photos/reallynuts/)
 
 Early last year we hired one of the brightest guys we’d seen in a long time. And then lost him just 12 months later. Let’s call him Guru.

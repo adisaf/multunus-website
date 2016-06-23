@@ -8,6 +8,8 @@ wp:post_id: '4144'
 link: http://www.multunus.com/blog/2013/03/how-we-chose-our-kanban-tool/
 ---
 
+![kanbanpng](http://www.multunus.com/wp-content/uploads/2014/01/kanbanpng.png)
+
 **Update: We moved to Trello**
 
 We looked at 

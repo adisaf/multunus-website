@@ -9,6 +9,8 @@ wp:post_id: '4153'
 link: http://www.multunus.com/blog/2012/01/a-sneak-peek-into-mobile-app-opportunities-in-2012/
 ---
 
+![mobile](http://www.multunus.com/wp-content/uploads/2012/01/mobile.png)
+
 This article was originally written by me for 
 [yourstory.in](http://yourstory.in/2011/12/a-sneak-peek-into-mobile-app-opportunities-in-2012/). But this version is more “complete” with all of the original links in place.
 

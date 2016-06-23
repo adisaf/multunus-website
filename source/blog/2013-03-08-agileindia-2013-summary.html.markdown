@@ -8,6 +8,8 @@ wp:post_id: '4145'
 link: http://www.multunus.com/blog/2013/03/agileindia-2013-summary/
 ---
 
+![agileindia2013](http://www.multunus.com/wp-content/uploads/2014/01/agileindia20131.jpg)
+
 This is the summary about the recently concluded 
 [Agile India Conference 2013](http://2013.agileindia.org/).
 This gave me a chance to interact with great legends and leaders of software industry such as

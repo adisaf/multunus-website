@@ -6,6 +6,8 @@ tags:
 - culture
 link: http://www.multunus.com/blog/2015/11/dark-cloud-silver-lining/
 ---
+
+![unnamed](http://www.multunus.com/wp-content/uploads/2015/11/unnamed.jpg)
 ![](http://www.multunus.com/wp-content/uploads/2015/11/unnamed.jpg)
 
 [Photo credits: haRee](https://www.flickr.com/people/hb2/)

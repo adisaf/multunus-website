@@ -9,6 +9,8 @@ wp:post_id: '4157'
 link: http://www.multunus.com/blog/2011/10/simple-image-filter-using-opengl-es-in-android/
 ---
 
+![Opengl](http://www.multunus.com/wp-content/uploads/2014/01/Opengl.png)
+
 **Note**
 : This post assumes some basic knowledge in setting up an OpenGL app in Android. A basic example for rendering a texture on to a surface can be found
 

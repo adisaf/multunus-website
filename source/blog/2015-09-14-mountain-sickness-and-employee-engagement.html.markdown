@@ -8,6 +8,8 @@ tags:
 link: http://www.multunus.com/blog/2015/09/employee-engagement-moving-part-2/
 ---
 
+![Measuring Employee Engagement](http://www.multunus.com/wp-content/uploads/2015/08/Employee-Engagement-Part-2.jpg)
+
 This is the part 2 of the blog post series on Employee Engagement [[find part 1 here](http://www.multunus.com/blog/2015/07/moving-it-and-employee-engagement/)].
 
 

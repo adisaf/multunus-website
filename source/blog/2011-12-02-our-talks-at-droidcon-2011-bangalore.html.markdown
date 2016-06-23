@@ -9,6 +9,8 @@ wp:post_id: '4154'
 link: http://www.multunus.com/blog/2011/12/our-talks-at-droidcon-2011-bangalore/
 ---
 
+![vaidy-leena](http://www.multunus.com/wp-content/uploads/2011/12/vaidy-leena.png)
+
 We spoke at Droidcon, Bangalore that happened on Nov 18th and 19th. We had two interesting talks on both days.**[1. Continuous Delivery for an Android application](http://funnel.hasgeek.com/droidcon/83-continuous-delivery-for-an-android-application)**
 
 

@@ -12,6 +12,8 @@ link: http://www.multunus.com/blog/2014/09/using-google-hangouts-air-remote-usab
 
 ![Remote Usability Testing](http://www.multunus.com/wp-content/uploads/2014/09/6963131702_a1037a4a0f_b-e1410934533354.jpg)
 
+![Remote Usability Testing](http://www.multunus.com/wp-content/uploads/2014/09/6963131702_a1037a4a0f_b-e1410934533354.jpg)
+
 *Convenience* is one of the key advantages of Remote Usability Testing. You don't need to get the participant in-house and it works especially well when your users are spread across different locations.
 
 But that could just turn around if your tools start to give-up on you. With remote testing, you now have 2 points of failure - participant's and your's. There could be restrictions on installing new software on the participants machine and problems with setting up the microphone and internet issues could easily gobble up the allotted time.

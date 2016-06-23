@@ -10,6 +10,8 @@ tags:
 link: http://www.multunus.com/blog/2015/10/mfi-and-financial-inclusions/
 ---
 
+![A_business_in_South_Sudan_benefiting_from_microfinance_(6189731244)](http://www.multunus.com/wp-content/uploads/2015/10/A_business_in_South_Sudan_benefiting_from_microfinance_6189731244.jpg)
+
 ![](http://www.multunus.com/wp-content/uploads/2015/10/A_business_in_South_Sudan_benefiting_from_microfinance_6189731244.jpg)
 
 Announcement was …. “The Nobel Peace Prize 2006 is divided into two equal parts to Muhammad Yunus and Grameen Bank..”
