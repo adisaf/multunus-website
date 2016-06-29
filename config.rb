@@ -84,3 +84,6 @@ configure :build do
   activate :asset_hash
   activate :asset_host, host: '//d3s6qnjdf1sx4b.cloudfront.net', rewrite_ignore: ["*.js"]
 end
+
+# Git-flavoured emoji support.
+activate :gemoji, :size => 20, :style => "vertical-align: middlele", :emoji_dir => "images/emoji"

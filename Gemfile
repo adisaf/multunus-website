@@ -22,3 +22,4 @@ gem 'font-awesome-middleman'
 # For feed.xml.builder
 gem 'builder', '~> 3.2', '>= 3.2.2'
 gem 'middleman-disqus'
+gem 'middleman-gemoji'
