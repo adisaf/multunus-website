@@ -29,7 +29,7 @@ The event kicked off with a welcome note from the organizing committee followed 
 
 ![A moment of silence for Jim Weirich](http://www.multunus.com/wp-content/uploads/2014/03/@headius.jpg)
 
-*A moment of silence for Jim Weirich*
+* A moment of silence for Jim Weirich* 
 
 There were a couple of interesting talks during the day. One of my favorites was a [presentation](https://speakerdeck.com/aspleenic/ruby-groups-act-locally-think-globally) by PJ Hagerty on Ruby groups. He put on a pleasant combination of facts and humor that managed to pull in everyone from the audience, or at least me for that matter, into the essence of his talk. His talk was about regional Ruby groups, his experiences, his opinion on diversity of the members participating and his thoughts on events hosted by the groups.
 
@@ -41,7 +41,7 @@ The lightning talks were followed by the most interesting part of the day - the 
 
 ![The Hotel](http://www.multunus.com/wp-content/uploads/2014/03/@mariovisic_2.jpg) 
 
-*The Hotel*
+* The Hotel* 
 
 Most of the participants turned up late the next morning due to obvious reasons. But once again, seemingly miraculously, someone had predicted the scenario and the day was set to begin only at 10.00 AM.
 

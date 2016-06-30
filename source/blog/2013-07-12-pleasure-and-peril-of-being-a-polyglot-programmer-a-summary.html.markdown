@@ -25,13 +25,13 @@ But as it turns out languages are deeply tied to cultures and cultures lead to i
 
 Programming languages are not general-purpose anymore. We need to use different languages to solve different problems.
 
-For example:*files => use xml
+For example:* files => use xml
 
     
-*data => use big data
+* data => use big data
 
     
-*concurrency => many languages support
+* concurrency => many languages support
 
 Nowadays, all the machines come with multi-cores. So in order to fully utilize these, the programming languages should support concurrency.
 

@@ -7,7 +7,7 @@ tags:
 - process
 ---
 
-*“Diversity and independence are important because the best collective decisions are the product of disagreement and contest, not consensus or compromise.”*
+* “Diversity and independence are important because the best collective decisions are the product of disagreement and contest, not consensus or compromise.”* 
 
 ―[James Surowiecki](https://en.wikipedia.org/wiki/James_Surowiecki),[The Wisdom of Crowds](http://www.amazon.com/The-Wisdom-Crowds-James-Surowiecki/dp/0385721706)
 
@@ -21,29 +21,29 @@ To recap, an Impact map leverages the wisdom of crowds.This also brings in the a
 In this post, I will explain how we created an impact map for a product that we are building in the Mobile Device Management [MDM] space. The high-level structure of the post is the two-session  approach of Impact Mapping i.e.
 
 
-* Session 1: Preparation
+*  Session 1: Preparation
 
-  * Step 1: Discover real goals
-
-    
-  * Step 2: Define good measurements
+  *  Step 1: Discover real goals
 
     
-  * Step 3: Plan your first milestone.
-
-
-*  Session 2: Mapping
-
-  * Step 1: Draw the Map Skeleton
+  *  Step 2: Define good measurements
 
     
-  * Step 2: Find Alternatives
+  *  Step 3: Plan your first milestone.
+
+
+*   Session 2: Mapping
+
+  *  Step 1: Draw the Map Skeleton
 
     
-  * Step 3: Identify Key Priorities
+  *  Step 2: Find Alternatives
 
     
-  * Step 4: Earn or Learn
+  *  Step 3: Identify Key Priorities
+
+    
+  *  Step 4: Earn or Learn
 
 
 I am not going into the details about Mobile Device Management [MDM].[Read this post on the same](http://www.multunus.com/blog/2015/11/overview-mdm-landscape/), if you are keen to know more about MDM.
@@ -59,16 +59,16 @@ Our customer,[The district development officer @ Sabarkantha, Gujarat](http://sa
 These Android devices, which are distributed to the health workers, contain educational content [mainly Videos and Presentations] to create awareness among the villagers about:
 
 
-* Malnutrition
+*  Malnutrition
 
     
-* Child Mortality
+*  Child Mortality
 
     
-* Women Mortality
+*  Women Mortality
 
     
-* Vaccinations
+*  Vaccinations
 
 
 Along with showing these content to the villagers, the health workers collect the health data using “data collection apps”, which are installed on the device. The data later gets synced to the cloud for further analysis by medical officers within the Health Department.
@@ -83,25 +83,25 @@ But as the number of devices increased, the officers started facing issues with 
 The MDM space is so vast and has a set of predefined features for remote management of devices which includes:
 
 
-* Installing/Updating apps
+*  Installing/Updating apps
 
     
-* Managing the content
+*  Managing the content
 
     
-* Enable Security policies [Pin, Lock timeout etc.]
+*  Enable Security policies [Pin, Lock timeout etc.]
 
     
-* Whitelisting of applications
+*  Whitelisting of applications
 
     
-* Tracking App usage
+*  Tracking App usage
 
     
-* Location Tracking
+*  Location Tracking
 
     
-* Resource monitoring of the apps
+*  Resource monitoring of the apps
 
 
 To understand which of these needs to be built first, we started asking the questions [the recommended[5 Whys](https://en.wikipedia.org/wiki/5_Whys)technique] and we learned many things which are very important.
@@ -112,7 +112,7 @@ To understand which of these needs to be built first, we started asking the ques
 
 Let’s see an example conversation.
 
-* **Nagarajan**: We need to have a registry of devices
+*  **Nagarajan**: We need to have a registry of devices
 
 **Me**: Why?
 
@@ -132,16 +132,16 @@ Let’s see an example conversation.
 These conversations helped us to understand that the biggest problem is that **not enough data gets synced to the cloud**for analysis and with ~500 devices in the field it’s becoming a huge problem for them to managing and tracking the devices. To be precise the major problems are:
 
 
-* **Track device usage**: No system for tracking of device status
+*  **Track device usage**: No system for tracking of device status
 
     
-* **Track app usage**: No system to know whether the “data collection apps” are indeed used by the workers
+*  **Track app usage**: No system to know whether the “data collection apps” are indeed used by the workers
 
     
-* **Instant Content Update**: Content update on the device is very time-consuming
+*  **Instant Content Update**: Content update on the device is very time-consuming
 
     
-* **Remote App Management**: Process to install / update apps is time-consuming
+*  **Remote App Management**: Process to install / update apps is time-consuming
 
 
 ##Preparation Step 2: Define good measurements
@@ -154,19 +154,19 @@ Once you identify the goals, you need to define good measurements to have clarit
 [Gojko Adzic](https://gojko.net/), the author, refers to a good milestone as the one which answers the questions below:
 
 
-* What we’ll measure [**Scale**]
+*  What we’ll measure [**Scale**]
 
     
-* How we’ll measure [**Meter**]
+*  How we’ll measure [**Meter**]
 
     
-* What is the situation right now [**Benchmark**]
+*  What is the situation right now [**Benchmark**]
 
     
-* The investment [**Constraint**]
+*  The investment [**Constraint**]
 
     
-* The desired value [**Target**]
+*  The desired value [**Target**]
 
 
 [Credit:](http://www.amazon.com/Competitive-Engineering-Handbook-Requirements-Planguage/dp/0750665076)[Competitive Engineering, Tom Glib](https://en.wikipedia.org/wiki/Tom_Gilb)
@@ -185,10 +185,10 @@ As mentioned above, these workers are “non-tech savvy” people. Even though t
 But the medical officers felt that even in areas with decent connectivity, data collection was not sufficient. They had multiple assumptions:
 
 
-* The workers install too many apps on the device, which drains the battery and makes the device slow.
+*  The workers install too many apps on the device, which drains the battery and makes the device slow.
 
     
-* Because of some UX issues with the apps, some workers get confused and don’t use the same as expected.
+*  Because of some UX issues with the apps, some workers get confused and don’t use the same as expected.
 
 
 Keeping the above in mind, we created the following measurements:
@@ -217,10 +217,10 @@ It is recommended to concentrate on one goal at a time rather than partially con
 As mentioned above, the priority is among the two categories of problems:
 
 
-* Tracking:Tracking device and app usage in the device
+*  Tracking:Tracking device and app usage in the device
 
     
-* Remote Control:Managing the device remotely [eg: installing Apps, updating content remotely]
+*  Remote Control:Managing the device remotely [eg: installing Apps, updating content remotely]
 
 
 So we felt that it’s good to concentrate on Tracking problem first and **learn the usage pattern** before bringing in any kind of remote control. This data can help us to implement the right kind of remote management system.
@@ -251,19 +251,19 @@ Usually, every team will have a backlog of features, which[Gojko Adzic](https://
 In this section, we will be mainly answering the below questions.
 
 
-* **Why**
+*  **Why**
  are we doing this?
 
     
-* **Who**
+*  **Who**
  will help or disrupt us from achieving it?
 
     
-* **How**
+*  **How**
  will they help?
 
     
-* **What**
+*  **What**
  can they do to help?
 
 
@@ -287,25 +287,25 @@ As the next step, we identified the “Who” of the impact map, which is the fi
 We answered the below questions:
 
 
-* Who can produce the desired effect?
+*  Who can produce the desired effect?
 
-* Health Workers - by using the device and the apps
-
-    
-* Medical Officers - By providing the Health Workers appropriate training
+*  Health Workers - by using the device and the apps
 
     
-* Who can obstruct it?
-
-* Network Providers - through bad network
+*  Medical Officers - By providing the Health Workers appropriate training
 
     
-* App Developers - Through bad UX
+*  Who can obstruct it?
+
+*  Network Providers - through bad network
 
     
-* Who will be impacted with it?
+*  App Developers - Through bad UX
 
-* The villagers - Better awareness for them about health
+    
+*  Who will be impacted with it?
+
+*  The villagers - Better awareness for them about health
 
 
 **How**
@@ -314,13 +314,13 @@ We answered the below questions:
 Every impact should result in behavior change of the users. The next level is to answer what is the impact we are going to create by achieving this goal. The specific questions we answered were:
 
 
-* How should the goal change the actors’ behavior?
+*  How should the goal change the actors’ behavior?
 
     
-* How can actors’ help us in achieving the goal?
+*  How can actors’ help us in achieving the goal?
 
     
-* How can actors’ prevent us from achieving the goal?
+*  How can actors’ prevent us from achieving the goal?
 
 
 [![How ](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/image05-1024x390.png)](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/image05.png)
@@ -333,13 +333,13 @@ Every impact should result in behavior change of the users. The next level is to
 Once you’ve a skeleton map, use the[Diverge and Converge of the design thinking](http://sloanreview.mit.edu/article/diverge-before-you-converge-tips-for-creative-brainstorming/)to get as many ideas as possible. Ask the below questions to help the team focus on the actors and the impacts.
 
 
-* What else could the actors do for us?
+*  What else could the actors do for us?
 
     
-* Who else can help us and how?
+*  Who else can help us and how?
 
     
-* Who can obstruct us?
+*  Who can obstruct us?
 
 
 Timebox this session to 20 minutes.
@@ -362,13 +362,13 @@ This is the updated map with the ideas we brainstormed.
 Once you’ve as many alternates identified, now it’s time for prioritising the same. Use the below questions for having discussions among the members:
 
 
-* What are the possible obstructions which can stop us before we start?
+*  What are the possible obstructions which can stop us before we start?
 
     
-* Are there any high-value long-hanging impacts?
+*  Are there any high-value long-hanging impacts?
 
     
-* What are the key assumptions to test?
+*  What are the key assumptions to test?
 
 
 If it becomes harder to decide, use the techniques [dot-voting](http://martinfowler.com/bliki/DotVoting.html) or [virtual cash](https://www.scrumalliance.org/community/articles/2009/february/priority-markets) for making decisions.
@@ -383,7 +383,7 @@ Usecolor codingto differentiate among different categories eg: red for obstructi
 
 We used the voting mechanism for prioritisation as follows:
 
-![Alternatives](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/image04-1024x740.png) [Note: * represents the votes]
+![Alternatives](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/image04-1024x740.png) [Note: *  represents the votes]
 
 
 ##Mapping Step 4: Earn or Learn
@@ -393,13 +393,13 @@ We used the voting mechanism for prioritisation as follows:
 In this step, start discussing the deliverables. Define the budget which can be either the maximum budget or length of the tasks. Come up with creative ways to validate the assumptions. Ask the following questions:
 
 
-* What is the simplest way to test this?
+*  What is the simplest way to test this?
 
     
-* Could we test it without software?
+*  Could we test it without software?
 
     
-* Could we start earning with a partially manual process?
+*  Could we start earning with a partially manual process?
 
 
 Try using [Jeff Patton’s User story mapping](http://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909) to slice the deliverables in an iterative way.
@@ -412,10 +412,10 @@ Try using [Jeff Patton’s User story mapping](http://www.amazon.com/User-Story-
 The above questions helped us to prioritise better. We decided to have two releases:
 
 
-* First enrol the devices into the MDM system
+*  First enrol the devices into the MDM system
 
     
-* Then start tracking the app usage
+*  Then start tracking the app usage
 
 
 ![Earn or Learn](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/03/image03-1024x639.png)
@@ -434,16 +434,16 @@ We decided to hold on alerts for low usage and decided that for starters, one of
 To use impact map as a delivery roadmap, you will need to include the metrics too into the map so that all the key information are available at a single place. You can try any of the below ways to fit the metrics into the map.
 
 
-* Add the metrics as bullet points
+*  Add the metrics as bullet points
 
     
-* Rephrase the nodes to include the metrics
+*  Rephrase the nodes to include the metrics
 
     
-* Separate metrics table - This will be outside of the map. You can divide the white table into two sections, one for the map and another for the metrics
+*  Separate metrics table - This will be outside of the map. You can divide the white table into two sections, one for the map and another for the metrics
 
     
-* Add metrics as additional nodes
+*  Add metrics as additional nodes
 
 
 Note that in the example above, I’ve 

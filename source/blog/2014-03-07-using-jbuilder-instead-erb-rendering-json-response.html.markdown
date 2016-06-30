@@ -12,11 +12,11 @@ link: http://www.multunus.com/blog/2014/03/using-jbuilder-instead-erb-rendering-
 When building JSON APIs for Rails applications, we used to build it using the following methods:
 
 
-*respond_toblock and 
+* respond_toblock and 
 as_json in the controller or model
 
     
-*By hand crafting the JSON response in our ERB view templates
+* By hand crafting the JSON response in our ERB view templates
 
 
 But as these applications grew, the JSON APIs used in these applications became complex and we found these methods to be inefficient. Hence we started looking for alternatives and that is when we considered [Jbuilder](https://github.com/rails/jbuilder).
@@ -150,7 +150,7 @@ All these make Jbuilder a very good alternative to some of the traditional metho
 **References**
 
 
-*[https://github.com/rails/jbuilder](https://github.com/rails/jbuilder)
+* [https://github.com/rails/jbuilder](https://github.com/rails/jbuilder)
 
     
-*[http://railscasts.com/episodes/320-jbuilder?view=asciicast](http://railscasts.com/episodes/320-jbuilder?view=asciicast)
+* [http://railscasts.com/episodes/320-jbuilder?view=asciicast](http://railscasts.com/episodes/320-jbuilder?view=asciicast)

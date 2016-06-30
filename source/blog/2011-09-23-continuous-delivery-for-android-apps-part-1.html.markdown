@@ -37,10 +37,10 @@ key.alias.password=[pw2]
 You can generate the key file using keytoool or you can generate the key file from eclipse. Run the command  ant clean release, which will compile the files, and generate the apk files (it generates signed, unsigned and unaligned files). The signed version can be used for uploading to Android Market or for installing directly on any device. Couple of stuff to be noted here are:
 
 
-*Ant version has to be 1.8.0 or higher.
+* Ant version has to be 1.8.0 or higher.
 
     
-*Put the external libraries in the libs directory. Build script automatically picks up the libraries put under libs directory, otherwise the script need to be changed to look at a different classpath.
+* Put the external libraries in the libs directory. Build script automatically picks up the libraries put under libs directory, otherwise the script need to be changed to look at a different classpath.
 
 Checkin the build.xml, build.properties and the key file into the repository.
 
@@ -50,13 +50,13 @@ Checkin the build.xml, build.properties and the key file into the repository.
 The CI server has to run the ant script for building the app. One more setting what we’ve done in our Jenkins server was to archive the apks as artifacts (available in the post build action). In upcoming posts, I will cover how to do the following:
 
 
-*Running android tests
+* Running android tests
 
     
-*Running code/test coverage tools
+* Running code/test coverage tools
 
     
-*Actual deployment
+* Actual deployment
 
 References:
 ** **

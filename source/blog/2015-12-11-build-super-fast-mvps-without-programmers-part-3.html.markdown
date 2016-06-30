@@ -75,7 +75,7 @@ Our key requirements:
     
 2. Online forms that would allow our team to request and approve purchases quickly.
 
-* **NOTE**: For this to work well, the forms would need to provide real-time status on our budgets
+*  **NOTE**: For this to work well, the forms would need to provide real-time status on our budgets
 
     
 3.A scripting system that would allow us to tie up the above modules together
@@ -100,10 +100,10 @@ Our budgeting system was already on GoogleSpread. As you probably expect, all of
 Now that question was: could we build a prototype that would combine Google Forms, Trello and GoogleSpread into a seamless way? Probably not. Even if we could get them to work with each other well, there would still be two significant user experience problems:
 
 
-* Each of these systems would need to be accessed through different URL’s
+*  Each of these systems would need to be accessed through different URL’s
 
     
-* Each of them has completely different user interfaces.
+*  Each of them has completely different user interfaces.
 
 
 So, “seamless” it definitely was not going to be. :(
@@ -118,16 +118,16 @@ Hey, hold on a minute. What were our hypotheses for the MVP?
 Here’s what we’d come up with:
 
 
-* Approvers in the purchasing system workflow would be able to make more confident approvals - using real-time budgets
+*  Approvers in the purchasing system workflow would be able to make more confident approvals - using real-time budgets
 
     
-* Efficiency of the purchasing system would be improved significantly - because of quicker decision making. This would be because, the approver would not need to escalate purchasing approvals because they could now use real-time data to make more objective buying decisions.
+*  Efficiency of the purchasing system would be improved significantly - because of quicker decision making. This would be because, the approver would not need to escalate purchasing approvals because they could now use real-time data to make more objective buying decisions.
 
     
-* Anyone in the company would be able to create a purchasing request within less than 10min.
+*  Anyone in the company would be able to create a purchasing request within less than 10min.
 
     
-* Anyone in the company would be able to easily find out how our budgets were getting utilized, and this would lead to higher transparency and trust across the team.
+*  Anyone in the company would be able to easily find out how our budgets were getting utilized, and this would lead to higher transparency and trust across the team.
 
 
 Now the question. Was a seamless sexy system required to test the above hypotheses?
@@ -148,7 +148,7 @@ Here’s a diagram that shows how the whole system works together:
 
 1. The requester fills up the purchase request using a Google Form. We use the Google Spreadsheet API to fetch the remaining budgets across all categories. This shows up in the Google Form - and allows the requester to ensure that their purchase (if approved), will not go over budget.
 
-   * One of the key pieces of input at this stage is also choosing the approver. This is done automatically, when the category of the purchase is chosen.
+   *  One of the key pieces of input at this stage is also choosing the approver. This is done automatically, when the category of the purchase is chosen.
 
     
 2. As soon as the requester submits the form, a card is created in the BuyIt Trello board. It has all of the details from the form, of course. But it also automatically assigns the card to the Approver in question. Trello in turn automatically notifies the approver that a new card has been assigned to them.
@@ -196,16 +196,16 @@ Admittedly, this was much easier and faster in our case. Since our “customers�
 Here’s a few of the key surprises/insights/learnings that we had while going through those iterations:
 
 
-* In the very first version of the system, there was no form for the requestors. That was added later when we discovered inconsistencies in the Trello cards.
+*  In the very first version of the system, there was no form for the requestors. That was added later when we discovered inconsistencies in the Trello cards.
 
     
-* In the initial version, we did not have the Approvers’ names listed alongside the budget categories they were responsible for. But while testing, we realized that requestors found it easier to find the category they were looking for, by first zooming in on the Approver.
+*  In the initial version, we did not have the Approvers’ names listed alongside the budget categories they were responsible for. But while testing, we realized that requestors found it easier to find the category they were looking for, by first zooming in on the Approver.
 
     
-* We added a second level approver for certain higher ticket purchases. This was easily done by putting in an amount limit against each category, that the primary approver could easily use to determine whether it was within their limits or not.
+*  We added a second level approver for certain higher ticket purchases. This was easily done by putting in an amount limit against each category, that the primary approver could easily use to determine whether it was within their limits or not.
 
     
-* We found that the approvers would forget to move the Trello cards from “Requested” to “Approved” after they’d okayed a certain purchase request. We then made this automatic as well.
+*  We found that the approvers would forget to move the Trello cards from “Requested” to “Approved” after they’d okayed a certain purchase request. We then made this automatic as well.
 
 
 ###Sans Programmers
@@ -234,16 +234,16 @@ So, if you’ve been delaying building your MVP because you don’t have program
 We’ve been using BuyIt in “production” across the company for more than 4 months now and here’s the impact:
 
 
-* Budget spillover: *Reduced from 15% to 3% [approx.]*
+*  Budget spillover: * Reduced from 15% to 3% [approx.]* 
 
     
-* Average time taken to fulfill a purchase request: *Reduced from 8-10 days to 3-4 days*
+*  Average time taken to fulfill a purchase request: * Reduced from 8-10 days to 3-4 days* 
 
     
-* Average time invested by people in requesting purchases: *Reduced from **3-5 days to less than an hour!***
+*  Average time invested by people in requesting purchases: * Reduced from **3-5 days to less than an hour!***
 
     
-* Average time invested by people to approve purchases:*Reduced from about 45 minutes to less than 15 minutes*
+*  Average time invested by people to approve purchases:* Reduced from about 45 minutes to less than 15 minutes* 
 
 
 I believe this is a great example of how constraints (such as not having access to programmers, in this example) can actually lead to some pretty great solutions eventually.
@@ -252,17 +252,17 @@ I believe this is a great example of how constraints (such as not having access 
 ###Key Learnings
 
 
-* Theis not really the software product. It’s in the key process change decisions that we make. And the best process changes focus on[reducing waste](https://en.wikipedia.org/wiki/Muda_(Japanese_term).
+*  Theis not really the software product. It’s in the key process change decisions that we make. And the best process changes focus on[reducing waste](https://en.wikipedia.org/wiki/Muda_(Japanese_term).
 
     
-* A Super Fast MVP - is not just something where the first version gets released quickly. It’s something that can be used to learn from your target customers and be  iterated upon at high speedsthe initial release.
+*  A Super Fast MVP - is not just something where the first version gets released quickly. It’s something that can be used to learn from your target customers and be  iterated upon at high speedsthe initial release.
 
-* Needless to say, the lower the fidelity of the prototype, the faster it is to iterate after the initial release.
+*  Needless to say, the lower the fidelity of the prototype, the faster it is to iterate after the initial release.
 
     
-* User interface design takes a long time to get right. So, whenever it’s possible, rely on products that have already gotten this right. In our case, we found both Trello and Google Tools to be very good from a UX standpoint
+*  User interface design takes a long time to get right. So, whenever it’s possible, rely on products that have already gotten this right. In our case, we found both Trello and Google Tools to be very good from a UX standpoint
 
-* Not only is this great from a working prototype standpoint. Its also great in terms of inspiring a very good user experience if and when a new custom user interface is built later down the line.
+*  Not only is this great from a working prototype standpoint. Its also great in terms of inspiring a very good user experience if and when a new custom user interface is built later down the line.
 
 
 ###Open Source

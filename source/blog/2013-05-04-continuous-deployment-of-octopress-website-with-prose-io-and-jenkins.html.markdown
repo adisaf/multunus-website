@@ -19,7 +19,7 @@ rake generate command for generating the HTML files before deploying them. So yo
 
 Follow the following steps to setup 
 [Jenkins](http://jenkins-ci.org/) or any 
-[Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) server for deployment:*Add the following in 
+[Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) server for deployment:* Add the following in 
 _config.yml:
 
 
@@ -38,10 +38,10 @@ categories:
   - All Posts`
 
 
-*Setup Prose.io - just login with your Github Handle
+* Setup Prose.io - just login with your Github Handle
 
     
-*Create a script with as follows:
+* Create a script with as follows:
 
 
 bundle install
@@ -50,11 +50,11 @@ git add public/
 git commit -m "Deploying Generated files"
 
 
-*Install the Heroku gem and setup the git remote and keys for deployment as mentioned 
+* Install the Heroku gem and setup the git remote and keys for deployment as mentioned 
 [here](https://devcenter.heroku.com/articles/git)
 
     
-*Setup Git Publisher to push the generated files to heroku as shown below.
+* Setup Git Publisher to push the generated files to heroku as shown below.
 
 
 ![Git Publisher](https://s3.amazonaws.com/multunus-images/Git+Publisher.png)
@@ -66,13 +66,13 @@ This post is written using Prose.io and deployed through Jenkins.
 Yes, the setup was not as easy I had written above. I got stuck mainly with the following.
 
 
-*I got stuck as the command 
+* I got stuck as the command 
 rake generate was watching the file changes. It was not getting stopped. The culprit was 
 auto: true in _config.yml file.
 
     
-*If the file extension is .html, Prose.io will not show preview or metadata information. The markdown or md extension would work.
+* If the file extension is .html, Prose.io will not show preview or metadata information. The markdown or md extension would work.
 
     
-*Thought of using Travis.io as mentioned 
+* Thought of using Travis.io as mentioned 
 [here](http://www.harimenon.com/blog/2013/01/27/auto-deploying-to-my-octopress-blog/) for the deployment. But had issues with setting up Heroku setup with the same. Didn’t continue on that as we’ve been using Jenkins as our CI server for long.

@@ -52,13 +52,13 @@ Users are not ready to pay for a product if they find that have to pay something
 Joel points out a few reasons for giving away his product for free:
 
 
-*Giving away for free is itself a form of advertising your product.
+* Giving away for free is itself a form of advertising your product.
 
     
-*Getting the audience/users to use your product is the most important thing and this can be achieved only by this form of advertising.
+* Getting the audience/users to use your product is the most important thing and this can be achieved only by this form of advertising.
 
     
-*Later when you make it paid, you’ll still have users who are getting real value out of your product.
+* Later when you make it paid, you’ll still have users who are getting real value out of your product.
 
 
 You also make it less sweet for others to compete with you and helps you get a longer runway. This particular point was not said by Joel in the interview, but something I saw in the comments. And I think it made enough sense to include here.

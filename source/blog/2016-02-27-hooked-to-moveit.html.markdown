@@ -10,25 +10,25 @@ It’s 8AM on Monday. Time to leave for work. You’re ready to get out of home.
 
 Here’s a bunch of things that you might do until you’re ready to start your day at the office:
 
-* Getting into your car.
+*  Getting into your car.
 
     
-* Driving out in the direction of your workplace.
+*  Driving out in the direction of your workplace.
 
     
-* Navigating your route while simultaneously also negotiating traffic
+*  Navigating your route while simultaneously also negotiating traffic
 
     
-* Stopping at red lights.
+*  Stopping at red lights.
 
     
-* Slowing down when you get to your workplace.
+*  Slowing down when you get to your workplace.
 
     
-* Parking your car.
+*  Parking your car.
 
     
-* Getting to your seat at the office and turning on your laptop.
+*  Getting to your seat at the office and turning on your laptop.
 
 When was the last time you actually gave any of the above actions a conscious thought? Were any of the above actions the result of analyzing pros and cons and then taking a well thought out decision?
 
@@ -69,16 +69,16 @@ These products are designed to pass Larry Page’s
 Here’s some key motivations to design products this way: :
 
 
-* Revenue from “sticky” users: When you have significant amounts of user attention, that means more potential revenue for your business. Even if it’s through more targeted ads.
+*  Revenue from “sticky” users: When you have significant amounts of user attention, that means more potential revenue for your business. Even if it’s through more targeted ads.
 
 
-* Significant long term value for your users - You may have noticed that the more you use Facebook or Twitter, the more interesting it becomes to use them. This is natural because each time you use these products, you create more connections and interactions - which in turn leads to a more interesting Newsfeed or Timeline.
-
-    
-* Higher Lifetime Value: The more long term value you create for your customers, the more difficult it gets for them to switch to a competitive product. This in turn means more repeat revenue from the same user.
+*  Significant long term value for your users - You may have noticed that the more you use Facebook or Twitter, the more interesting it becomes to use them. This is natural because each time you use these products, you create more connections and interactions - which in turn leads to a more interesting Newsfeed or Timeline.
 
     
-* Achieving altruistic goals - If your product has truly altruistic goals, for example, in terms of helping the user gain new skills in certain areas such as programming or music, then you would need to design your product to help users stay on track until they’re able to build those skills.
+*  Higher Lifetime Value: The more long term value you create for your customers, the more difficult it gets for them to switch to a competitive product. This in turn means more repeat revenue from the same user.
+
+    
+*  Achieving altruistic goals - If your product has truly altruistic goals, for example, in terms of helping the user gain new skills in certain areas such as programming or music, then you would need to design your product to help users stay on track until they’re able to build those skills.
 
 [If you’re still skeptical that all this sounds manipulative and underhanded, 
 [then please refer to this](http://www.nirandfar.com/2012/07/the-art-of-manipulation.html)]
@@ -97,16 +97,16 @@ Yes, and it’s called the “The Hooked Model”. It’s a pattern that can hel
 Here’s the components of the model:
 
 
-* Trigger: An event that spurs the user to perform an activity on the app
+*  Trigger: An event that spurs the user to perform an activity on the app
 
     
-* Action: Interaction with a certain feature of the app
+*  Action: Interaction with a certain feature of the app
 
     
-* Variable Reward: Usually points or some kind of status improvement for the user. More generally, something that triggers secretion of the happy hormone (dopamine) in the system.
+*  Variable Reward: Usually points or some kind of status improvement for the user. More generally, something that triggers secretion of the happy hormone (dopamine) in the system.
 
     
-* Investment: An additional task performed by the user to help them get more value from the product. For example, following more people on Twitter or making more friends on Facebook.
+*  Investment: An additional task performed by the user to help them get more value from the product. For example, following more people on Twitter or making more friends on Facebook.
 
 
 ![the_hook.1png](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/02/t_the_hook.png)
@@ -125,10 +125,10 @@ So, how can you put this kind of idea into action? I’ll walk you through an ap
 The idea is simple - get people to exercise regularly. Using two techniques:
 
 
-* Help users keep a log of how consistently they’re exercising
+*  Help users keep a log of how consistently they’re exercising
 
     
-* Create a supportive community of exercisers that helps keep everyone on track
+*  Create a supportive community of exercisers that helps keep everyone on track
 
 
 ![leaderboard.png](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/02/t_leaderboard.png)
@@ -139,19 +139,19 @@ The harder of the two goals is of course the second one - to create a supportive
 Here’s what that means for MoveIt:
 
 
-* We need multiple people engaged in some common activity
+*  We need multiple people engaged in some common activity
 
     
-* We need these people to be sharing the progress they’re making
+*  We need these people to be sharing the progress they’re making
 
     
-* We need as many of these people to motivate everyone else to make progress
+*  We need as many of these people to motivate everyone else to make progress
 
     
-* We need these people to celebrate the progress they’re making and the progress others are making
+*  We need these people to celebrate the progress they’re making and the progress others are making
 
     
-* We need for the whole community to celebrate together.
+*  We need for the whole community to celebrate together.
 
 We’ll look at how we tried to solve each of the above problems, using the Hooked model. We’ll also talk about the gaps in the current product - and how we intend to fix them, going forward.
 
@@ -207,13 +207,13 @@ To celebrate other’s progress, we’ve got the “bump” feature, which is ba
 To make this happen, we introduced two things:
 
 
-* A monthly goal for the whole community to achieve together - which is basically a monthly target for the grand total of the number of exercise minutes
+*  A monthly goal for the whole community to achieve together - which is basically a monthly target for the grand total of the number of exercise minutes
 
 
 ![leaderboard.png](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/02/t_leaderboard2.png)
 
 
-* A charity component - where we donate to a charity of the community’s choice an amount of money proportional to the grand total of the community’s exercise minutes.
+*  A charity component - where we donate to a charity of the community’s choice an amount of money proportional to the grand total of the community’s exercise minutes.
 
 
 ![charity.png](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/02/t_charity.png)
@@ -229,10 +229,10 @@ Let’s now look at each of the above features through the “Hooked” lens. We
   Prompts and notifications are common triggers in apps. We’ve got two triggers in our app:
 
 
-* An automatic one: That shows up as a notification at the same time everyday, if you haven’t exercised, for say more than 24 hours. Sort of like a reminder to get you back on track.
+*  An automatic one: That shows up as a notification at the same time everyday, if you haven’t exercised, for say more than 24 hours. Sort of like a reminder to get you back on track.
 
 
-* A community triggered one: This is where the “nudge” feature comes in. I can get nudged by another user, if I’ve been slacking and haven’t exercised for the last 24 hours. I get a summary of all the nudges that I got the previous day from other users, once again prompting to get back on track.”
+*  A community triggered one: This is where the “nudge” feature comes in. I can get nudged by another user, if I’ve been slacking and haven’t exercised for the last 24 hours. I get a summary of all the nudges that I got the previous day from other users, once again prompting to get back on track.”
 
 
 **Action:**
@@ -247,10 +247,10 @@ We have two rewards at this point, for our users. But only, the second one below
 variable reward:
 
 
-* An animation showing the number of points earned
+*  An animation showing the number of points earned
 
     
-* Revealing the updated position on the leaderboard to the user”
+*  Revealing the updated position on the leaderboard to the user”
 
  
 
@@ -261,16 +261,16 @@ variable reward:
 : This is the last part of the Hooked cycle. These are actions that the user takes, with an anticipation of a future reward. Here’s a couple of features that we implemented for investment:
 
 
-* Adding a description and uploading an image of your exercise routine
+*  Adding a description and uploading an image of your exercise routine
 
 
-* This serves as a “diary” of sorts that can be reviewed say, every week.
+*  This serves as a “diary” of sorts that can be reviewed say, every week.
 
 
-* “Bumping” and “Nudging” other users
+*  “Bumping” and “Nudging” other users
 
 
-* When I “bump” or “nudge” another user, I also expect a reciprocal behaviour from other users.
+*  When I “bump” or “nudge” another user, I also expect a reciprocal behaviour from other users.
 
 
 ###Did it work?
@@ -281,21 +281,21 @@ So, how well did we “hook” our users?
 Here’s what worked well:
 
 
-* The regular exercisers on our team who were earlier using other exercise tracking apps such as Nike Plus have now moved to MoveIt.
+*  The regular exercisers on our team who were earlier using other exercise tracking apps such as Nike Plus have now moved to MoveIt.
 
     
-* We were also successful in encouraging new users to exercise
+*  We were also successful in encouraging new users to exercise
 
     
-* We hit our monthly targets of total exercise minutes at least half a dozen times over the last 12 months
+*  We hit our monthly targets of total exercise minutes at least half a dozen times over the last 12 months
 
     
-* Our monthly charity contributions have now (almost) become a standard part of our company operations.
+*  Our monthly charity contributions have now (almost) become a standard part of our company operations.
 
 And here’s what hasn’t worked so well:
 
 
-* The number of regular exercisers has not increased. We would have new people motivated to exercise for a month or two, but they would then fall off track. And then the same thing would happen with another set of users. It continues to be a revolving door.”
+*  The number of regular exercisers has not increased. We would have new people motivated to exercise for a month or two, but they would then fall off track. And then the same thing would happen with another set of users. It continues to be a revolving door.”
 
 
 ###Increasing engagement
@@ -304,40 +304,40 @@ And here’s what hasn’t worked so well:
 Before you start to doubt the “Hooked” model, here’s a few places where our implementation needs significant improvement:
 
 
-* **Variable Reward**
+*  **Variable Reward**
 : If you’ve been lost in the Facebook’s newsfeed or Twitter’s timeline - that’s because of the infinite amounts of variability in those features. This is because what you consume with these features, is created by the people you’ve friended or followed. And what they choose to post is not something you can predict. So, the “newness” of the content is always maintained - making you ask for even more each time.
 
-* Our task is to figure out how we can create a similar experience in MoveIt - to inject infinite variability.
+*  Our task is to figure out how we can create a similar experience in MoveIt - to inject infinite variability.
 
     
-* **Trigger**
+*  **Trigger**
 : The trigger needs to be fired at the most optimal moment, when our users can actually go ahead and perform the action without interrupting or pausing something else that they’re doing.
 
     
-* **Action**
+*  **Action**
 : The better we can apply 
 [BJ Fogg’s “B=MAT” formula](http://www.behaviormodel.org/), the higher the probability that the action is going to be performed. Here’s a quick explanation:
 
-* B: Behaviour (or Action), M: Motivation, A: Ability, T: Trigger
+*  B: Behaviour (or Action), M: Motivation, A: Ability, T: Trigger
 
     
-* The idea is that even if you have good amount of motivation to perform a certain action, if it’s too hard (or if the “Ability” is low) - you’re still not going to perform it.
+*  The idea is that even if you have good amount of motivation to perform a certain action, if it’s too hard (or if the “Ability” is low) - you’re still not going to perform it.
 
     
-* And if you’ve got Motivation and Ability figured out, you’d still need a Trigger to get you to perform the task. The Trigger is already taken care of in the Hooked model separately, so we’re good there.
+*  And if you’ve got Motivation and Ability figured out, you’d still need a Trigger to get you to perform the task. The Trigger is already taken care of in the Hooked model separately, so we’re good there.
 
     
-* The question then is this: 
+*  The question then is this: 
 How can we increase motivation while also making it easier to perform the action?
 
     
-* **Investment**
+*  **Investment**
 : The additional notes and images that users can add (after they enter their exercise minutes) is an “investment”. As the user continues to add more of this info, the product becomes more and more personalized for the user. The questions here are the following:
 
-* How can we make it easier for the user to make that investment? We can apply the “B=MAT” formula here as well, to help increase investment.
+*  How can we make it easier for the user to make that investment? We can apply the “B=MAT” formula here as well, to help increase investment.
 
     
-* What other methods of investment can we create?
+*  What other methods of investment can we create?
 
 
 ###MoveIt 2.0

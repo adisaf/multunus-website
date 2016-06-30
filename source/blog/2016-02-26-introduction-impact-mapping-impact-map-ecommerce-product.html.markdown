@@ -5,7 +5,7 @@ tags:
 - cap-leena
 - business
 ---
-*The single biggest problem in communication is the illusion that it has taken place - Bernard Shaw*
+* The single biggest problem in communication is the illusion that it has taken place - Bernard Shaw* 
 
 According to the [Standish CHAOS report](http://www.infoq.com/articles/standish-chaos-2015), only ~30% of software projects succeed. Others end up either being in a “challenged” state or fail altogether because of various reasons such as over budget, over time or lack of alignment. Let us look at some of the case studies.
 
@@ -35,13 +35,13 @@ According to the [Standish CHAOS report](http://www.infoq.com/articles/standish-
 It is common to see this model called the [Water-Scrum-Fall](http://whatis.techtarget.com/definition/WaterScrumFall-water-Scrum-fall) model, where:
 
 
-* [HIPPO](http://www.askahippo.com/) [the Highest Paid Person in the room] decides the backlog
+*  [HIPPO](http://www.askahippo.com/) [the Highest Paid Person in the room] decides the backlog
 
     
-* The dev team work towards the same in the so-called "iterative" way
+*  The dev team work towards the same in the so-called "iterative" way
 
     
-* The OPs fire starts because the products aligns with the market
+*  The OPs fire starts because the products aligns with the market
 
 Some teams try to solve this problem of  with the 
 [project charter](https://en.wikipedia.org/wiki/Project_charter) or 
@@ -55,13 +55,13 @@ Another issue is that even though the Product Manager/Product Owner or the stake
 The planning meetings [iteration or release planning] are supposed to be taking care of this. But lack of clear guidelines for these planning meetings, results in backlog of features which are prioritised using:
 
 
-* Ad-hoc planning
+*  Ad-hoc planning
 
     
-* Wrong Assumptions
+*  Wrong Assumptions
 
     
-* Pet features
+*  Pet features
 
 
 Impact Mapping
@@ -73,22 +73,22 @@ Impact Mapping
 Impact Mapping is a "Strategic planning technique",explained in the book [Impact Mapping](http://impactmapping.org/book) by [Gojko Adzic](http://gojko.net/).
 
 
-* Software delivery can’t be done in a vacuum by the technical team instead, it is a collaborative effort between the end users, the business team and the technical team.
+*  Software delivery can’t be done in a vacuum by the technical team instead, it is a collaborative effort between the end users, the business team and the technical team.
 
 
-* The dynamic nature of software, adds to the complexity too.
+*  The dynamic nature of software, adds to the complexity too.
 
 
 So what is required, is a “technique” which:
 
 
-* Focuses on collaboration among all the stakeholders
+*  Focuses on collaboration among all the stakeholders
 
     
-* Visualises and communicates the assumptions clearly
+*  Visualises and communicates the assumptions clearly
 
     
-* Is fast and iterative so that changes can be adapted without delay
+*  Is fast and iterative so that changes can be adapted without delay
 
 
 An “Impact Map” is a “mindmap”, derived from the discussion where all the stakeholders, both technical and business people, are involved. It mainly answers the below four questions:
@@ -196,16 +196,16 @@ And for us to deliver value, we need to understand who they are and what kind of
 You should ask the below questions to identify the actors:
 
 
-* Who can produce the desired effect?
+*  Who can produce the desired effect?
 
     
-* Who can obstruct it?
+*  Who can obstruct it?
 
     
-* Who are consumers of the product?
+*  Who are consumers of the product?
 
     
-* Who will be impacted with it?
+*  Who will be impacted with it?
 
 
 ###Example
@@ -215,19 +215,19 @@ You should ask the below questions to identify the actors:
 Let’s look at it from the perspective of our product i.e. eCommerce product:
 
 
-* **Shoppers** who buy products
+*  **Shoppers** who buy products
 
     
-* **Product Vendors** whose products get sold
+*  **Product Vendors** whose products get sold
 
     
-* **Payment Gateway Provider(s)** whose services will be used for the payment
+*  **Payment Gateway Provider(s)** whose services will be used for the payment
 
     
-* **Support Personnel** who handle the shoppers’ queries
+*  **Support Personnel** who handle the shoppers’ queries
 
     
-* **Admin Personnel**, who manages the catalogue
+*  **Admin Personnel**, who manages the catalogue
 
  
 
@@ -265,19 +265,19 @@ Some of the questions that need to be answered to understand the impact are:
 What kind of impact should be provided to achieve the goal 1 M transactions? How can the actors help us or prevent us from achieving the same?
 
 
-* Improved product discovery
+*  Improved product discovery
 
     
-* Allow the Vendors to add the products without help from Admin Staff
+*  Allow the Vendors to add the products without help from Admin Staff
 
     
-* Inviting Friends
+*  Inviting Friends
 
     
-* 90% of payments being successful
+*  90% of payments being successful
 
     
-* All support tickets closed in 24 hours
+*  All support tickets closed in 24 hours
 
 
 ![Impact Map 3](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/02/ImpactMap32-1024x493.png)
@@ -308,25 +308,25 @@ This section concentrates on the deliverables or features which will create the 
 
 
 
-* Improve the search algorithm
+*  Improve the search algorithm
 
     
-* Simple and intuitive search UI
+*  Simple and intuitive search UI
 
     
-* Provide options for Social sharing
+*  Provide options for Social sharing
 
     
-* Admin Console for Vendors to manage products
+*  Admin Console for Vendors to manage products
 
     
-* Move to a reliable Payment Gateway, to improve the user experience
+*  Move to a reliable Payment Gateway, to improve the user experience
 
     
-* Facebook Ads or Google Ads for branding
+*  Facebook Ads or Google Ads for branding
 
     
-* Better alerting mechanisms for failed payments
+*  Better alerting mechanisms for failed payments
 
  
 

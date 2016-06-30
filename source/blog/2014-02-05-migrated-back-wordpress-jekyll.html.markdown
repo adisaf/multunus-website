@@ -81,12 +81,12 @@ Of course its only been a few days since we launched our new site - so, please d
 **References***[http://www.multunus.com/blog/2012/10/our-experience-with-jekyll-and-octopress/](http://www.multunus.com/blog/2012/10/our-experience-with-jekyll-and-octopress/)
 
     
-*[http://jekyllbootstrap.com/lessons/jekyll-introduction.html](http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
+* [http://jekyllbootstrap.com/lessons/jekyll-introduction.html](http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
 
     
-*[http://www.sparklogix.com/super-fast-wordpress-hosting/](http://www.sparklogix.com/super-fast-wordpress-hosting/)
+* [http://www.sparklogix.com/super-fast-wordpress-hosting/](http://www.sparklogix.com/super-fast-wordpress-hosting/)
 
     
-*[http://vitobotta.com/switched-jekyll-back-wordpress/#sthash.Z1YdsXVF.dpbs](http://vitobotta.com/switched-jekyll-back-wordpress/#sthash.Z1YdsXVF.dpbs)
+* [http://vitobotta.com/switched-jekyll-back-wordpress/#sthash.Z1YdsXVF.dpbs](http://vitobotta.com/switched-jekyll-back-wordpress/#sthash.Z1YdsXVF.dpbs)
 
  

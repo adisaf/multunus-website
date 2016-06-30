@@ -67,7 +67,7 @@ alarmManager.setRepeating(AlarmManager.ELAPSED_REALTIME_WAKEUP, SystemClock.elap
     }
 
     private int checkFrequency() {
-    return 1000 * 60 * 30;
+    return 1000 *  60 *  30;
     }
 }
 

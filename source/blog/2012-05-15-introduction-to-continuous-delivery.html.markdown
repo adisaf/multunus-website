@@ -25,33 +25,33 @@ This helps to test new ideas and changes in the product and also measure the eff
 Lets see the usual challenges for releases. The following are the challenges that we faced before moving to Continuous Delivery. Let me put it in this way i.e. the following are the challenges which got us thinking on how to make releases more predictable and pain free. We already had a Continuous Integration setup at our end, but that was not enough to ease the process.
 
 
-*No tracking on which version was deployed, when and to which environment
+* No tracking on which version was deployed, when and to which environment
 
     
-*Different people working on different branches, code merge hell when its ready for deployment.
+* Different people working on different branches, code merge hell when its ready for deployment.
 
     
-*When an urgent bug needs to be fixed, the fix need to be replicated in multiple branches along with the mainline branch
+* When an urgent bug needs to be fixed, the fix need to be replicated in multiple branches along with the mainline branch
 
     
-*No easy way to revert back to the previous stable version
+* No easy way to revert back to the previous stable version
 
 We’ve seen even more challenges in teams which do not have a Continuous Integration setup yet. They are:
 
 
-*Adhoc build processes
+* Adhoc build processes
 
     
-*Too much time spent on manual testing
+* Too much time spent on manual testing
 
     
-*Integration of code happens only during deployment
+* Integration of code happens only during deployment
 
     
-*Complexity of build and deployment increases, depending on the complexity of the app.
+* Complexity of build and deployment increases, depending on the complexity of the app.
 
     
-*For clustered environments, the deployment needs to be updated to all slaves
+* For clustered environments, the deployment needs to be updated to all slaves
 
 
 Thats when we stumbled upon ”
@@ -82,25 +82,25 @@ A central pattern of Continuous Delivery is called the 
 The deployment pipeline includes the following build and deployment process:
 
 
-*Creates executable code to verify that the syntax of the source code is valid.
+* Creates executable code to verify that the syntax of the source code is valid.
 
     
-*Runs the unit tests to check that the code behaves as expected.
+* Runs the unit tests to check that the code behaves as expected.
 
     
-*Runs the acceptance tests to check that the application conforms to its business acceptance criteria—that it delivers the business value that was intended.
+* Runs the acceptance tests to check that the application conforms to its business acceptance criteria—that it delivers the business value that was intended.
 
     
-*Run nonfunctional tests which checks that the application performs sufficiently well in terms of capacity, availability, security, and so on to meet its users’ needs.
+* Run nonfunctional tests which checks that the application performs sufficiently well in terms of capacity, availability, security, and so on to meet its users’ needs.
 
     
-*Runs tools which check that the expected code quality criteria such as test coverage and other technology-specific metrics are met.
+* Runs tools which check that the expected code quality criteria such as test coverage and other technology-specific metrics are met.
 
     
-*Then in the manual testing environment, exploratory testing is done. In parallel a demonstration to the customer and a selection of users can also be done. This helps the product owner to decide whether there are missing features, or find bugs that require fixing.
+* Then in the manual testing environment, exploratory testing is done. In parallel a demonstration to the customer and a selection of users can also be done. This helps the product owner to decide whether there are missing features, or find bugs that require fixing.
 
     
-*If any of the above fails, the deployment should be stopped because it is a clear indication that the application is not production ready.
+* If any of the above fails, the deployment should be stopped because it is a clear indication that the application is not production ready.
 
 
 I will write about the Benefits of Continuous Delivery in the next post.
@@ -110,10 +110,10 @@ I will write about the Benefits of Continuous Delivery in the next post.
 
 
 
-*[https://docs.google.com/a/multunus.com/present/edit?id=0AQj1177vtu0MZHRoM2dmN180NzRneGp2bXRndw](https://docs.google.com/a/multunus.com/present/edit?id=0AQj1177vtu0MZHRoM2dmN180NzRneGp2bXRndw)
+* [https://docs.google.com/a/multunus.com/present/edit?id=0AQj1177vtu0MZHRoM2dmN180NzRneGp2bXRndw](https://docs.google.com/a/multunus.com/present/edit?id=0AQj1177vtu0MZHRoM2dmN180NzRneGp2bXRndw)
 
     
-*[http://www.informit.com/articles/article.aspx?p=1829417](http://www.informit.com/articles/article.aspx?p=1829417)
+* [http://www.informit.com/articles/article.aspx?p=1829417](http://www.informit.com/articles/article.aspx?p=1829417)
 
     
-*[http://continousdelivery.com](http://continousdelivery.com/)
+* [http://continousdelivery.com](http://continousdelivery.com/)

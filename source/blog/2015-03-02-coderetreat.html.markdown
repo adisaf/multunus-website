@@ -18,25 +18,25 @@ Read on to understand more.##What is CodeRetreat?
 
 
 
-* It is a day-long event.
+*  It is a day-long event.
 
     
-* The problem is the same : Conway’s Game of Life.
+*  The problem is the same : Conway’s Game of Life.
 
     
-* 5 or 6 programming sessions : 45 minutes each, followed by retrospections on each session.
+*  5 or 6 programming sessions : 45 minutes each, followed by retrospections on each session.
 
     
-* Pair-programming is necessary.
+*  Pair-programming is necessary.
 
     
-* After each session, pairs should be swapped.
+*  After each session, pairs should be swapped.
 
     
-* After each session, code must be deleted, not put in a branch, not stashed, just deleted with no trace left.
+*  After each session, code must be deleted, not put in a branch, not stashed, just deleted with no trace left.
 
     
-* It is preferred to use Test-Driven Development (TDD)
+*  It is preferred to use Test-Driven Development (TDD)
 
 
 ##What is the Problem?
@@ -82,13 +82,13 @@ In one of the sessions we had, the constraint was to use the principle of pure O
 In some sessions, the constraint was to use Test Driven Development (TDD). For some it was their first experience with TDD. For people who were already using it, it was an opportunity to teach TDD concepts to beginners. Some of the insights that are always shared by beginners on using TDD are :
 
 
-* Focus on one rule at a time.
+*  Focus on one rule at a time.
 
     
-* More confidence in the validity and correctness of code.
+*  More confidence in the validity and correctness of code.
 
     
-* Continuously changing, restructuring and [refactoring](https://en.wikipedia.org/wiki/Code_refactoring) code all the time.
+*  Continuously changing, restructuring and [refactoring](https://en.wikipedia.org/wiki/Code_refactoring) code all the time.
 
 
 ##What language do I use to code?
@@ -110,10 +110,10 @@ If you are excited about CodeRetreat, you can come and participate next time. We
 Go here
 
 
-* [CodeRetreat](http://coderetreat.org/)
+*  [CodeRetreat](http://coderetreat.org/)
 
     
-* [Structure of a CodeRetreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
+*  [Structure of a CodeRetreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
 
     
-* [What I learnt from a CodeRetreat](http://johnpwood.net/2011/07/29/what-i-learned-by-attending-a-code-retreat/)
+*  [What I learnt from a CodeRetreat](http://johnpwood.net/2011/07/29/what-i-learned-by-attending-a-code-retreat/)

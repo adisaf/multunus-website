@@ -22,10 +22,10 @@ A detailed description of how to setup the test load balancer is available
 
 We are using jenkins as our CI server, so we will be concentrating on how to setup TLB on Jenkins. I am assuming that you already have the job [ to which you want to add load balancing ] configured in Jenkins.
 
-The TLB setup has two main two components*TLB server
+The TLB setup has two main two components* TLB server
 
     
-*Balancer
+* Balancer
 
 
 **Setup TLB server**

@@ -23,7 +23,7 @@ Initially, I thought I would just make this post about my experience volunteeri
 **Craft, The Golden Trifecta and Values**.
 
 
-FYI, *I'll come to the "toughest job" part soon after I finish describing the above categories.*
+FYI, * I'll come to the "toughest job" part soon after I finish describing the above categories.* 
 
 
 **Craft**
@@ -31,7 +31,7 @@ FYI, *I'll come to the "toughest job" part soon after I finish describing the ab
 Doing our job well brings us success. Here, “well” is a subjective term.
 
 
-*Making it objective* - If a speaker is knowledgeable in the field he is speaking about and also has a great way to keep the audience interested in the talk till the end by really empathizing with them, then he is a craftsperson.
+* Making it objective*  - If a speaker is knowledgeable in the field he is speaking about and also has a great way to keep the audience interested in the talk till the end by really empathizing with them, then he is a craftsperson.
 
 
 ![](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/10/1-Speaker-2-300x199.jpg)
@@ -45,7 +45,7 @@ Same goes with everyone else. Its about striving towards the outcome of the eve
 [Zainab](https://twitter.com/zainabbawa), [Kiran](https://twitter.com/jackerhack), [Rajeef](https://twitter.com/rajeefmk), [Priyanka](https://twitter.com/priynag), [Basavaraj](https://twitter.com/Basavaraj_BB), [Tony](https://twitter.com/tonysimon90) and every single person at JSFoo was constantly working towards making the event a successful one.
 
 
-*Food for thought* What if we define Craft as an impact that we want to create and Craftsmanship as the skill to create the desired impact? Any community event is aimed at making an impact, to help it grow.
+* Food for thought*  What if we define Craft as an impact that we want to create and Craftsmanship as the skill to create the desired impact? Any community event is aimed at making an impact, to help it grow.
 
 
 **The Golden Trifecta**
@@ -69,6 +69,6 @@ The formula is to strive towards craft, using the golden trifecta with a strong 
 **Coming to The Toughest Job**
 
 
-At the end, I agree that building trust is a tough thing but what’s tougher is to *maintain* that trust.
+At the end, I agree that building trust is a tough thing but what’s tougher is to * maintain*  that trust.
 
 Volunteering at JSFoo 2014 made me realize that without a mindset of craftsmanship, its very difficult for organizations such as HasGeek to repeatedly pull off successful events such as JSFoo, month after month, year after year. And its that kind of consistency that's required to maintain trust.

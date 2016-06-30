@@ -8,7 +8,7 @@ tags:
 link: http://www.multunus.com/blog/2014/09/made-mistake-end-story/
 ---
 
-> *You sow a seed, with an intention that it will one day provide shade to many. You water, nurture and care for it. It grows into a small plant. It becomes your baby. One day, you find that someone has stepped over it! Though not deadly, damage done is very painful. You don’t know if the stepping over was an intentional act or a mistake, but you are pretty upset about the damage itself.*
+> * You sow a seed, with an intention that it will one day provide shade to many. You water, nurture and care for it. It grows into a small plant. It becomes your baby. One day, you find that someone has stepped over it! Though not deadly, damage done is very painful. You don’t know if the stepping over was an intentional act or a mistake, but you are pretty upset about the damage itself.* 
 
 I will explain the above bit in just a little while.
 

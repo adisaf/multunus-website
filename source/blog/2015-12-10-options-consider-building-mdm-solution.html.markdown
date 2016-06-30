@@ -38,23 +38,23 @@ With rooting, you can install apps as System Apps, those apps which have more pr
 
 
 
-* Install apps as System apps, to restrict the app getting uninstalled.
+*  Install apps as System apps, to restrict the app getting uninstalled.
 
     
-* Get full control of the device, so can manage the apps silently without any human intervention
+*  Get full control of the device, so can manage the apps silently without any human intervention
 
     
-* Rooting is required to install Custom ROM on many devices [Custom ROM is covered in detail in the next section]
+*  Rooting is required to install Custom ROM on many devices [Custom ROM is covered in detail in the next section]
 
 
 ###Cons
 
 
 
-* Requires flashing, which voids the manufacturer's warranty
+*  Requires flashing, which voids the manufacturer's warranty
 
     
-* Can potentially brick the device, if something goes wrong while rooting.
+*  Can potentially brick the device, if something goes wrong while rooting.
 
 
 ##Custom ROMs
@@ -75,29 +75,29 @@ Custom ROMs make sense when the device is owned by an organization, say an organ
 
 
 
-* More control of the device - As the device is rooted, anything can be done on the device, such as removing bloatware, giving root permissions to specific apps etc.
+*  More control of the device - As the device is rooted, anything can be done on the device, such as removing bloatware, giving root permissions to specific apps etc.
 
     
-* Cost reduction - A device with lower hardware specifications might be sufficient if only few apps are required to be installed on the device. This might reduce the cost of the device.
+*  Cost reduction - A device with lower hardware specifications might be sufficient if only few apps are required to be installed on the device. This might reduce the cost of the device.
 
     
-* Faster upgrades: Android updates from manufacturers takes a very long time to roll out because of multiple layers of testing and certification. With a Custom ROM you can create your own version of stock Android cutting out the need for waiting for the manufacturer.
+*  Faster upgrades: Android updates from manufacturers takes a very long time to roll out because of multiple layers of testing and certification. With a Custom ROM you can create your own version of stock Android cutting out the need for waiting for the manufacturer.
 
 
 ###Cons
 
 
 
-* In BYOD scenarios, employees or partners will be wary of installing a Custom ROM on their owned devices, giving away complete control of their devices.
+*  In BYOD scenarios, employees or partners will be wary of installing a Custom ROM on their owned devices, giving away complete control of their devices.
 
     
-* With a Custom ROM you are responsible for testing and fixing issues in the OS, which is usually done by the manufacturer if you are using a Stock ROM.
+*  With a Custom ROM you are responsible for testing and fixing issues in the OS, which is usually done by the manufacturer if you are using a Stock ROM.
 
     
-* For loading a Custom ROM you have flash the device [many devices require rooting too], which voids manufacturer's warranty.
+*  For loading a Custom ROM you have flash the device [many devices require rooting too], which voids manufacturer's warranty.
 
     
-* As mentioned above, rooting can brick the device if something goes amiss while rooting.
+*  As mentioned above, rooting can brick the device if something goes amiss while rooting.
 
 
 ##Our Experience building MDM with Custom ROM
@@ -110,16 +110,16 @@ One of[our MDM Customers](http://www.multunus.com/portfolio/end-end-mobile-devic
 That is when we decided to go with Custom ROM which would help us:
 
 
-* Pre-install the required apps, eg: the Adobe Flash app, I mentioned above
+*  Pre-install the required apps, eg: the Adobe Flash app, I mentioned above
 
     
-* Remove unnecessary bloatware
+*  Remove unnecessary bloatware
 
     
-* Pre-configure the device settings eg: WiFi settings, lock settings, volume settings.
+*  Pre-configure the device settings eg: WiFi settings, lock settings, volume settings.
 
     
-* OS and app updates
+*  OS and app updates
 
 
 ##How to build MDM without Custom ROM and Rooting
@@ -129,16 +129,16 @@ That is when we decided to go with Custom ROM which would help us:
 Using Android API, along with a [Push Technology](https://en.wikipedia.org/wiki/Push_technology) [such as[Google Cloud Messaging](https://developers.google.com/cloud-messaging/)],we can create an MDM solution to:
 
 
-* Manage apps in the device
+*  Manage apps in the device
 
     
-* Manage content in the device
+*  Manage content in the device
 
     
-* Run apps in Kiosk mode
+*  Run apps in Kiosk mode
 
     
-* Control low-security level features eg: lock/unlock device, control volume, Wifi settings
+*  Control low-security level features eg: lock/unlock device, control volume, Wifi settings
 
 At Multunus, we have started an [Open Source MDM - OneMDM  ](http://multunus.github.io/onemdm-server/)to help those who need a barebones MDM solution. Please take a look at the 
 [Live Demo](http://multunus.github.io/onemdm-server/#live-demo) section if you would like to give a try.

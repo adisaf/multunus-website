@@ -89,13 +89,13 @@ With Robolectric getting better with each release you don't have many excuses no
 **References**
 
 
-*[http://www.slideshare.net/leenasn](http://www.slideshare.net/leenasn)
+* [http://www.slideshare.net/leenasn](http://www.slideshare.net/leenasn)
 
     
-*[http://robolectric.org/](http://robolectric.org/)
+* [http://robolectric.org/](http://robolectric.org/)
 
     
-*[http://www.slideshare.net/tylerschultz/robolectric-android-unit-testing-framework](http://www.slideshare.net/tylerschultz/robolectric-android-unit-testing-framework)
+* [http://www.slideshare.net/tylerschultz/robolectric-android-unit-testing-framework](http://www.slideshare.net/tylerschultz/robolectric-android-unit-testing-framework)
 
     
-*[https://sites.google.com/site/androiddevtesting/](https://sites.google.com/site/androiddevtesting/)
+* [https://sites.google.com/site/androiddevtesting/](https://sites.google.com/site/androiddevtesting/)

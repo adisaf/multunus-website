@@ -101,13 +101,13 @@ Here’s how the 12 questions and the employee mindset match up to the levels of
 At this stage the employee is concerned about what he is getting. The questions that he needs to be answered are:
 
 
-* What’s my pay going to be?
+*  What’s my pay going to be?
 
     
-* How long am I going to work?
+*  How long am I going to work?
 
     
-* Will I have an office, desk or a phone to work with?
+*  Will I have an office, desk or a phone to work with?
 
 To measure how well their **basic needs** have been met with, we can use these two questions:
 
@@ -129,16 +129,16 @@ We need to ask them these questions to measure their level of engagement at the
 individual level:
 
 
-1. At work, do I have the opportunity to do what I do best every day? *[If they are doing well in your role]*
+1. At work, do I have the opportunity to do what I do best every day? * [If they are doing well in your role]* 
 
     
-2. In the last seven days, have I received recognition or praise for doing good work? *[Do other people value your individual performance]*
+2. In the last seven days, have I received recognition or praise for doing good work? * [Do other people value your individual performance]* 
 
     
-3. Does my supervisor, or someone at work, seems to care about me as a person? *[Do people value as a person]*
+3. Does my supervisor, or someone at work, seems to care about me as a person? * [Do people value as a person]* 
 
     
-4. Is there someone at work who encourages my development? *[Is someone interested in investing in your individual growth]*
+4. Is there someone at work who encourages my development? * [Is someone interested in investing in your individual growth]* 
 
 
 **Camp 2: Do I belong here?**

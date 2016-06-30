@@ -124,7 +124,7 @@ You might be wondering what the fuss is all about. Things don't look exciting ri
 ##Props
 
 
-The *props* (short for properties) are a component’s **configuration**. They are received from a component above it in the component hierarchy. Props are treated as **immutable**in the component receiving them. This means data flow should be top-down.
+The * props*  (short for properties) are a component’s **configuration**. They are received from a component above it in the component hierarchy. Props are treated as **immutable**in the component receiving them. This means data flow should be top-down.
 
 It sounds confusing I know, but it's really intuitive once you think about it. Props are passed down to a child component from it's parent component. As far as the child is concerned, the prop is owned by the parent and only the parent should modify it.
 
@@ -164,13 +164,13 @@ Therefore, a component is not supposed to change its props, in other words **nev
 No points for guessing what the above code snippet does! It’s mostly the same code as before, but with a slight modification. The `Text` component inside `App` takes an attribute called `content` with the value “I am React”. This is how we transfer data into a component:
 
 
-* The attribute `content` is pushed to the props object of the current instance of the `Text` component.
+*  The attribute `content` is pushed to the props object of the current instance of the `Text` component.
 
 
-* Within the component, this attribute is now accessible as `this.props.name`.
+*  Within the component, this attribute is now accessible as `this.props.name`.
 
 
-* The handlebars(`{ }`) lets the JSX transformer know that it’s contents should be evaluated and replaced.
+*  The handlebars(`{ }`) lets the JSX transformer know that it’s contents should be evaluated and replaced.
 
 The parent, in this case, is `App` and the child is `Text`, as mentioned previously, parent provides the child component with the necessary props.
 
@@ -180,7 +180,7 @@ Follow this [post](http://www.sitepoint.com/video-using-props-to-pass-data-in-re
 ##State
 
 
-State is what you use when you want your application to be interactive. The *state* is initialized with a default value when a component is mounted in the DOM. It then undergoes **mutations** as time passes. These mutations are usually triggered from user events or client-server interaction. It is the representation of a component at a given point of time.
+State is what you use when you want your application to be interactive. The * state*  is initialized with a default value when a component is mounted in the DOM. It then undergoes **mutations** as time passes. These mutations are usually triggered from user events or client-server interaction. It is the representation of a component at a given point of time.
 
 A component takes care of its state internally, but it should not mess with the state of its children. Most of the time, state of the parent is passed down as a prop to the child.
 
@@ -230,22 +230,22 @@ React components can hold state information within them. Each instance of a comp
 We have modified Spinner component to be able to use the `show` prop. Spinner will now return an empty `div` tag if the value of `show` is false.
 
 Let's see what changes we have made to `App` component.
-* It calls super with props to prepare the component for rendering
-* It initializes the state. In this case, `showSpinner` is set to `false`.
-* `Spinner` component is given a prop called `show` which takes the value of the `showSpinner` state element.
+*  It calls super with props to prepare the component for rendering
+*  It initializes the state. In this case, `showSpinner` is set to `false`.
+*  `Spinner` component is given a prop called `show` which takes the value of the `showSpinner` state element.
 
 By now you have probably guessed what we are trying to do, we are passing in the state `showSpinner` as a prop to `Spinner`. `Spinner` will now use this prop to determine whether it should display a spinner or not.
 
 There are certain things you should take care of when using state in your app:
 
 
-* State reduces predictability and increases the complexity of your application
+*  State reduces predictability and increases the complexity of your application
 
 
-* Try to use as few components with state as possible.
+*  Try to use as few components with state as possible.
 
 
-* Stateful components are mainly used for handling user events, client-server communication etc.
+*  Stateful components are mainly used for handling user events, client-server communication etc.
 
 This excellent 
 [post](https://facebook.github.io/react/docs/interactivity-and-dynamic-uis.html) will give you more information about when to use state.
@@ -255,7 +255,7 @@ This excellent
 
 
 Alright, state is no fun if we can’t mutate it. Let’s see a small example of how state can be mutated through a user event. Go on to the JS Bin link and try clicking on 
-*Toggle Spinner*
+* Toggle Spinner* 
 
 
 [Check out this code on JS Bin](http://jsbin.com/vusuje/15/edit)
@@ -311,16 +311,16 @@ Leave your thoughts and suggestions below and make sure to [follow us](https://t
 
 
 
-* [How I learned to stop worrying and love React](http://firstdoit.com/react-1/)
+*  [How I learned to stop worrying and love React](http://firstdoit.com/react-1/)
 
 
-* [React on ES6+](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
+*  [React on ES6+](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
 
 
-* [React Koans](https://github.com/arkency/reactjs_koans)
+*  [React Koans](https://github.com/arkency/reactjs_koans)
 
 
-* [How to communicate between React Components](http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
+*  [How to communicate between React Components](http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
 
 
-* [Curated list of React resources](https://github.com/enaqx/awesome-react)
+*  [Curated list of React resources](https://github.com/enaqx/awesome-react)

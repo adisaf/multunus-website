@@ -12,7 +12,7 @@ link: http://www.multunus.com/blog/2014/09/using-google-hangouts-air-remote-usab
 
 ![Remote Usability Testing](http://www.multunus.com/wp-content/uploads/2014/09/6963131702_a1037a4a0f_b-e1410934533354.jpg)
 
-*Convenience* is one of the key advantages of Remote Usability Testing. You don't need to get the participant in-house and it works especially well when your users are spread across different locations.
+* Convenience*  is one of the key advantages of Remote Usability Testing. You don't need to get the participant in-house and it works especially well when your users are spread across different locations.
 
 But that could just turn around if your tools start to give-up on you. With remote testing, you now have 2 points of failure - participant's and your's. There could be restrictions on installing new software on the participants machine and problems with setting up the microphone and internet issues could easily gobble up the allotted time.
 
@@ -23,25 +23,25 @@ But that could just turn around if your tools start to give-up on you. With remo
 For for past couple of tests, we tried **Google Hangout on Air** and liked it for the following reasons:
 
 
-* Most participants already have it installed and know how to use Google Hangout.
+*  Most participants already have it installed and know how to use Google Hangout.
 
     
-* Screen Sharing is just a click away.
+*  Screen Sharing is just a click away.
 
     
-* Unlike some screen recording solutions, you don't have to worry about recording both the participant's and your voice.
+*  Unlike some screen recording solutions, you don't have to worry about recording both the participant's and your voice.
 
     
-* You can add as many observers as needed.
+*  You can add as many observers as needed.
 
     
-* After you are done, it saves the video on YouTube for you.
+*  After you are done, it saves the video on YouTube for you.
 
     
-* Even if you get disconnected, the session continues and you can join where you left.
+*  Even if you get disconnected, the session continues and you can join where you left.
 
     
-* It's free :) .
+*  It's free :) .
 
 
 ##How-to

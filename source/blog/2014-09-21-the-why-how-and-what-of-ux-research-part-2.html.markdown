@@ -32,8 +32,8 @@ At this stage, you should be looking for a combination of **Qualitative ** and 
 ###In-depth User Interviews
 
 
-In Early stages of your product, there is no substitute for talking to users directly. *Is the problem you are trying to solve even a real problem? 
-Who are the people facing the problem?* Nailing these down are keystones for your project.
+In Early stages of your product, there is no substitute for talking to users directly. * Is the problem you are trying to solve even a real problem? 
+Who are the people facing the problem?*  Nailing these down are keystones for your project.
 
 Start with [Proto-Personas](http://uxmag.com/articles/using-proto-personas-for-executive-alignment) and recruit users who match the personas. As you talk to more users, keep refining the persona.
 
@@ -53,7 +53,7 @@ I would highly recommend a **[Jobs To Be Done](www.youtube.com/watch?v=f84LymEs6
 3.Scheduling: [AssistantTo](http://www.trybetty.com/assistantto/)
 
 
-*Tip: Use [SoundFlower (Free)](http://cycling74.com/products/soundflower/) to be able to record both sides of the call.*
+* Tip: Use [SoundFlower (Free)](http://cycling74.com/products/soundflower/) to be able to record both sides of the call.* 
 
 Update: We tried Google Hangout on Air for the interviews and found it to work quite well for remote interviews. You can do away recording mess too. 
 [Read more here](www.multunus.com/blog/2014/09/using-google-hangouts-air-remote-usability-testing/).
@@ -72,7 +72,7 @@ Contextual Inquiry often involves stalking the user (legally, of course) and col
 
 
 
-* [Remote Contextual Inquiry: A Technique to Improve Enterprise Software](http://boxesandarrows.com/remote-contextual-inquiry-a-technique-to-improve-enterprise-software/)
+*  [Remote Contextual Inquiry: A Technique to Improve Enterprise Software](http://boxesandarrows.com/remote-contextual-inquiry-a-technique-to-improve-enterprise-software/)
 
 
 ###Experience Sampling
@@ -86,7 +86,7 @@ Watch how Google used this method to improve their search experience in [Don't L
 **Tools:**[PACo (Private Beta)](https://quantifiedself.appspot.com/main.jsp), [MetricWire (Paid)](https://metricwire.com/), [mEMA (Paid)](https://itunes.apple.com/us/app/mema/id593566606?ls=1&mt=8), [More Tools...](http://www.otago.ac.nz/psychology/otago047475.pdf)
 
 
-*Tip: If you are relying on questionnaire, remember to keep it short. The more time the participant has to invest, the less participation you'll have.*
+* Tip: If you are relying on questionnaire, remember to keep it short. The more time the participant has to invest, the less participation you'll have.* 
 
 
 ###Surveys
@@ -97,16 +97,16 @@ A survey is a questionnaire on a random sample of your target population. Survey
 The success of the survey depends largely on how you sample your users and the framing of your questions. Here are a few tips:
 
 
-* Keep it short.
+*  Keep it short.
 
     
-* Use multiple choice questions. Aim for accuracy not precision.
+*  Use multiple choice questions. Aim for accuracy not precision.
 
     
-* Keep questions granular and try not to combine measures.
+*  Keep questions granular and try not to combine measures.
 
     
-* If you end up with more questions, cycle questions with different users.
+*  If you end up with more questions, cycle questions with different users.
 
 
 **Tools:**[Wufoo (Freemium)](http://wufoo.com), [SurveyMonkey (Freemium)](http://surveymonkey.com), [TypeForm (Freemium)](http://www.typeform.com/), [Google Forms (Free)](http://www.google.com/google-d-s/createforms.html)
@@ -121,7 +121,7 @@ Once you have figured out that the problem you are trying to solve is worth solv
 ###Card Sorting / Tree Testing
 
 
-Card Sorting is process for figuring out the optimal Information Architecture - how users would *expect* to find content or functionality. This knowledge is especially useful if you have a large number of categories and menu items.
+Card Sorting is process for figuring out the optimal Information Architecture - how users would * expect*  to find content or functionality. This knowledge is especially useful if you have a large number of categories and menu items.
 
 This involves your content to be laid out in cards and having your user sort them in order or lay them in hierarchy.
 
@@ -133,7 +133,7 @@ This involves your content to be laid out in cards and having your user sort the
 
 
 
-* [Boxes And Arrows has a great Guide on Card Sorting](http://boxesandarrows.com/card-sorting-a-definitive-guide/)
+*  [Boxes And Arrows has a great Guide on Card Sorting](http://boxesandarrows.com/card-sorting-a-definitive-guide/)
 
 
 ###Paper Prototyping
@@ -148,17 +148,17 @@ You quickly sketch screens of the product on paper and conduct usability testin
 
 
 
-* [Printable Templates](http://www.smashingmagazine.com/2010/03/29/free-printable-sketching-wireframing-and-note-taking-pdf-templates/) you can use for faster prototyping.
+*  [Printable Templates](http://www.smashingmagazine.com/2010/03/29/free-printable-sketching-wireframing-and-note-taking-pdf-templates/) you can use for faster prototyping.
 
     
-* Easily make the paper prototypes interactive using [MarvelApp](https://marvelapp.com/) or [InvisionApp](http://invisionapp.com/) or [Flinto](https://www.flinto.com/)
+*  Easily make the paper prototypes interactive using [MarvelApp](https://marvelapp.com/) or [InvisionApp](http://invisionapp.com/) or [Flinto](https://www.flinto.com/)
 
 
 **Further Reading:**
 
 
 
-* [10 Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
+*  [10 Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
 
 
 ##3. Assess
@@ -208,7 +208,7 @@ It's all about the first impressions! The test involves showing your design to t
 ###First Click Testing
 
 
-From the same train of thought as the 5 second test, the *first click* testing is about getting the actions right the first time.
+From the same train of thought as the 5 second test, the * first click*  testing is about getting the actions right the first time.
 
 Given a certain task, will the user know where to click without having to probe through?
 
@@ -220,10 +220,10 @@ Given a certain task, will the user know where to click without having to probe 
 
 
 
-* [The vital importance of the first click](http://www.gerrymcgovern.com/new-thinking/vital-importance-first-click)
+*  [The vital importance of the first click](http://www.gerrymcgovern.com/new-thinking/vital-importance-first-click)
 
     
-* [First Click Testing](http://www.measuringusability.com/blog/first-click.php)
+*  [First Click Testing](http://www.measuringusability.com/blog/first-click.php)
 
  
 

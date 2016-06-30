@@ -29,13 +29,13 @@ Leena gave a lightning talk on “Push Button Deployment with Jenkins”.
 
 
 **DroidCon India 2011:**
-We gave two talks at this conference:*Leena and I co-presented on “Continuous Delivery for an Android application”. Here’s the 
+We gave two talks at this conference:* Leena and I co-presented on “Continuous Delivery for an Android application”. Here’s the 
 [original proposal](http://funnel.hasgeek.com/droidcon/83-continuous-delivery-for-an-android-application) and 
 [here’s the link to the prezi](http://prezi.com/56ueprf0mkql/continuous-delivery-on-android/). Here’s a 
 [short video](http://www.youtube.com/watch?feature=player_embedded&v=uNvjNIK1EEU) where Leena and I describe the talk.
 
     
-*Tamil and KP gave an intro to OpenGL on Android. Here’s the 
+* Tamil and KP gave an intro to OpenGL on Android. Here’s the 
 [original proposal](http://funnel.hasgeek.com/droidcon/94-introduction-to-opengl-in-android) and here’s the 
 [link to the presentation](http://www.slideshare.net/tamillarasan/introduction-to-openglinandroid?from=ss_embed).
 

@@ -18,12 +18,12 @@ After few days, our client asked us to implement this feature. When we started t
 
 We discovered the following reasons:
 
-*We hadn’t gone through the usual process of breaking down the feature to the desired level of granularity. Digging deeper, the following root causes emerged:
+* We hadn’t gone through the usual process of breaking down the feature to the desired level of granularity. Digging deeper, the following root causes emerged:
 
-*The project had been on ‘pause’ mode for a couple of weeks and we had gotten busy with other things in the meanwhile.
+* The project had been on ‘pause’ mode for a couple of weeks and we had gotten busy with other things in the meanwhile.
 
 	
-*The value of the feature [to the end user] was not completely obvious to us.
+* The value of the feature [to the end user] was not completely obvious to us.
 The solution? We’ve decided to ask ourselves the following question before sending across an estimate to any client in the future:
 
 >Is this a 

@@ -27,16 +27,16 @@ In the recent past, we had the opportunity to work with multiple MDM solutions a
 Now lets look at what can be managed with the MDM solution. If you look at the above examples it includes:
 
 
-* **Managing applications** remotely installing/deleting/updating apps
+*  **Managing applications** remotely installing/deleting/updating apps
 
     
-* **Restricting the access or enforcing policies** on the device, such as Securing content on the device, Configuring WiFi access etc.
+*  **Restricting the access or enforcing policies** on the device, such as Securing content on the device, Configuring WiFi access etc.
 
     
-* **Remote management of the device** itself, such as wiping content, turning screen off/on etc.
+*  **Remote management of the device** itself, such as wiping content, turning screen off/on etc.
 
     
-* And lastly, **content** **management,** Pushing files to device, deleting files etc.
+*  And lastly, **content** **management,** Pushing files to device, deleting files etc.
 
 
 ##What is BYOD?
@@ -59,19 +59,19 @@ The fragmented nature of the Android world BYOD makes MDM more complex.
 There are a lot of MDM solutions available and you need to choose the one which matches the requirement. Some of the popular solutions are:
 
 
-* Airwatch
+*  Airwatch
 
     
-* MobileIron
+*  MobileIron
 
     
-* Apperian
+*  Apperian
 
     
-* Dell EMM
+*  Dell EMM
 
     
-* Citrix XenMobile
+*  Citrix XenMobile
 
 
 When you use the remote management console that comes with the above products, the experience is more of a typical [COTS application](https://en.wikipedia.org/wiki/Commercial_off-the-shelf), than the modern SaaS products. If you’ve used the standard enterprise applications such as email applications or word processing applications, you might be able to relate to what I am talking about here.

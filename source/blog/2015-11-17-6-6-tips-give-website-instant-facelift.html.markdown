@@ -24,16 +24,16 @@ You might feel that every feature, every section is important. But by keeping al
 **Try this exercise alone or with the team:**
 
 
-* Start with $100
+*  Start with $100
 
 	
-* Distribute the money appropriately to the sections on the screen based on importance.
+*  Distribute the money appropriately to the sections on the screen based on importance.
 
 	
-* Once you've exhausted all of it, deliberate if you can get rid of the sections that received little or no money.
+*  Once you've exhausted all of it, deliberate if you can get rid of the sections that received little or no money.
 
 
-* Consider doing a [squint test](http://pages.ucsd.edu/~jalevin/gp/blurred/index.html) by leaning back and looking at the screen while squinting your eyes.
+*  Consider doing a [squint test](http://pages.ucsd.edu/~jalevin/gp/blurred/index.html) by leaning back and looking at the screen while squinting your eyes.
 
 
 
@@ -46,13 +46,13 @@ The most important detail and actions on the screen should be easy to spot. If y
 **Here are a few techniques to do that:**
 
 
-* Make the text larger or bolder
+*  Make the text larger or bolder
 
 	
-* Add contrast by changing the color of the text or background to a more contrasting one.
+*  Add contrast by changing the color of the text or background to a more contrasting one.
 
 	
-* If it’s the text on an image, add a black overlay to the background and a black text shadow.
+*  If it’s the text on an image, add a black overlay to the background and a black text shadow.
 
 
 

@@ -9,10 +9,10 @@ tags:
 link: http://www.multunus.com/blog/2014/10/fireside-chat-ash-maurya-understanding-lean-startups-part-5/
 ---
 
-This is the fifth part the multipart series: *“Fireside Chat With Ash Maurya”* ([Read part 4 here](http://www.multunus.com/blog/2014/08/fireside-chat-ash-maurya-understanding-lean-startups-part-4/)).
+This is the fifth part the multipart series: * “Fireside Chat With Ash Maurya”*  ([Read part 4 here](http://www.multunus.com/blog/2014/08/fireside-chat-ash-maurya-understanding-lean-startups-part-4/)).
 
 
-**Vaidy**: *[With reference to what you said about working towards making an entrepreneur better and not keeping the business goal as our primary focus]* This is something that I personally battle with. We want to do the right thing for others. But, we are also doing it because at the end of that there is a business goal and we are trying to focus more on the first and leaving the second as a potential benefit. That's quite hard.
+**Vaidy**: * [With reference to what you said about working towards making an entrepreneur better and not keeping the business goal as our primary focus]*  This is something that I personally battle with. We want to do the right thing for others. But, we are also doing it because at the end of that there is a business goal and we are trying to focus more on the first and leaving the second as a potential benefit. That's quite hard.
 
 
 **Ash**: Definitely it requires a leap of faith. I see this a lot. Some of the Agile companies in the US are trying to experiment with different models.

@@ -10,7 +10,7 @@ tags:
 link: http://www.multunus.com/blog/2015/09/our-autonomous-salary-system-the-background-story-part-1/
 ---
 
-A few of us (read *founders*) in the company had the ominous responsibility called the… “Yearly Compensation Revision”.
+A few of us (read * founders* ) in the company had the ominous responsibility called the… “Yearly Compensation Revision”.
 
 
 We dreaded it. Every year.
@@ -22,22 +22,22 @@ We dreaded it. Every year.
 [Image Credit](https://www.flickr.com/photos/paolomargari/)
 
 
-* It did not fall into the “creative” tasks bucket. We hardly learned anything from doing the same thing year after year.
+*  It did not fall into the “creative” tasks bucket. We hardly learned anything from doing the same thing year after year.
 
     
-* We had almost no feedback on whether our team trusted us in being fair.
+*  We had almost no feedback on whether our team trusted us in being fair.
 
     
-* This sucked a significant amount of time from our other work.
+*  This sucked a significant amount of time from our other work.
 
 
 We wondered: What would be the exact opposite of what we were doing?
 
 
-* What if we could actuallytransparency and autonomy every time we went through the process?
+*  What if we could actuallytransparency and autonomy every time we went through the process?
 
     
-* Would it be possible to make the whole process enjoyable? Something that we actually looked forward to?
+*  Would it be possible to make the whole process enjoyable? Something that we actually looked forward to?
 
 
 Those were the questions that intrigued us to a point, that we couldn’t shake the curiosity off any longer. So after many years of being afraid to do it, we finally bit the bullet.
@@ -46,10 +46,10 @@ Those were the questions that intrigued us to a point, that we couldn’t shake 
 We did two things:
 
 
-* We made our salaries transparent. All of our salaries are now open to everyone within the company.
+*  We made our salaries transparent. All of our salaries are now open to everyone within the company.
 
     
-* We made the compensation revision system democratic. Everyone chooses their preferred salary and then tries to get enough support from the rest of our team to justify their expectation.
+*  We made the compensation revision system democratic. Everyone chooses their preferred salary and then tries to get enough support from the rest of our team to justify their expectation.
 
 
 If you’re curious how the system works, check out our [open playbook](http://github.com/multunus/open-playbook) and [our public spreadsheet template](https://docs.google.com/spreadsheets/d/1MhoSHHSpOKYPM1Nx5n2XmjlK2ddouxL6byqEH0fZS2s/edit#gid=1267023075).
@@ -58,7 +58,7 @@ If you’re curious how the system works, check out our [open playbook](http://g
 The focus of this post series is to share our experience doing this for the first time. We made a ton of mistakes but also learned a lot.
 
 
-At the end of it all, what I think we’ve succeeded in doing is starting a movement of transparency and autonomy at Multunus. From that perspective, this was a *bang* of a beginning. :)
+At the end of it all, what I think we’ve succeeded in doing is starting a movement of transparency and autonomy at Multunus. From that perspective, this was a * bang*  of a beginning. :)
 
 
 ##Creating Ownership
@@ -90,10 +90,10 @@ No prizes for getting this right. The founders have the key responsibility of ta
 So we made the following decisions to:
 
 
-* Increasingly make usually-considered-sensitive-and-confidential information transparent
+*  Increasingly make usually-considered-sensitive-and-confidential information transparent
 
     
-* To distribute control across everyone in the company. This means making it the *responsibility* of everyone in the company to take important business decisions that are usually within the control of the founders or senior executives
+*  To distribute control across everyone in the company. This means making it the * responsibility*  of everyone in the company to take important business decisions that are usually within the control of the founders or senior executives
 
 
 The autonomous salary system was the first step in the above direction.
@@ -106,19 +106,19 @@ The autonomous salary system was the first step in the above direction.
 We had the following goals for the new compensation system we were putting together:
 
 
-* Dramatically increase the level of transparency with respect to compensation related matters.
+*  Dramatically increase the level of transparency with respect to compensation related matters.
 
     
-* Provide total control to the team to choose their own salaries.
+*  Provide total control to the team to choose their own salaries.
 
     
-* Train the team to start using our financial data to make well-informed compensation level decisions.
+*  Train the team to start using our financial data to make well-informed compensation level decisions.
 
     
-* Keep the whole be open - so that everyone could react during any step of the process if they had feedback or wanted changes.
+*  Keep the whole be open - so that everyone could react during any step of the process if they had feedback or wanted changes.
 
     
-* Execute the process with as little disruption as possible to our day to day operations.
+*  Execute the process with as little disruption as possible to our day to day operations.
 
 
 ##Risks
@@ -128,15 +128,15 @@ We had the following goals for the new compensation system we were putting toget
 To list out the risks of launching this kind of system, we:
 
 
-* **Researched other companies**: We found a lot of very good articles (See References at the end) -[especially this one](http://positivesharing.com/2006/08/the-case-against-open-salaries/). The two companies that were most useful in providing inspiration and confidence were:
+*  **Researched other companies**: We found a lot of very good articles (See References at the end) -[especially this one](http://positivesharing.com/2006/08/the-case-against-open-salaries/). The two companies that were most useful in providing inspiration and confidence were:
 
-* [Buffer](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/):Both for their radical levels of transparency (their salaries are open to the public!) and also for their simple salary formula (that we used as our foundation).
+*  [Buffer](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/):Both for their radical levels of transparency (their salaries are open to the public!) and also for their simple salary formula (that we used as our foundation).
 
     
-* [Semco](https://en.wikipedia.org/wiki/Ricardo_Semler):For Ricardo Semler’s vision of egalitarian workplaces.
+*  [Semco](https://en.wikipedia.org/wiki/Ricardo_Semler):For Ricardo Semler’s vision of egalitarian workplaces.
 
 
-* **Surveyed the mood of the team:** The idea of introducing this kind of radical transparency and autonomy did indeed induce some amount of fear and doubt - but also curiosity and aspiration.
+*  **Surveyed the mood of the team:** The idea of introducing this kind of radical transparency and autonomy did indeed induce some amount of fear and doubt - but also curiosity and aspiration.
 
 
 From the research and surveys, we found two broad types of risks:
@@ -155,29 +155,29 @@ From the research and surveys, we found two broad types of risks:
 Here's the key social risks we considered:
 
 
-* **Perception of unfairness:** This is usually caused by high levels of subjectivity and ambiguity in the salary determination process. We introduced a “salary formula” to make the process more objective.
+*  **Perception of unfairness:** This is usually caused by high levels of subjectivity and ambiguity in the salary determination process. We introduced a “salary formula” to make the process more objective.
 
     
-* **Higher pay for those with higher influence and negotiation skills:** This is a possibility in an autonomous system. We introduced a democratic system of checks and balances to lower this risk.
+*  **Higher pay for those with higher influence and negotiation skills:** This is a possibility in an autonomous system. We introduced a democratic system of checks and balances to lower this risk.
 
     
-* Embarrassment for those with lower pay: This was a key concern.**
+*  Embarrassment for those with lower pay: This was a key concern.**
 
-   * **The good:** In the “less transparent” past we had put in significant efforts to maintain compensation fairness across the team. So making the salaries open wasn’t a big deal from that perspective.
-
-    
-   * **The not-so-good:** But we were concerned that a certain group of folks (playing a specific role) within our team were being paid significantly less than their counterparts. While this was not kept secret per se, the risk of bruised egos in a transparent environment was still a significant risk.
+   *  **The good:** In the “less transparent” past we had put in significant efforts to maintain compensation fairness across the team. So making the salaries open wasn’t a big deal from that perspective.
 
     
-   * **The solution:**
-
-      * We decided not to reveal the existing salaries of our people. Only the newly revised self-determined would be open to everyone.
+   *  **The not-so-good:** But we were concerned that a certain group of folks (playing a specific role) within our team were being paid significantly less than their counterparts. While this was not kept secret per se, the risk of bruised egos in a transparent environment was still a significant risk.
 
     
-      * The root cause of this risk is lack of confidence. The solution for this is to coach people to be comfortable in their own skin and attain self-confidence by creating significant value for our customers and the community. We do that too.
+   *  **The solution:**
+
+      *  We decided not to reveal the existing salaries of our people. Only the newly revised self-determined would be open to everyone.
 
     
-   * **Salary is a personal matter for some people:** While we do appreciate this fact, our priority is higher trust across the team. We also believe this is a perspective that can change with good coaching.
+      *  The root cause of this risk is lack of confidence. The solution for this is to coach people to be comfortable in their own skin and attain self-confidence by creating significant value for our customers and the community. We do that too.
+
+    
+   *  **Salary is a personal matter for some people:** While we do appreciate this fact, our priority is higher trust across the team. We also believe this is a perspective that can change with good coaching.
 
 
 ##Financial Risks
@@ -187,10 +187,10 @@ Here's the key social risks we considered:
 Here’s the list of Financial Risks:
 
 
-* **The operational expenses could spiral out of control**- potentially affecting the sustainability of the business.
+*  **The operational expenses could spiral out of control**- potentially affecting the sustainability of the business.
 
     
-* **Opening up our books**: For us to be truly transparent, we would need to open up our books as well to everyone in the company. This could be a Pandora’s box - bringing in a whole new set of questions, concerns or doubts about the company.
+*  **Opening up our books**: For us to be truly transparent, we would need to open up our books as well to everyone in the company. This could be a Pandora’s box - bringing in a whole new set of questions, concerns or doubts about the company.
 
 
 The rest of this post will focus on the Social Risks and how we’ve tried to mitigate them. Part 2 of this series will detail the Financial Risks.
@@ -206,19 +206,19 @@ The first step we took was to standardize the salary structure using a “Salary
 The Buffer salary formula has 3 components, corresponding “attributes” and “attribute numbers”:
 
 
-* The **Role** and the corresponding Base Salary
+*  The **Role** and the corresponding Base Salary
 
     
-* The **Skill Level** and the corresponding Multiplier Factor
+*  The **Skill Level** and the corresponding Multiplier Factor
 
     
-* The **Leadership component** and the corresponding Additive Factor
+*  The **Leadership component** and the corresponding Additive Factor
 
 
 We added a fourth component:
 
 
-* **Flexibility Factor** and the corresponding multiplier factor. We added this to suit the needs of some of our employees - who preferred to work lesser hours.
+*  **Flexibility Factor** and the corresponding multiplier factor. We added this to suit the needs of some of our employees - who preferred to work lesser hours.
 
 
 ![image02](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2015/09/image02-1024x592.png)
@@ -230,16 +230,16 @@ We added a fourth component:
 While the above formula structure was a great start, we still had to determine what attributes and attribute numbers would make sense for us. Specifically:
 
 
-* What roles and matching base salaries would make sense for us?
+*  What roles and matching base salaries would make sense for us?
 
     
-* What skill levels and matching multiplier factors should we go with?
+*  What skill levels and matching multiplier factors should we go with?
 
     
-* What leadership levels and corresponding numbers should we choose?
+*  What leadership levels and corresponding numbers should we choose?
 
     
-* How would the Flexibility factor work?
+*  How would the Flexibility factor work?
 
 
 ##3 Circle Org structure
@@ -252,10 +252,10 @@ We knew multiple iterations would be needed until we had the final list of attri
 As mentioned earlier, we also had two additional goals:
 
 
-* Do these iterations in the open and by keeping everyone in the company involved
+*  Do these iterations in the open and by keeping everyone in the company involved
 
     
-* Ensure that we were making consistent progress and not disrupting our daily operations too much
+*  Ensure that we were making consistent progress and not disrupting our daily operations too much
 
 
 To achieve both of those goals, we created a 3 Circle Org Structure:
@@ -273,7 +273,7 @@ To achieve both of those goals, we created a 3 Circle Org Structure:
 
 And finally we had everyone else.
 
-> ***Side Note**: We prefer to use circles rather than a pyramid - because this is not really about authority and control - but more about efficiency, pragmatism and responsibility. The folks at the center are held more accountable to ensure success of the process than the folks on the outer circles.*
+> ***Side Note**: We prefer to use circles rather than a pyramid - because this is not really about authority and control - but more about efficiency, pragmatism and responsibility. The folks at the center are held more accountable to ensure success of the process than the folks on the outer circles.* 
 
 
 We iterated through the process of plugging in numbers for each of the components until we had something that we thought would work for everyone. The Heads would first come up with some values for each of the components in the formula - and then invite the Council members to provide feedback. And when the Heads and the Council were in sync - we were  ready to involve everyone else in the company - and get their feedback.
@@ -335,51 +335,51 @@ We made the following changes, to implement the above learnings:
 The heads got together the next morning and came up with the following changes to separate the Company and Individual level numbers - albeit at the expense of significantly reducing transparency and autonomy:
 
 
-* **Step 1: Private Review of Company Level Numbers:** We removed visibility to the spreadsheet temporarily - so it was visible only to the heads at this point. We then reviewed and revised the Attribute Lists and the Attribute Numbers - keeping the following two goals in mind:
+*  **Step 1: Private Review of Company Level Numbers:** We removed visibility to the spreadsheet temporarily - so it was visible only to the heads at this point. We then reviewed and revised the Attribute Lists and the Attribute Numbers - keeping the following two goals in mind:
 
-  * Use the data we’d collected from the earlier exercise as a key indicator of the salary preferences of the whole team
-
-    
-  * Ensure that fairness would be maintained across everyone in the company - across roles, skill levels and leadership
+  *  Use the data we’d collected from the earlier exercise as a key indicator of the salary preferences of the whole team
 
     
-  * Ensure that the sustainability of our business would be maintained
-
-
-*The good news*: We were already mid-way through the whole process and the formula numbers were already somewhat stabilized - enough data for us to feel confident of feeling the pulse of the team correctly.
-
-
-* **Step 2: Choosing the Individual Levels for each of the Formula Components:**We kept the Company Level formula numbers hidden - and asked the Council members and everyone else in the company to select their (Individual Level) role, skill, leadership and flexibility components - in that order.
-
-   * This ensured that each individual would have to choose their Roles, Skill Levels and Leadership values purely on the basis of theof those components - and not on the compensation that would finally get calculated.
+  *  Ensure that fairness would be maintained across everyone in the company - across roles, skill levels and leadership
 
     
-   * This required a leap of faith on behalf of our team, but we had little resistance to the idea from anyone on the team.
+  *  Ensure that the sustainability of our business would be maintained
+
+
+* The good news* : We were already mid-way through the whole process and the formula numbers were already somewhat stabilized - enough data for us to feel confident of feeling the pulse of the team correctly.
+
+
+*  **Step 2: Choosing the Individual Levels for each of the Formula Components:**We kept the Company Level formula numbers hidden - and asked the Council members and everyone else in the company to select their (Individual Level) role, skill, leadership and flexibility components - in that order.
+
+   *  This ensured that each individual would have to choose their Roles, Skill Levels and Leadership values purely on the basis of theof those components - and not on the compensation that would finally get calculated.
 
     
-* **Step 3: Democracy for the Individual Levels:** Once everyone was done choosing their respective individual components - we brought in the first level of democracy:
-
-   * We asked everyone on the team to get upvotes from at least 6 others in the company with a good distribution of roles, skill levels and leadership levels - demonstrating support for their individual decisions.
+   *  This required a leap of faith on behalf of our team, but we had little resistance to the idea from anyone on the team.
 
     
-   * If someone could not get support, then they would need to check in with the others to find out why. They could at this point do what is common sense - either convince the others that the numbers made sense or get convinced to change their own numbers.
+*  **Step 3: Democracy for the Individual Levels:** Once everyone was done choosing their respective individual components - we brought in the first level of democracy:
+
+   *  We asked everyone on the team to get upvotes from at least 6 others in the company with a good distribution of roles, skill levels and leadership levels - demonstrating support for their individual decisions.
 
     
-   * This was a magical moment - because for the first time in the company’s history, the leadership was not involved in these decisions. It was driven by the whole team.
+   *  If someone could not get support, then they would need to check in with the others to find out why. They could at this point do what is common sense - either convince the others that the numbers made sense or get convinced to change their own numbers.
 
     
-   * Once everyone was done getting the support needed for their numbers - we locked the spreadsheet to avoid future changes.
+   *  This was a magical moment - because for the first time in the company’s history, the leadership was not involved in these decisions. It was driven by the whole team.
 
     
-* **Step 4: Salaries Revealed:** We then revealed the Company Level numbers to everyone and then applied the formula numbers across the team. Suddenly, everyone on the team could see their salaries :).
+   *  Once everyone was done getting the support needed for their numbers - we locked the spreadsheet to avoid future changes.
 
     
-* **Step 5: Democracy for the Salaries:** At this point, we asked everyone to either say “ok” or “not ok” against the numbers that they could see against their name.
-
-   * If there was a “not ok”, then they were also required to state in the open spreadsheet - why they felt the numbers were not appropriate, how much they expected and why it was better for them as well as for the company that an override should be approved for themselves.
+*  **Step 4: Salaries Revealed:** We then revealed the Company Level numbers to everyone and then applied the formula numbers across the team. Suddenly, everyone on the team could see their salaries :).
 
     
-   * Once again, if they could get enough support across the team, then the override would be approved.
+*  **Step 5: Democracy for the Salaries:** At this point, we asked everyone to either say “ok” or “not ok” against the numbers that they could see against their name.
+
+   *  If there was a “not ok”, then they were also required to state in the open spreadsheet - why they felt the numbers were not appropriate, how much they expected and why it was better for them as well as for the company that an override should be approved for themselves.
+
+    
+   *  Once again, if they could get enough support across the team, then the override would be approved.
 
 
 ##Conclusion
@@ -389,10 +389,10 @@ The heads got together the next morning and came up with the following changes t
 Figuring this process out was one of the more complicated projects we’ve attempted. But it was also:
 
 
-* **A satisfying system designproject.** Our goal was to create something simple and easy to use and we’ve made good progress on that. In fact the process detailed in our [our open playbook](https://github.com/multunus/Open-Playbook) is more refined, transparent and autonomous than the version detailed above. And that is the version we intend to use going forward.
+*  **A satisfying system designproject.** Our goal was to create something simple and easy to use and we’ve made good progress on that. In fact the process detailed in our [our open playbook](https://github.com/multunus/Open-Playbook) is more refined, transparent and autonomous than the version detailed above. And that is the version we intend to use going forward.
 
     
-* **A significant first step in building a great culture.**This project has triggered a series of continuous improvements in making our workplace more autonomous and transparent. Every couple of weeks, we make open for discussion one more  “previously-considered-taboo” topic. We’re getting there :).
+*  **A significant first step in building a great culture.**This project has triggered a series of continuous improvements in making our workplace more autonomous and transparent. Every couple of weeks, we make open for discussion one more  “previously-considered-taboo” topic. We’re getting there :).
 
 
 
@@ -400,25 +400,25 @@ Figuring this process out was one of the more complicated projects we’ve attem
 
 
 
-* [http://positivesharing.com/2006/08/why-secret-salaries-are-a-baaaaaad-idea/](http://positivesharing.com/2006/08/why-secret-salaries-are-a-baaaaaad-idea/)
+*  [http://positivesharing.com/2006/08/why-secret-salaries-are-a-baaaaaad-idea/](http://positivesharing.com/2006/08/why-secret-salaries-are-a-baaaaaad-idea/)
 
     
-* [http://positivesharing.com/2006/08/the-case-against-open-salaries/](http://positivesharing.com/2006/08/the-case-against-open-salaries/)
+*  [http://positivesharing.com/2006/08/the-case-against-open-salaries/](http://positivesharing.com/2006/08/the-case-against-open-salaries/)
 
     
-* [https://medium.com/@jurgenappelo/pay-people-a-fair-salary-using-a-transparent-salary-formula-8d81df8e1de6](https://medium.com/@jurgenappelo/pay-people-a-fair-salary-using-a-transparent-salary-formula-8d81df8e1de6)
+*  [https://medium.com/@jurgenappelo/pay-people-a-fair-salary-using-a-transparent-salary-formula-8d81df8e1de6](https://medium.com/@jurgenappelo/pay-people-a-fair-salary-using-a-transparent-salary-formula-8d81df8e1de6)
 
     
-* [https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
+*  [https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
 
     
-* [http://joelonsoftware.com/articles/ladder.html](http://joelonsoftware.com/articles/ladder.html)
+*  [http://joelonsoftware.com/articles/ladder.html](http://joelonsoftware.com/articles/ladder.html)
 
     
-* [http://qz.com/198871/this-tech-startup-uses-a-simple-formula-to-decide-how-much-stock-to-give-employees/](http://qz.com/198871/this-tech-startup-uses-a-simple-formula-to-decide-how-much-stock-to-give-employees/)
+*  [http://qz.com/198871/this-tech-startup-uses-a-simple-formula-to-decide-how-much-stock-to-give-employees/](http://qz.com/198871/this-tech-startup-uses-a-simple-formula-to-decide-how-much-stock-to-give-employees/)
 
     
-* [http://enhanced-reality.net/transparent-salaries/](http://enhanced-reality.net/transparent-salaries/)
+*  [http://enhanced-reality.net/transparent-salaries/](http://enhanced-reality.net/transparent-salaries/)
 
     
-* [http://www.slideshare.net/jurgenappelo/salary-formula](http://www.slideshare.net/jurgenappelo/salary-formula)
+*  [http://www.slideshare.net/jurgenappelo/salary-formula](http://www.slideshare.net/jurgenappelo/salary-formula)

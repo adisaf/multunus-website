@@ -119,7 +119,7 @@ step: function( gotoEnd ) {
   var n = t - this.startTime;
   this.state = n / this.options.duration;
   pos = jQuery.easing['swing'](this.state, n, 0, 1, this.options.duration);
-  this.now = this.start + ((this.end - this.start) * this.pos);
+  this.now = this.start + ((this.end - this.start) *  this.pos);
   this.update();
 }
 You can dig deeper into jQuery effects at:

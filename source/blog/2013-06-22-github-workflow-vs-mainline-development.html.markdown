@@ -14,10 +14,10 @@ link: http://www.multunus.com/blog/2013/06/github-workflow-vs-mainline-developme
 ---
 
 As mentioned in an 
-[earlier post](http://www.multunus.com/2012/05/introduction-to-continuous-delivery/), Continuous Delivery means:*Fast, automated feedback on the production readiness of the application - any time the team makes a change to code, infrastructure or the configuration of the application
+[earlier post](http://www.multunus.com/2012/05/introduction-to-continuous-delivery/), Continuous Delivery means:* Fast, automated feedback on the production readiness of the application - any time the team makes a change to code, infrastructure or the configuration of the application
 
     
-*Repeatable and reliable process for releasing software using one step (and perhaps push-button) deployments
+* Repeatable and reliable process for releasing software using one step (and perhaps push-button) deployments
 
 To achieve the above we need extensive automation of all possible stages of the delivery process, using something called as 
 [Deployment Pipeline](http://martinfowler.com/bliki/DeploymentPipeline.html).
@@ -30,22 +30,22 @@ The image below should explain the workflow of continuous delivery:
 To achieve the above, the following are mandatory:
 
 
-*Automated Tests
+* Automated Tests
 
     
-*Continuous Integration (which should run all the automated tests whenever any change is made to the codebase)
+* Continuous Integration (which should run all the automated tests whenever any change is made to the codebase)
 
     
-*Mainline/Trunk based development - to avoid Merge Issues and Continuous Integration
+* Mainline/Trunk based development - to avoid Merge Issues and Continuous Integration
 
     
-*Feature Toggling - ability to turn a feature on/off on a specified environment
+* Feature Toggling - ability to turn a feature on/off on a specified environment
 
     
-*Automated Deployment Scripts
+* Automated Deployment Scripts
 
     
-*Automated Provisioning of Servers
+* Automated Provisioning of Servers
 
 This blog post is a comparison of GitHub style workflow with Mainline development and how the Review process in the GitHub style workflow affects Continuous Delivery.
 
@@ -64,43 +64,43 @@ Image Credit:
 The above workflow ensures the following:
 
 
-*The master is always deployable
+* The master is always deployable
 
     
-*The Code Review happens for every change
+* The Code Review happens for every change
 
 But inhibits Continuous Delivery because:
 
 
-*Apart from setting up Continuous Integration for master, we will have to set it up for each branch, otherwise the “feedback” will not be received.
+* Apart from setting up Continuous Integration for master, we will have to set it up for each branch, otherwise the “feedback” will not be received.
 
     
-*This does not guarantee “production-readiness” of the application because the commits happen to multiple branches in isolation
+* This does not guarantee “production-readiness” of the application because the commits happen to multiple branches in isolation
 
     
-*The “review and approval” process can not be automated and will affect the frequency of the deployment if there is a manual dependency.
+* The “review and approval” process can not be automated and will affect the frequency of the deployment if there is a manual dependency.
 
     
-*Merge clashes can be more if branch and master does not get merged frequently and these can result in merge “hells”
+* Merge clashes can be more if branch and master does not get merged frequently and these can result in merge “hells”
 
     
-*Deployment Pipeline becomes complicated to design because we need to have multiple jobs depending upon how many branches we have
+* Deployment Pipeline becomes complicated to design because we need to have multiple jobs depending upon how many branches we have
 
 Does that mean that code review is an anti-pattern for Continuous Delivery? Not Really. Code review is good. Its so good that we should be doing it 
 **continuously**
 . The following can help you to achieve that:
 
 
-*Pair Programming - the code gets reviewed constantly
+* Pair Programming - the code gets reviewed constantly
 
     
-*TDD (Test Driven Development which is also called as Test Driven Design) - Tests forces the developers to “Refactor” the code which helps in better code design and more maintainable code
+* TDD (Test Driven Development which is also called as Test Driven Design) - Tests forces the developers to “Refactor” the code which helps in better code design and more maintainable code
 
     
-*Code Quality Analysis Tools - To get feedback on code quality and “Refactor” accordingly. Tests give the confidence for developers to Refactor the code.
+* Code Quality Analysis Tools - To get feedback on code quality and “Refactor” accordingly. Tests give the confidence for developers to Refactor the code.
 
     
-*Review commits by a senior developer. If she finds a bad commit, pair with the person who committed it to help them clean the code up.
+* Review commits by a senior developer. If she finds a bad commit, pair with the person who committed it to help them clean the code up.
 
 The above is aligned with the principle 
 [Build Quality In](http://java.dzone.com/articles/8-principles-continuous), which emphasises that “Every team member is responsible for Quality”.
@@ -126,10 +126,10 @@ The GitHub style workflow makes perfect sense for Open Source projects - to brin
 
 
 
-*[Continuous Delivery and Code Review](https://groups.google.com/forum/?fromgroups#!topic/continuousdelivery/LIJ1nva9Oas)
+* [Continuous Delivery and Code Review](https://groups.google.com/forum/?fromgroups#!topic/continuousdelivery/LIJ1nva9Oas)
 
     
-*[Continuous Delivery and Feature Branches](http://continuousdelivery.com/2011/07/on-dvcs-continuous-integration-and-feature-branches/)
+* [Continuous Delivery and Feature Branches](http://continuousdelivery.com/2011/07/on-dvcs-continuous-integration-and-feature-branches/)
 
     
-*[Trunk Based Development](http://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
+* [Trunk Based Development](http://paulhammant.com/2013/04/05/what-is-trunk-based-development/)

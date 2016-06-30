@@ -15,16 +15,16 @@ In this post, we dive into the gory details of performing experiments to cross t
 
 As mentioned in the last post, the four stages of experiments are as follows:
 
-* Step 1: Setup the experiment
+*  Step 1: Setup the experiment
 
     
-* Step 2: Build
+*  Step 2: Build
 
     
-* Step 3: Review results
+*  Step 3: Review results
 
     
-* Step 4: Iterate
+*  Step 4: Iterate
 
 Here’s how you execute those steps for a Consumer Startup:
 
@@ -72,12 +72,12 @@ How do you come up with these hypotheses? Read the following two chapters from
 [Talking to Humans](http://www.talkingtohumans.com/):
 
 
-* **"Who do you want to learn from?”**
+*  **"Who do you want to learn from?”**
 : Who are the people who will find your product most useful? Who will eventually want to partner with you? And most importantly, who are those people who will pay to use your product? You need to have hypotheses on who these people might be and talk to 
 them.
 
     
-* **“What do you want to learn”**
+*  **“What do you want to learn”**
 : Most first time entrepreneurs have a hard time thinking about their “
 [business as their product](https://leanstack.com/your-product-is-not-the-product/)”. There’s usually a very strong tendency to focus on the product “idea”, its features, the technology and the user experience. But there’s a bunch of much more important questions that need answering. Here’s a quick starter:
 
@@ -114,10 +114,10 @@ Make sure to read the chapter end to end. That will help you get into the habit 
 Here’s 2 key reasons why Cust Dev’s are much more efficient at testing hypotheses than, say testing with a real product:
 
 
-* You can test multiple hypotheses in a single interview
+*  You can test multiple hypotheses in a single interview
 
     
-* You can get much quicker feedback. It only takes a maximum of 90min.
+*  You can get much quicker feedback. It only takes a maximum of 90min.
 
 
 **6. How will you measure whether your “idea” is working?**
@@ -136,21 +136,21 @@ As you consistently and diligently follow this process, you will have significan
  Here’s why a good reporting structure is important:
 
 
-* **Don’t have a team to share your learnings with?**
+*  **Don’t have a team to share your learnings with?**
  You still need this to keep your sanity and ensure that you’re not drowning in a sea of information. You will collect a ton of learnings in a very short period of time - and you need an easy way to navigate through all that. Only then will you be able to discover insights and patterns between various interviews.
 
     
-* **Have a team? Great.**
+*  **Have a team? Great.**
  Everyone on your team should be doing Cust Devs. And if that’s happening, you need a consistent way to share your learnings with each other. Every time that happens, you’re extracting multi-fold value (in terms increased empathy across the team) from each Cust Dev.
 
 There are two things that you need to report on:
 
 
-* The notes from the interview: Here’s a 
+*  The notes from the interview: Here’s a 
 [template](https://docs.google.com/document/d/1Nh2iRttvUWoZAlEmgd8cVEj47EkwYSiD6aCjSzRUfrM/edit?usp=sharing) that you could start with
 
     
-* The score of the interview: Here’s the link once again to the 
+*  The score of the interview: Here’s the link once again to the 
 [scoring sheet template](https://docs.google.com/a/multunus.com/spreadsheets/d/1PvphjCbtq-VFgjoKmzw7rIXYlLI3KKDGUUeZmFO1czs/edit?usp=sharing).
 
 
@@ -173,28 +173,28 @@ Details:
 : Doing Cust Dev’s well requires some key skills:
 
 
-* Recruiting
+*  Recruiting
 
     
-* Active listening
+*  Active listening
 
     
-* Probing for “stories”
+*  Probing for “stories”
 
     
-* Avoiding selling your idea
+*  Avoiding selling your idea
 
     
-* Avoiding confirmation bias
+*  Avoiding confirmation bias
 
 Once again, I’d recommend reading 
 [Talking To Humans](http://www.talkingtohumans.com/). Specifically, the following chapters:
 
 
-* “How do you find your interview subjects?”
+*  “How do you find your interview subjects?”
 
     
-* “How to ensure an effective session”?
+*  “How to ensure an effective session”?
 
 
 **2. Is your measuring process sustainable?**

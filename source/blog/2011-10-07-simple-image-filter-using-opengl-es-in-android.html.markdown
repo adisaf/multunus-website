@@ -45,7 +45,7 @@ attribute vec4 aPosition;
 attribute vec2 aTextureCoord;
 varying vec2 vTextureCoord;
 void main() {
-  gl_Position = uMVPMatrix * aPosition
+  gl_Position = uMVPMatrix *  aPosition
   vTextureCoord = aTextureCoord
 }
 
@@ -53,7 +53,7 @@ void main() {
 The Vertex shader is executed for each vertex that is to be drawn. Here, we are drawing a square and mapping the texture on to that.
 
 This calculates the transformed coordinates of the square by multiplying the given coordinates with 
-[MVPMatrix](http://en.wikibooks.org/wiki/OpenGL_Programming/3D/Matrices) [ MVP -  Model * View * Projection ]. Other than this we are also storing corresponding texture co-ordinates in variable ’
+[MVPMatrix](http://en.wikibooks.org/wiki/OpenGL_Programming/3D/Matrices) [ MVP -  Model *  View *  Projection ]. Other than this we are also storing corresponding texture co-ordinates in variable ’
 vTextureCoords’ so that it is available in the fragment shader.
 
 
@@ -75,7 +75,7 @@ varying vec2 vTextureCoord;
 uniform sampler2D sTexture;
 void main() {
    vec2 cen = vec2(0.5,0.5) - vTextureCoord.xy;
-   vec2 mcen = -0.07*log(length(cen))*normalize(cen);
+   vec2 mcen = -0.07* log(length(cen))* normalize(cen);
    gl_FragColor = texture2D(sTexture, vTextureCoord.xy-mcen);
 }
 Fragment shaders are executed to calculate the color of individual pixels. This is where the actual image transformation happens. Instead of mapping the corresponding texture coordinates to corresponding pixels, we can map different coordinates of the texture to different pixels which will distort the image in some way. In the above example the texture co-ordinate to fill each pixel is chosen based on the calculation in line no 6. The actual movement depends on the distance of the texture coordinate from the center. This creates an effect which is similar to what is shown in the below picture.

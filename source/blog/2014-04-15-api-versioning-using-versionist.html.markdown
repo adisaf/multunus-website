@@ -48,12 +48,12 @@ Versionist is a Rails plugin for versioning Rails-based APIs. After installing 
 
     GET /v3/foos
 
-In this post, I'll go through the *path* based method of versioning of APIs using Versionist. 
+In this post, I'll go through the * path*  based method of versioning of APIs using Versionist. 
 **STEPS to version your current API using the path based versioning strategy:**
 
 
 
-*STEP 1*
+* STEP 1* 
 
 
     rails generate versionist:new_api_version v1 V1 --path=value:v1 --default
@@ -61,17 +61,17 @@ In this post, I'll go through the *path* based method of versioning of APIs us
 This will create all the necessary directory structures.
 
 
-*STEP 2*
+* STEP 2* 
 
 Now, move all the controller files into the new folder and do not copy the application controller. For specs, only the controller specs need to be moved, there will already be a new folder for the specs in the controller directory.
 
 
-*STEP 3*
+* STEP 3* 
 
 Manually create a folder with the same version (v1) for  the views and  move all the files related to the controllers into that folder.
 
 
-*STEP 4*
+* STEP 4* 
 
 Modify all the controller class names to use namespacing and to reference the respective base controllers.
 
@@ -88,7 +88,7 @@ Modify all the controller class names to use namespacing and to reference the re
 Now if you want create version 2 from version1:
 
 
-*STEP 1*
+* STEP 1* 
 
 
     rails generate versionist:copy_api_version v1 V1 v2 V2
@@ -98,7 +98,7 @@ Now if you want create version 2 from version1:
  This will duplicate the existing version to create the starting point for the next version. There is one thing that gets duplicated which shouldn't be i.e the default version setting `{:default => true}` in `config/routes`. So we have to remove this as there cannot be two default versions.
 
 
-*STEP 2*
+* STEP 2* 
 
 The views will not be duplicated by this command, so create a copy of the folder and name it appropriately
 

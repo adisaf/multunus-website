@@ -22,7 +22,7 @@ We’ve interviewed many candidates with very good technical skills and hired th
 On a separate but related note, we’ve also found that an experienced person (perhaps at a company with a very different culture) takes more time to accept our culture and adapt into our organization, as she has to both learn our ways 
 and unlearn the old ones. Not many people realize that they have to unlearn certain things to adapt.
 
-But *how* do you test for Culture Fit? Well, that of course depends on your organization and what it is that your culture stands for.
+But * how*  do you test for Culture Fit? Well, that of course depends on your organization and what it is that your culture stands for.
 
 [embed]https://www.flickr.com/photos/striatic/2144933705[/embed]
 
@@ -36,80 +36,80 @@ We’ve broken down this further in the following aspects. And as promised, the�
 
 **Abstract thinking**
 
-* *We believe in focusing on Outcome rather than Output. Can you provide some examples from your work where you’ve done the same*
+*  * We believe in focusing on Outcome rather than Output. Can you provide some examples from your work where you’ve done the same* 
 
 
 **Keenness  in organization**
 
 
-* *What questions do you have about us?*
+*  * What questions do you have about us?* 
 
 
-* *What are your expectations from us?*
+*  * What are your expectations from us?* 
 
 
-* *Why should we hire you?*
+*  * Why should we hire you?* 
 
 
 **Analytical Thinking**
 
 
-* *Why did you join a large MNC by leaving your start up?*
+*  * Why did you join a large MNC by leaving your start up?* 
 
 
-* *What are the top 3 lessons you’ve learned so far in your career?*
+*  * What are the top 3 lessons you’ve learned so far in your career?* 
 
 
-* *What are the top 3 things you like about your organization?*
+*  * What are the top 3 things you like about your organization?* 
 
 
-* *What are the top 3 things you would want to improve in your organization?*
+*  * What are the top 3 things you would want to improve in your organization?* 
 
 
 **Courage**
 
 
-* *How long do you intend to work for us and why?*
+*  * How long do you intend to work for us and why?* 
 
 
-* *When was the last time you did something that made you feel uncomfortable?*
+*  * When was the last time you did something that made you feel uncomfortable?* 
 
 
 Career/Purpose
 
 
-* *Why are you interested in a software career?*
+*  * Why are you interested in a software career?* 
 
 
-* *What role or roles do you think you can play at our organization?*
+*  * What role or roles do you think you can play at our organization?* 
 
 
-* *If you were not a software person, what would your alternate career path have been?*
+*  * If you were not a software person, what would your alternate career path have been?* 
 
 
 **Teamwork**
 
 
-* *What behaviors are you unwilling to tolerate from your teammates?*
+*  * What behaviors are you unwilling to tolerate from your teammates?* 
 
 
-* *What constitutes a good team?*
+*  * What constitutes a good team?* 
 
 
 **Patience**
 
 
-* *Describe a situation where you felt your patience was tested*
+*  * Describe a situation where you felt your patience was tested* 
 
 
-* *Describe a situation where you being patient helped in yielding results.*
+*  * Describe a situation where you being patient helped in yielding results.* 
 
 Hope these questions were useful to you. We’d like to hear your way of evaluating culture fit for a candidate. Write to us and help us to improve our hiring process.
 
 References:
 
 
-* [Guest blog post on “interview for culture fit” by Mikey Trafton](http://businessofsoftware.org/2012/08/how-the-best-bosses-companies-interview-for-culture-fit-guest-blog-mikey-trafton/)
+*  [Guest blog post on “interview for culture fit” by Mikey Trafton](http://businessofsoftware.org/2012/08/how-the-best-bosses-companies-interview-for-culture-fit-guest-blog-mikey-trafton/)
 
     
-* [50 Tough interview questions by Crieghton Edu](https://www.creighton.edu/fileadmin/user/CareerCenter/docs/50_Tough_Interview_Questions.pdf)[PDF]
+*  [50 Tough interview questions by Crieghton Edu](https://www.creighton.edu/fileadmin/user/CareerCenter/docs/50_Tough_Interview_Questions.pdf)[PDF]

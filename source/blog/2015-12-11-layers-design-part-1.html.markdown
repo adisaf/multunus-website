@@ -51,7 +51,7 @@ The furnitures are packed in flat packs which allows them to save space during t
 This one is interesting. Studies show that “consumers place a disproportionately high value on products they partially created.” That means, by offloading the work of putting together the table to the end customer, IKEA actually made it more loveable! It’s called the 
 [IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect).
 
-Now, all of this is *by design*.
+Now, all of this is * by design* .
 
 
 ###What does design ***really*** mean?
@@ -77,34 +77,34 @@ Design is the act of planning a simple and efficient solution to get a desired o
 I can take decent photos on Instagram. But that does not mean you would hire me as your wedding photographer. Likewise, planning doesn’t make one an expert designer. There are just too many things to consider in this complex world. Whether a single designer can do it or not, depends on the skill and experience of the designer. But, here are few things that needs consideration:
 
 
-* What’s the problem we are trying to solve? Is it a real problem or a symptom of a deeper problem?
+*  What’s the problem we are trying to solve? Is it a real problem or a symptom of a deeper problem?
 
     
-* The person who will is affected, what’s his life like? What excites him and what frustrates him?
+*  The person who will is affected, what’s his life like? What excites him and what frustrates him?
 
     
-* How do we adapt to people’s changing behaviour?
+*  How do we adapt to people’s changing behaviour?
 
     
-* How do we communicate and make sure the audience understands it the way we intend to speak?
+*  How do we communicate and make sure the audience understands it the way we intend to speak?
 
     
-* How can we make it intuitive, simple and efficient for use? How do we make people happy while using the solution?
+*  How can we make it intuitive, simple and efficient for use? How do we make people happy while using the solution?
 
     
-* How can we make sure it communicates and behaves appropriately in varying situations?
+*  How can we make sure it communicates and behaves appropriately in varying situations?
 
     
-* How do we make it look aesthetically pleasing and desirable to use?
+*  How do we make it look aesthetically pleasing and desirable to use?
 
     
-* How can we ensure it doesn’t become out of fashion soon?
+*  How can we ensure it doesn’t become out of fashion soon?
 
     
-* How can we keep the cost and impact on the environment low. Is it a solution that scales well?
+*  How can we keep the cost and impact on the environment low. Is it a solution that scales well?
 
     
-* And finally, how do you balance tradeoffs in the above points. What’s the best that can be done with the constraints? Money, skills, time, and so forth.
+*  And finally, how do you balance tradeoffs in the above points. What’s the best that can be done with the constraints? Money, skills, time, and so forth.
 
 
 ###Constraints influence Design

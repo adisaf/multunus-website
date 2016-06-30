@@ -19,54 +19,54 @@ When you download the certificate from their site, it automatically gets install
 
 2) The certificate with Private key will be exported as PFX format in the above step - but this 
 **cannot**
-be used by the jarsigner. So you need to convert it into “p12 format” which the jarsigner can understand. For that you need to use Mozilla. First import the certificate  saved in step 1 into Mozilla as follows:*From the “Edit” menu select “Preferences” and open the “Privacy & Security” category and click on the “Certificates” item.
+be used by the jarsigner. So you need to convert it into “p12 format” which the jarsigner can understand. For that you need to use Mozilla. First import the certificate  saved in step 1 into Mozilla as follows:* From the “Edit” menu select “Preferences” and open the “Privacy & Security” category and click on the “Certificates” item.
 
 	
-*In the “Manage Certificates” section, click on the “Manage Certificates” button.
+* In the “Manage Certificates” section, click on the “Manage Certificates” button.
 
 	
-*In the “Certificate Manager” window, the “Your Certificates” tab should automatically open. (If not, select it.)
+* In the “Certificate Manager” window, the “Your Certificates” tab should automatically open. (If not, select it.)
 
 	
-*Click the “Impor”t button at the bottom of the window.
+* Click the “Impor”t button at the bottom of the window.
 
 	
-*It prompts you to select an existing file; select your certificate file from the location where you saved it in when you exported it.
+* It prompts you to select an existing file; select your certificate file from the location where you saved it in when you exported it.
 
 	
-*It prompts you to provide the “Master Password”; enter it, if you have set one.
+* It prompts you to provide the “Master Password”; enter it, if you have set one.
 
 	
-*It prompts you to provide the password used to encrypt the certificate backup; enter it.
+* It prompts you to provide the password used to encrypt the certificate backup; enter it.
 
 	
-*It should say “Successfully restored your certificate(s) and private key(s).” Click OK.
+* It should say “Successfully restored your certificate(s) and private key(s).” Click OK.
 3) Then export the certificate as p12 format:
 
-*From the “Edit” menu select “Preferences” and open the “Privacy & Security” category and click on the “Certificates” item
+* From the “Edit” menu select “Preferences” and open the “Privacy & Security” category and click on the “Certificates” item
 
 	
-*In the “Manage Certificates” section, click on the “Manage Certificates” button.
+* In the “Manage Certificates” section, click on the “Manage Certificates” button.
 
 	
-*In the “Certificate Manager” window, the “Your Certificates” tab should automatically open. (If not, select it.)
+* In the “Certificate Manager” window, the “Your Certificates” tab should automatically open. (If not, select it.)
 
 	
-*To export your “DOEGrids” or “KCA Personal Certificate”, click on it to select it, and click the “Backup” button at the bottom of the window.
+* To export your “DOEGrids” or “KCA Personal Certificate”, click on it to select it, and click the “Backup” button at the bottom of the window.
 
 	
-*You’ll be prompted to specify a filename and location for the “PKCS#12-format” certificate file (file extension will be “.p12” in UNIX/Linux,  ”.pfx” in Windows).  Provide them and click OK.
+* You’ll be prompted to specify a filename and location for the “PKCS#12-format” certificate file (file extension will be “.p12” in UNIX/Linux,  ”.pfx” in Windows).  Provide them and click OK.
 
 	
-*A dialog box requesting the Master Password may appear (the password and certificate database). If you have set a Master Password, provide it. If not, you can make one up and provide it (optional). 
+* A dialog box requesting the Master Password may appear (the password and certificate database). If you have set a Master Password, provide it. If not, you can make one up and provide it (optional). 
 **Remember this password!**
 
 	
-*You’ll be prompted to make up and (twice) enter a second password. This one is for restoring this particular backup of this certificate. 
+* You’ll be prompted to make up and (twice) enter a second password. This one is for restoring this particular backup of this certificate. 
 **Remember this password!**
 
 	
-*Once the system says it’s successfully backed up your certificate and private key, click OK.
+* Once the system says it’s successfully backed up your certificate and private key, click OK.
 4) We also need to know the alias of the “.p12” file so run:
 
 keytool -list -storetype pkcs12 -keystore <path to the cert file

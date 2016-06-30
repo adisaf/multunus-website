@@ -50,23 +50,23 @@ No, this is not a sing-along of The Jungle Book!
 Let's start by having a look at the core constituents of every re-frame app:
 
 
-* **Router:**
+*  **Router:**
  Our app needs to be capable of redirecting the various events triggered by a user to the right places. We'll see soon where and how these events are sent and who processes them.
 
     
-* **Data store:**
+*  **Data store:**
  Every app out there is in charge of manipulating and storing data. And since we're talking about a React app, we want a reactive data store - one that tells us when there are changes.
 
     
-* **Views:**
+*  **Views:**
  This is where we add the visual components of our app. I'm talking of course about the Reagent components.
 
     
-* **Handlers:**
+*  **Handlers:**
  We need agents in the field to manage the events that occur on the DOM. Once an event occurs, it gets dispatched to the handler, which then takes some action. But for this to happen, we need to register the events against their handlers in the router (we'll get there).
 
     
-* **Subscriptions:**
+*  **Subscriptions:**
  Once a handler does its thing, there are likely to be changes in the data store. A reactive system is expected to update its view automatically when this happens. We'll see how this happens.
 
 So at a high level, here's how it rolls. 

@@ -10,13 +10,13 @@ link: http://www.multunus.com/blog/2011/07/issue-while-installing-java-in-ec2-mi
 
 When I tried to install Java in our 
 [EC2 micro instance](http://aws.amazon.com/ec2/instance-types/), it stopped responding. There was no luck even after restarting the instance. I thought it might be a specific issue with that particular instance, so tried it again by bringing up a new micro instance and every time it was the same behaviour. I then googled and discovered it as a known 
-[issue](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/634487) reported back in September 2010. The suggested workaround is:*Bring up a small instance
+[issue](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/634487) reported back in September 2010. The suggested workaround is:* Bring up a small instance
 
 	
-*Install Java
+* Install Java
 
 	
-*Convert it into micro instance.
+* Convert it into micro instance.
 Converting of the instance can be done using 
 [API tools](http://aws.amazon.com/developertools/351), or from the 
 [AWS Console](http://www.kinlane.com/2011/03/easier-scalability-with-aws/). But for me this option was never enabled from the console. I don’t know why. Of course, the API option would still work, I suppose.

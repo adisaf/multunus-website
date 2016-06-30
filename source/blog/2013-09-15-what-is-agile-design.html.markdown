@@ -19,16 +19,16 @@ Agile recommends to do design continuously and emerge your design instead of doi
 
 Extreme Programming recommends you to 
 [Do The Simplest Thing That Could Possibly Work](http://www.xprogramming.com/Practices/PracSimplest.html), known with the acronym (DTSTTCPW). 
-[As mentioned by Ron Jeffries](http://xprogramming.com/classics/expemergentdesign/), the code is simple if it:*Run all the tests
+[As mentioned by Ron Jeffries](http://xprogramming.com/classics/expemergentdesign/), the code is simple if it:* Run all the tests
 
     
-*Contain no duplicate code
+* Contain no duplicate code
 
     
-*Express all the ideas the author wants to express
+* Express all the ideas the author wants to express
 
     
-*Minimize classes and methods
+* Minimize classes and methods
 
 The first 3 rules are self explanatory but the fourth one is confusing and contradictory especially with related to SOLID principles and design patterns. But it conveys the principles 
 [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) and 
@@ -77,22 +77,22 @@ Instead of doing a big bang Design phase initially, refactor the code meticulous
 
 
 
-*[http://c2.com/cgi/wiki?XpSimplicityRules](http://c2.com/cgi/wiki?XpSimplicityRules)
+* [http://c2.com/cgi/wiki?XpSimplicityRules](http://c2.com/cgi/wiki?XpSimplicityRules)
 
     
-*[http://c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork](http://c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork)
+* [http://c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork](http://c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork)
 
     
-*[http://www.netobjectives.com/blogs/primer-emergent-design](http://www.netobjectives.com/blogs/primer-emergent-design)
+* [http://www.netobjectives.com/blogs/primer-emergent-design](http://www.netobjectives.com/blogs/primer-emergent-design)
 
     
-*[http://martinfowler.com/articles/designDead.html](http://martinfowler.com/articles/designDead.html)
+* [http://martinfowler.com/articles/designDead.html](http://martinfowler.com/articles/designDead.html)
 
     
-*[http://wirfs-brock.com/blog/2011/01/18/agile-architecture-myths-2-architecture-decisions-should-be-made-at-the-last-responsible-moment/](http://wirfs-brock.com/blog/2011/01/18/agile-architecture-myths-2-architecture-decisions-should-be-made-at-the-last-responsible-moment/)
+* [http://wirfs-brock.com/blog/2011/01/18/agile-architecture-myths-2-architecture-decisions-should-be-made-at-the-last-responsible-moment/](http://wirfs-brock.com/blog/2011/01/18/agile-architecture-myths-2-architecture-decisions-should-be-made-at-the-last-responsible-moment/)
 
     
-*[http://www.codinghorror.com/blog/2007/03/curlys-law-do-one-thing.html](http://www.codinghorror.com/blog/2007/03/curlys-law-do-one-thing.html)
+* [http://www.codinghorror.com/blog/2007/03/curlys-law-do-one-thing.html](http://www.codinghorror.com/blog/2007/03/curlys-law-do-one-thing.html)
 
     
-*[http://tobeagile.com/2012/10/16/seven-strategies-for-doing-emergent-design/](http://tobeagile.com/2012/10/16/seven-strategies-for-doing-emergent-design/)
+* [http://tobeagile.com/2012/10/16/seven-strategies-for-doing-emergent-design/](http://tobeagile.com/2012/10/16/seven-strategies-for-doing-emergent-design/)

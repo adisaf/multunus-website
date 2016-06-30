@@ -60,15 +60,15 @@ I guess our problem was that we had overcommitted. We also did not consider prac
 
 Now speaking of action items, we’ve come up with the following:
 
-*Commit to deliver features only after following the Risk Management techniques mentioned in the book
+* Commit to deliver features only after following the Risk Management techniques mentioned in the book
 
 	
-*Introduce Slack as part of every iteration
+* Introduce Slack as part of every iteration
 
 	
-*And finally, to ensure we don’t forget to appreciate the process enough, we’ve added one additional item in our Navigator’s[2] checklist.
+* And finally, to ensure we don’t forget to appreciate the process enough, we’ve added one additional item in our Navigator’s[2] checklist.
 
-*[Update] The value of this action item is debatable. Its been about 3 weeks since we put it up on the checklist - but we’ve got the tendency to ignore anything that doesn’t change frequently enough. So we’ll need to come up with a better solution for the “lack of appreciation” problem. Any ideas? Please help us by commenting below. Thanks!
+* [Update] The value of this action item is debatable. Its been about 3 weeks since we put it up on the checklist - but we’ve got the tendency to ignore anything that doesn’t change frequently enough. So we’ll need to come up with a better solution for the “lack of appreciation” problem. Any ideas? Please help us by commenting below. Thanks!
 
 **Notes:**
 

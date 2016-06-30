@@ -8,28 +8,28 @@ wp:post_id: '4189'
 link: http://www.multunus.com/blog/2010/01/working-with-dlls-the-java-way/
 ---
 
-We had a very simple requirement, to invoke my DLLs using Java code for couple of reasons:*We want to reuse application code built for a .NET application
+We had a very simple requirement, to invoke my DLLs using Java code for couple of reasons:* We want to reuse application code built for a .NET application
 
 	
-*We want to integrate the DLLs with a Java based sever technology
+* We want to integrate the DLLs with a Java based sever technology
 
 	
-*Should be simple enough to maintain the code by .NET professionals
+* Should be simple enough to maintain the code by .NET professionals
 There are couple of Java-COM bridging solutions I came across.
 
-*[Java Native Interface (JNI)](http://en.wikipedia.org/wiki/Java_Native_Interface)
+* [Java Native Interface (JNI)](http://en.wikipedia.org/wiki/Java_Native_Interface)
 
 	
-*[JACOB](http://sourceforge.net/projects/jacob-project/)
+* [JACOB](http://sourceforge.net/projects/jacob-project/)
 
 	
-*[Scriptom (Groovy - COM Scripting)](http://groovy.codehaus.org/COM+Scripting)
+* [Scriptom (Groovy - COM Scripting)](http://groovy.codehaus.org/COM+Scripting)
 
 	
-*[Java Native Access (JNA)](https://jna.dev.java.net/)
+* [Java Native Access (JNA)](https://jna.dev.java.net/)
 
 	
-*[JNBridge](http://www.jnbridge.com/)
+* [JNBridge](http://www.jnbridge.com/)
 In this post, we’ll see how Scriptom can be used to access DLLs.
 
 Scriptom is a module in Groovy (A Java VM based scripting language) which wraps the JACOB classes to make it more usable. Scriptom’s syntax looks like VB.NET code.
@@ -47,16 +47,16 @@ Public Event UpdateTime(ByVal Jump As Double)Public Sub TimerTask(ByVal Duration
 We want to use this logic in the Scriptom code and do something whenever a UpdateTime event is raised. Here are the steps:
 
 
-*Register the DLLs (this is required step for the Java Virtual Machine to get meta data about the DLLs)
+* Register the DLLs (this is required step for the Java Virtual Machine to get meta data about the DLLs)
 
   
-*Download Scriptom
+* Download Scriptom
 
   
-*Copy the jacob-*.dll to any system PATH
+* Copy the jacob-* .dll to any system PATH
 
   
-*Have all the JARS from Scriptom jar folder available in the CLASSPATH
+* Have all the JARS from Scriptom jar folder available in the CLASSPATH
 
 Following is the sample code for invoking
 

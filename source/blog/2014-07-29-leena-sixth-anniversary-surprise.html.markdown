@@ -13,7 +13,7 @@ Taking that extra mile to show how much a person means to us is neither an overh
 
 There's something that you should know about Leena, she is very intelligent and can "smell" things cooking up from a mile away. It isn't easy for us to keep secrets from her. So we're kinda proud that we pulled it off this time :)
 
-Here's a brief on how the whole "Surprise" for Leena took place: We planned a visit to Leena's home on the morning of Sunday, 29th June 2014. Of course, she wasn't expecting us. Fifteen of us met at the office on Sunday and left for her place together. We had included Dev, Leena's husband into our secret plot. He had told her that he was expecting a few of *his* colleagues that morning only to surprise her later with a bunch of us dropping in "unannounced" at her place.
+Here's a brief on how the whole "Surprise" for Leena took place: We planned a visit to Leena's home on the morning of Sunday, 29th June 2014. Of course, she wasn't expecting us. Fifteen of us met at the office on Sunday and left for her place together. We had included Dev, Leena's husband into our secret plot. He had told her that he was expecting a few of * his*  colleagues that morning only to surprise her later with a bunch of us dropping in "unannounced" at her place.
 
 We had collected 6 testimonials which also matched her 6 years here, at Multunus. We had 6 envelopes for her of which 4 consisted of letters - written testimonials from an Aarthi (a Multunus alumnus and a great friend), Leena's long time colleague Vaidy, Leena's sister Beena and Leena's brother-in-law Jayadevan. The other 2 envelopes had pen drives in them with a video testimonial from Leena's sister-in-law who is also named Leena (!) and an audio from Rema, another alumnus.
 
@@ -22,7 +22,7 @@ We had collected 6 testimonials which also matched her 6 years here, at Multunu
 She read and listened to all the testimonials and was on the verge of tears (happy ones, we think!). Her family also 
 seemed really happy to have us there. We ate and had a jolly good time.
 
-We'd also written up a *certificate* for her ;)
+We'd also written up a * certificate*  for her ;)
 
 
 ![Leena's Certificate](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2014/07/LeenasCertificate-723x1024.jpg)

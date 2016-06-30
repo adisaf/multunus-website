@@ -62,7 +62,7 @@ So, we created a Google spreadsheet instead - a much more lean way of doing thin
 Except of course it wasn’t. We met again a couple of days later, timidly opening up the spreadsheet to see a bunch of empty rows in there.
 
 
-But we *had* to make this work.
+But we * had*  to make this work.
 
 
 **Thank you, Nike**
@@ -140,7 +140,7 @@ Now, with that kind of instant gratification mindset embedded within us, could w
 That’s why we’ve got hacknights. All we needed to do was to bribe our team with pizzas and coke. We got together the next Fri evening and started to hack away.
 
 
-And by early Sat morning, we had an app. Not exactly *instant* gratification. But almost there.
+And by early Sat morning, we had an app. Not exactly * instant*  gratification. But almost there.
 
 
 We got together on Monday and took another look at the app. Was it good enough to replace the spreadsheet? We were almost there.
@@ -174,26 +174,26 @@ And brain power. And making more money.
 Here’s our key learnings from this experience:
 
 
-* MVP’s are not a fad. They do work. They’re fantastic for getting quick feedback and for learning from *real* users. We were able to speed up our rate of learning significantly using just the spreadsheet.
+*  MVP’s are not a fad. They do work. They’re fantastic for getting quick feedback and for learning from * real*  users. We were able to speed up our rate of learning significantly using just the spreadsheet.
 
-  * We knew that the single biggest problem we had was ease of accessibility of the app itself and not really about motivating our team to exercise. So that’s what we focused on when building the initial app prototype.
-
-    
-* [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) is a great tool for reducing scope of the prototype and making sure it the team does not get into analysis paralysis and fall prey to [feature creep](https://en.wikipedia.org/wiki/Feature_creep). We used that successfully for both the:
-
-  * Initial spreadsheet prototype (timeboxed to just 10 min) and also for the,
+  *  We knew that the single biggest problem we had was ease of accessibility of the app itself and not really about motivating our team to exercise. So that’s what we focused on when building the initial app prototype.
 
     
-  * App prototype (a working app was due at the end of the hacknight - which lasted about 6 hours)
+*  [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) is a great tool for reducing scope of the prototype and making sure it the team does not get into analysis paralysis and fall prey to [feature creep](https://en.wikipedia.org/wiki/Feature_creep). We used that successfully for both the:
+
+  *  Initial spreadsheet prototype (timeboxed to just 10 min) and also for the,
 
     
-* It’s much easier to get a team motivated to get together to spend some extra effort building something that has traction. So, the idea is to keep going from one MVP to the next, as quickly as you can, getting real feedback from the market at each stage. Every dev team loves this kind of real feedback.
+  *  App prototype (a working app was due at the end of the hacknight - which lasted about 6 hours)
+
+    
+*  It’s much easier to get a team motivated to get together to spend some extra effort building something that has traction. So, the idea is to keep going from one MVP to the next, as quickly as you can, getting real feedback from the market at each stage. Every dev team loves this kind of real feedback.
 
 
 **The upcoming posts**
 
 
-The next 2 posts in the series will talk about how we used Google Spreadsheets and Trello to not just build prototypes, but actually full fledged *applications* that we’re using on a daily basis within Multunus.
+The next 2 posts in the series will talk about how we used Google Spreadsheets and Trello to not just build prototypes, but actually full fledged * applications*  that we’re using on a daily basis within Multunus.
 
 
 Stay tuned.

@@ -16,16 +16,16 @@ As mentioned in
 
 <!-- more -->
 
-Setting up Continuous Delivery mainly involves the following steps:*Setup Mac Machine as Jenkins Node
+Setting up Continuous Delivery mainly involves the following steps:* Setup Mac Machine as Jenkins Node
 
     
-*Setup Jenkins Xcode plugin
+* Setup Jenkins Xcode plugin
 
     
-*Configure Distribution profile
+* Configure Distribution profile
 
     
-*Integrate with TestFlightApp API
+* Integrate with TestFlightApp API
 
 Lets see those steps in detail.
 

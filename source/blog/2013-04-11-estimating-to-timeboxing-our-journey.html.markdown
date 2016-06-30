@@ -25,14 +25,14 @@ It was time to look beyond XP’s default practices.##First set of changes
 
 
 
-* Keep both 
+*  Keep both 
 [MMFs and Stories](http://www.jamesshore.com/Agile-Book/release_planning.html) as small as possible.
 
     
-*Slice down all stories to the same size. This reduces the margin of error that creeps in during story size estimation.
+* Slice down all stories to the same size. This reduces the margin of error that creeps in during story size estimation.
 
     
-*The velocity, then, is simply the number of stories delivered in an iteration.
+* The velocity, then, is simply the number of stories delivered in an iteration.
 
 The above changes worked well on projects which already had some kind of rhythm. We’d been working with these customer for at least 3 months - so, our knowledge of the system and the customer’s requirements were good.
 
@@ -79,16 +79,16 @@ Of course, tracking the original project plan is still necessary - and allows fo
 
 
 
-*[http://neilkillick.com/2012/04/12/do-not-estimate-software-projects-at-all/](http://neilkillick.com/2012/04/12/do-not-estimate-software-projects-at-all)
+* [http://neilkillick.com/2012/04/12/do-not-estimate-software-projects-at-all/](http://neilkillick.com/2012/04/12/do-not-estimate-software-projects-at-all)
 
     
-*[http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html](http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html)
+* [http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html](http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html)
 
     
-*[http://www.infoq.com/presentations/Want-Better-Estimates-Stop-Estimating](http://www.infoq.com/presentations/Want-Better-Estimates-Stop-Estimating)
+* [http://www.infoq.com/presentations/Want-Better-Estimates-Stop-Estimating](http://www.infoq.com/presentations/Want-Better-Estimates-Stop-Estimating)
 
     
-*[http://www.industriallogic.com/blog/stop-using-story-points/](http://www.industriallogic.com/blog/stop-using-story-points/)
+* [http://www.industriallogic.com/blog/stop-using-story-points/](http://www.industriallogic.com/blog/stop-using-story-points/)
 
     
-*[http://dannorth.net/2009/07/01/the-perils-of-estimation/](http://dannorth.net/2009/07/01/the-perils-of-estimation/)
+* [http://dannorth.net/2009/07/01/the-perils-of-estimation/](http://dannorth.net/2009/07/01/the-perils-of-estimation/)

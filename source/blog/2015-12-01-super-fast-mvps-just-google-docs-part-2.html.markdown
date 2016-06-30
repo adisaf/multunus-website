@@ -49,40 +49,40 @@ Take a look at the following goals across our types of users:
 
 ***For each consultant:***
 
-* Enter daily time spent on various projects
+*  Enter daily time spent on various projects
 
-* Get reports on how many hours they’ve spent and on what activity
+*  Get reports on how many hours they’ve spent and on what activity
 
 
 ***For each team of consultants (working on a certain account):***
 
 
 
-* Help the team react quickly if the specified number of target monthly hours (as mentioned in the contract with our customers) is unlikely to be met
+*  Help the team react quickly if the specified number of target monthly hours (as mentioned in the contract with our customers) is unlikely to be met
 
-* This is important for us, because we don’t have fixed hours,[we allow for remote work](http://www.multunus.com/blog/2015/11/work-remotely-or-together-thats-wrong-question/)and[we’re moving to significant levels of autonomy across the organization](http://www.multunus.com/blog/2015/09/our-autonomous-salary-system-the-background-story-part-1/).
+*  This is important for us, because we don’t have fixed hours,[we allow for remote work](http://www.multunus.com/blog/2015/11/work-remotely-or-together-thats-wrong-question/)and[we’re moving to significant levels of autonomy across the organization](http://www.multunus.com/blog/2015/09/our-autonomous-salary-system-the-background-story-part-1/).
 
     
-* Allow for even more autonomy in decision making with respect to how they choose to split up their time between Client Work, Time Off and[20% time](http://blog.codinghorror.com/today-is-goof-off-at-work-day/). [We’ve just introduced 20% time at Multunus. More on this soon.]
+*  Allow for even more autonomy in decision making with respect to how they choose to split up their time between Client Work, Time Off and[20% time](http://blog.codinghorror.com/today-is-goof-off-at-work-day/). [We’ve just introduced 20% time at Multunus. More on this soon.]
 
 
 ***For customers:***
 
 
-* Allow them to see real time timesheet entries. Some of our customers asked for this to help them project their expenses more accurately.
+*  Allow them to see real time timesheet entries. Some of our customers asked for this to help them project their expenses more accurately.
 
 
 ***Across the organization:***
 
 
 
-* Track projected vs actual revenues throughout the month with a “real time dashboard”
+*  Track projected vs actual revenues throughout the month with a “real time dashboard”
 
     
-* See patterns/trends across the company - are we working too much or too little?
+*  See patterns/trends across the company - are we working too much or too little?
 
     
-* Help everyone across the company to realize where our time is being spent - and to encourage everyone to be more mindful.
+*  Help everyone across the company to realize where our time is being spent - and to encourage everyone to be more mindful.
 
 
 We’re yet to find an off-the-shelf solution that gives us all of those things.
@@ -113,26 +113,26 @@ But what if, we could do this whole thing just using Google Spreadsheets and Goo
 Here’s the hypotheses in more detail:
 
 
-* Problem Hypotheses:
+*  Problem Hypotheses:
 
 
-* Our consultants are not able to plan their time offs and their investment time well because they don’t have a tool that tells them the financial impact of making those choices
-
-    
-* Our people are not able towith our consulting business because they’re not able to see how they’re contributing to the “big” picture
-    
-* Solution Hypotheses:
-
-* It’s possible to build an online solution just using Google Docs and[Google Apps Scripts](https://developers.google.com/apps-script/?hl=en).
+*  Our consultants are not able to plan their time offs and their investment time well because they don’t have a tool that tells them the financial impact of making those choices
 
     
-* We would be able to build this solution without the help of professional programmers
+*  Our people are not able towith our consulting business because they’re not able to see how they’re contributing to the “big” picture
+    
+*  Solution Hypotheses:
+
+*  It’s possible to build an online solution just using Google Docs and[Google Apps Scripts](https://developers.google.com/apps-script/?hl=en).
 
     
-* The solution would be good enough for us to use at least for a couple of months - while we made programmers available for building an actual web app.
+*  We would be able to build this solution without the help of professional programmers
 
     
-* The solution would be easy enough to iterate on and would hence, allow us to discover and fix problems quickly.
+*  The solution would be good enough for us to use at least for a couple of months - while we made programmers available for building an actual web app.
+
+    
+*  The solution would be easy enough to iterate on and would hence, allow us to discover and fix problems quickly.
 
 
 ###The Google Docs Community. Great, but...
@@ -142,18 +142,18 @@ Here’s the hypotheses in more detail:
 Since the intention was to use Google Docs, we looked for existing “timesheet”[templates in the public GDoc library](https://drive.google.com/a/multunus.com/templates?q=timesheets&sort=rating&view=public).
 
 
-* What we found were mostly “decorated” versions of a standard spreadsheet. This is sufficient if all you need is a pre-defined template to log/change and aggregate timesheet entries.
+*  What we found were mostly “decorated” versions of a standard spreadsheet. This is sufficient if all you need is a pre-defined template to log/change and aggregate timesheet entries.
 
     
-* But what we needed was this:
+*  But what we needed was this:
 
-* A “database” of all the timesheet data that we could run custom reports on
-
-    
-* An easy to use interface for our consultants to enter and change their timesheet entries
+*  A “database” of all the timesheet data that we could run custom reports on
 
     
-* A sample of reports that demonstrated the capabilities of the tool
+*  An easy to use interface for our consultants to enter and change their timesheet entries
+
+    
+*  A sample of reports that demonstrated the capabilities of the tool
 
 
 So, what we now needed was to build an online database backed web application. Except, we had to do it, just using Google Docs and Google Apps Script.
@@ -202,16 +202,16 @@ If you’re paranoid about people making stupid mistakes - by say accidentally d
 So, what did we learn from this experience?
 
 
-* Google Docs is a very powerful platform - especially if you’re ready to invest a little bit of time in learning the scripting language. Which is actually, quite simple as well.
+*  Google Docs is a very powerful platform - especially if you’re ready to invest a little bit of time in learning the scripting language. Which is actually, quite simple as well.
 
     
-* Programming (or at least GDocs scripting!) can be learned fairly quickly by non-programmers very quickly. In our case, almost all of the coding was done by one of our business analysts - who hadbefore this.
+*  Programming (or at least GDocs scripting!) can be learned fairly quickly by non-programmers very quickly. In our case, almost all of the coding was done by one of our business analysts - who hadbefore this.
 
     
-* [Constraints enforce creativity](http://scottberkun.com/2008/do-constraints-help-creative-thinking/)
+*  [Constraints enforce creativity](http://scottberkun.com/2008/do-constraints-help-creative-thinking/)
 
     
-* Taking a methodical approach helps us to stay on track. We knew what problems we wanted to solve, so we created hypotheses for them and that helped us to stick to just those problems.
+*  Taking a methodical approach helps us to stay on track. We knew what problems we wanted to solve, so we created hypotheses for them and that helped us to stick to just those problems.
 
 
 ###Your Turn

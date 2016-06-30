@@ -152,16 +152,16 @@ learning (about your market) at a good pace.
 The process is as follows:
 
 
-* Step 1: Setup the experiment
+*  Step 1: Setup the experiment
 
     
-* Step 2: Build
+*  Step 2: Build
 
     
-* Step 3: Review results
+*  Step 3: Review results
 
     
-* Step 4: Iterate
+*  Step 4: Iterate
 
 
 ###Step 1: Setup the experiment:
@@ -261,7 +261,7 @@ Further, experiments also look quite different in the Empathy and Stickiness sta
 It's now time to roll up your sleeves and get to work on the experiments. Check out the remaining parts of this series to get started:
 
 
-* [Consumer startups Part 2: Getting to Empathy Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-2-getting-empathy-using-experiments/)
+*  [Consumer startups Part 2: Getting to Empathy Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-2-getting-empathy-using-experiments/)
 
     
-* [Consumer startups Part 3: Getting to Stickiness Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-3-getting-stickiness-using-experiments/)
+*  [Consumer startups Part 3: Getting to Stickiness Using Experiments](http://www.multunus.com/blog/2016/03/growing-consumer-startups-part-3-getting-stickiness-using-experiments/)

@@ -19,10 +19,10 @@ That brought back around 50-60% of the devices, but the rest of the devices beca
 Needless to say, the entire experience was very stressful. Since then, we’ve been doing a lot of thinking and research - to help us to both:
 
 
-* Prevent this kind of situation going forward, and also
+*  Prevent this kind of situation going forward, and also
 
     
-* To handle the situation better in future - when we’re unable to prevent them
+*  To handle the situation better in future - when we’re unable to prevent them
 
 
 ##Prevention - the feedback systems
@@ -31,10 +31,10 @@ Needless to say, the entire experience was very stressful. Since then, we’ve b
 Feedback systems are important and common feedback systems for programmers are:
 
 
-* Test Driven Development [TDD] to get feedback about the correctness while adding, modifying or refactoring code during development.
+*  Test Driven Development [TDD] to get feedback about the correctness while adding, modifying or refactoring code during development.
 
     
-* Continuous Integration [CI] gives you feedback about the correctness of the application whenever a commit is made to the repository.
+*  Continuous Integration [CI] gives you feedback about the correctness of the application whenever a commit is made to the repository.
 
 But once the application is deployed, we need to get feedback about the entire application i.e. how the code, architecture and infrastructure works together. There is a normal tendency to de-prioritise setting up of these feedback systems over new features and thats what exactly happened to us too.
 
@@ -43,22 +43,22 @@ We had [Monit](http://mmonit.com/monit/) and [New Relic](http://newrelic.com/) s
 Needless to say, the first thing that we did after the stressful long hours of outage was to setup monitoring and alerting. We evaluated [Nagios](http://www.nagios.org/), [Sensu](http://sensuapp.org/) and [CollectD](https://collectd.org/) which are the most popular monitoring tools, and opted Sensu because of the following reasons:
 
 
-* Its written in Ruby
+*  Its written in Ruby
 
     
-* Can be easily extended with custom plugins
+*  Can be easily extended with custom plugins
 
     
-* Good scalable modern Architecture, built on top of AMQP with RabbitMQ
+*  Good scalable modern Architecture, built on top of AMQP with RabbitMQ
 
     
-* Great community support
+*  Great community support
 
     
-* Has APIs, to create custom reports
+*  Has APIs, to create custom reports
 
     
-* Was strongly recommended by couple of experts in the industry
+*  Was strongly recommended by couple of experts in the industry
 
 We setup Sensu Server and also deployed Sensu Client [with basic System Resource threshold checks] to all the devices along with email alerts. Later we added more checks such as  [Keepalives](http://sensuapp.org/docs/0.12/keepalives), [Process checks](https://github.com/sensu/sensu-community-plugins) etc.
 

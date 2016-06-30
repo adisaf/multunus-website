@@ -72,7 +72,7 @@ So I looked at going back to this idea that a lot of the stuff we talk about Run
 But I found that people understood a concept but they didn’t apply it better because they don't know how to structure an experiment, when to declare an experiment a success or a failure. The second book will answer a lot of those questions using a simple framework.
 
 
-The idea of a customer factory - no matter what business you are in, whether you are an NGO or a for-profit, B2B, B2C, consumer app, they all have a same goal: *That is to create a happy customer.* If you can build happy customers sustainably and repeatedly, the business model takes care of itself. If you have repeatability and sustainability, then you can make that business model work.
+The idea of a customer factory - no matter what business you are in, whether you are an NGO or a for-profit, B2B, B2C, consumer app, they all have a same goal: * That is to create a happy customer.*  If you can build happy customers sustainably and repeatedly, the business model takes care of itself. If you have repeatability and sustainability, then you can make that business model work.
 
 
 The factory metaphor isn't only a cute metaphor or only for manufacturing customers. We can go back to the manufacturing world from where a lot of the lean ideas came from and take a look at things that like Theory of Constraints and other things that power the manufacturing of physical goods and apply them to the customer funnel then that reveals better insights.

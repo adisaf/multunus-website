@@ -58,10 +58,10 @@ I would suggest you to go through the entire post before jumping on to create yo
 Here're a few major problems that Skype tried to solve during its early days:
 
 
-* International calls were very costly. There was a heavy dependency on the network providers for communication.
+*  International calls were very costly. There was a heavy dependency on the network providers for communication.
 
 
-* There wasn’t any application which provided instant file sharing system among online users. The users relied on emails for sending files.
+*  There wasn’t any application which provided instant file sharing system among online users. The users relied on emails for sending files.
 
 According to a survey done by Canada’s National Statistical Agency, a Canadian household spent over 1,000 CAD per year on regular and mobile phone calls, in 2004.  In UK, an average household spent more than the double - £960 per year.
 
@@ -77,10 +77,10 @@ Skype promised to challenge the outdated business models and rip-off tactics of 
 There were two set of users Skype targeted:
 
 
-* Users who want to chat instantly with other online users for free (with family, friends or colleagues)
+*  Users who want to chat instantly with other online users for free (with family, friends or colleagues)
 
     
-* Users who want to share files instantly and make free international voice calls for lesser cost than making phone calls
+*  Users who want to share files instantly and make free international voice calls for lesser cost than making phone calls
 
 The early adopters that Skype targeted were individuals who were making international phone calls and spending significant amount of money for communicating outside their respective countries.
 
@@ -130,28 +130,28 @@ Initially, Skype relied on increasing the user base by word of mouth marketing. 
 Through partner program, Skype got access to millions of users who would otherwise be out of reach for a small startup. Below are few other partners which helped Skype to get more users during the initial years.
 
 
-* Logitech (US / Global)
+*  Logitech (US / Global)
 
     
-* Bebo (US / Global)
+*  Bebo (US / Global)
 
     
-* Salesforce.com (US)
+*  Salesforce.com (US)
 
     
-* 19  Radioshack (US)
+*  19  Radioshack (US)
 
     
-* El Corte Ingles (Spain)
+*  El Corte Ingles (Spain)
 
     
-* Phillips (Dutch / Global)
+*  Phillips (Dutch / Global)
 
     
-* Panasonic (US / Global)
+*  Panasonic (US / Global)
 
     
-* Aftonbladet (Sweden)
+*  Aftonbladet (Sweden)
 
 Credits: 
 [Master Thesis on, Skype: Reasons for growth by Nils Hammar](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjCxc6I3rXLAhVCPo4KHdiUACkQFghJMAc&url=http%3A%2F%2Farc.hhs.se%2Fdownload.aspx%3FMediumId%3D496&usg=AFQjCNGGNWjJrWkNNFxg93573sf0SUdaUA)

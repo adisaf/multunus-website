@@ -57,9 +57,9 @@ jQuery ->
  Above code will be complied to JS file under public/javascripts/coffeescripts/user.js. Example code:
 
 
-/* DO NOT MODIFY. This file was compiled Thu, 23 Jun 2011 07:13:34 GMT from
- * /home/manoj/my_rails_app/app/coffeescripts/user.coffee
- */
+/*  DO NOT MODIFY. This file was compiled Thu, 23 Jun 2011 07:13:34 GMT from
+ *  /home/manoj/my_rails_app/app/coffeescripts/user.coffee
+ * /
  (function() {
   jQuery(function() {
    return $('form').validate();
@@ -83,21 +83,21 @@ barista:brew rake task in the Capistrano script using an “after” hook
 
 
 
-*[http://jashkenas.github.com/coffee-script/](http://jashkenas.github.com/coffee-script/)
+* [http://jashkenas.github.com/coffee-script/](http://jashkenas.github.com/coffee-script/)
 
     
-*[http://blog.nicolasblanco.fr/2010/12/13/you-should-already-use-coffeescript-in-your-rails-app/](http://blog.nicolasblanco.fr/2010/12/13/you-should-already-use-coffeescript-in-your-rails-app/)
+* [http://blog.nicolasblanco.fr/2010/12/13/you-should-already-use-coffeescript-in-your-rails-app/](http://blog.nicolasblanco.fr/2010/12/13/you-should-already-use-coffeescript-in-your-rails-app/)
 
 
 **Convert existing JS to coffeescript:**
 
 
 
-*[http://ricostacruz.com/js2coffee/](http://ricostacruz.com/js2coffee/)
+* [http://ricostacruz.com/js2coffee/](http://ricostacruz.com/js2coffee/)
 
 
 **Setting up Emacs with coffee-mode:**
 
 
 
-*[http://ozmm.org/posts/coffee_mode.html](http://ozmm.org/posts/coffee_mode.html)
+* [http://ozmm.org/posts/coffee_mode.html](http://ozmm.org/posts/coffee_mode.html)

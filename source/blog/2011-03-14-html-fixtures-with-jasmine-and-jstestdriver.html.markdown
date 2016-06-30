@@ -31,7 +31,7 @@ Create a file fixture_generator.rb and save it in spec/support directory. The co
     fixture_file = File.join(fixture_path, &quot;#{name}.js&quot;)
 
     fixture_function = 'function load#{name}Fixture(){
-  /*:DOC +='+markup+'*/
+  /* :DOC +='+markup+'* /
     }'
     File.open(fixture_file, 'w') do |file|
       file.puts(fixture_function)

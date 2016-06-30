@@ -16,12 +16,12 @@ According to the book 
 [Capistrano](http://www.capify.org/) can run the migrations automatically with its 
 deploy command, its 
 deploy:rollback task does not rollback the DB migrations automatically.  I’ve created a small capistrano 
-[recipe](https://github.com/multunus/capistrano-db-rollback) which can take care of rolling back migrations.  The assumptions made are:*All the migrations have the 
+[recipe](https://github.com/multunus/capistrano-db-rollback) which can take care of rolling back migrations.  The assumptions made are:* All the migrations have the 
 down method defined properly. You can check for this by running 
 rake db:migrate:redo
 
     
-*The schema.rb exists in the repository. This is one of the 
+* The schema.rb exists in the repository. This is one of the 
 [suggested practices](http://guides.rubyonrails.org/migrations.html#schema-dumps-and-source-control) for Rails.
 
 The script is very simple, it extracts the version from the 
@@ -32,10 +32,10 @@ deploy:rollback. This approach should work for most small and medium complexity 
 Continued..
 
 
-*[Continuous Delivery – Part 1: Our Jenkins Build Pipeline setup](http://www.multunus.com/2011/07/continuous-delivery-using-jenkins-build-pipeline/)
+* [Continuous Delivery – Part 1: Our Jenkins Build Pipeline setup](http://www.multunus.com/2011/07/continuous-delivery-using-jenkins-build-pipeline/)
 
     
-*[Continuous Delivery – Part 2: Code metrics with metrical](http://www.multunus.com/2011/07/continuous-delivery-code-metrics-with-metrical/)
+* [Continuous Delivery – Part 2: Code metrics with metrical](http://www.multunus.com/2011/07/continuous-delivery-code-metrics-with-metrical/)
 
     
-*[Continuous Delivery – Part 3: Running custom rake tasks during deployment](http://www.multunus.com/2011/07/continuous-delivery-contd/)
+* [Continuous Delivery – Part 3: Running custom rake tasks during deployment](http://www.multunus.com/2011/07/continuous-delivery-contd/)

@@ -53,19 +53,19 @@ The designs may tend to overlook or deviate from general practices and guideline
 
 
 
-* Less time spent on designs saves on overall time required
+*  Less time spent on designs saves on overall time required
 
     
-* Cheaper than getting platform-specific / platform-oriented designs
+*  Cheaper than getting platform-specific / platform-oriented designs
 
     
-* Consistent branding
+*  Consistent branding
 
     
-* Consistency in navigation across platforms
+*  Consistency in navigation across platforms
 
     
-* Retention of users who switch platform
+*  Retention of users who switch platform
 
 
 ###Why is this a bad idea?
@@ -142,7 +142,7 @@ Zomato Android
 
 Zomato iOS
 
-Zomato app, for instance, used *similar* but more of a platform oriented UI and platform specific icons. This resulted in similar UI, consistent flow across platforms and great branding. This is the not best or de-facto but is definitely a good lesson to learn.
+Zomato app, for instance, used * similar*  but more of a platform oriented UI and platform specific icons. This resulted in similar UI, consistent flow across platforms and great branding. This is the not best or de-facto but is definitely a good lesson to learn.
 
 
 > At the time of writing, Zomato’s android app shifted to a bottom nav bar and iOS style controls. I as a user get disoriented navigating through app now. Not their best decision in my opinion.
@@ -172,7 +172,7 @@ Involving them in the process since the beginning and letting them weigh your de
 This is the segment about which the most hype is created, because, after all, users are the ones who all 3 segments mentioned above target. And say what you may, users are very unpredictable. At times, a user may complain of no creativity in the app, that it simply looks like the design has been copied from other popular apps. Others times, he may complain about not being able to find the options at their usual places. And yet, sometimes he wants it aligned with the design of their system apps so that your app feels like it belongs there.
 
 
-> *Oh man, what do you want?*
+> * Oh man, what do you want?* 
 
 The truth is your audience wouldn’t know that either. With new ideas and innovations each day, only the sky feels like the limit (not to Elon Musk, though). But what users do notice is when something feels out of place or out of the regular flow which they are accustomed to. Some of the largest factors affecting a user’s perception are not only gender, age, income, education level, geographic boundaries, the frequency of use, and mood but also very often their familiarity and usage of technology in their day-to-day lives.
 
@@ -184,7 +184,7 @@ The same user who loves your app otherwise may get irritated on a bad day, fumbl
 [interacting with actual people](http://www.talkingtohumans.com/). Here are some points to ponder upon:
 
 
-* **Ask yourself - why do I need an app with same designs all across?** You may come up with various answers related to your app’s workflow and the real life problem you are trying to solve. These could be genuine reasons. Consider this screen from Flipboard. It presents a simple article.
+*  **Ask yourself - why do I need an app with same designs all across?** You may come up with various answers related to your app’s workflow and the real life problem you are trying to solve. These could be genuine reasons. Consider this screen from Flipboard. It presents a simple article.
 
 
 ![Flipboard Android](https://s3.amazonaws.com/next.multunus.com/wp-content/uploads/2016/01/image08_1.png)
@@ -198,13 +198,13 @@ Flipboard iOS
 This view does not need to leverage any specific, platform-dependent UI or features. The screens look the same and focus on what they provide - readable content. This is a good example of when you would want your app to look the same across platforms. But notice the subtle difference in the icons and placement of content lines - platform specific.
 
 
-* **Try to prevent dissonance** by following *platform guidelines, brand guidelines and preferring popular UI patterns.* 
+*  **Try to prevent dissonance** by following * platform guidelines, brand guidelines and preferring popular UI patterns.*  
 
     
-* **Improve continuously**.Set up Analytics and A/B testing and gather insights independently for each platform. Conduct Usability Tests to point out usability issues. This results in knowing not just where the problem is, but also what and why it is so.
+*  **Improve continuously**.Set up Analytics and A/B testing and gather insights independently for each platform. Conduct Usability Tests to point out usability issues. This results in knowing not just where the problem is, but also what and why it is so.
 
     
-* **Consider a website** (preferably mobile-first but it could also be mobile-specific) instead of an app. Web sites are platform independent and present the same UI across similar platforms. This will end up in saving you on designs, time & costs, project size, etc. But in such case, your software would not be able to leverage the benefits enjoyed by a native app. This should be more of a conscious, well-thought business decision, weighing all possible pros and cons.
+*  **Consider a website** (preferably mobile-first but it could also be mobile-specific) instead of an app. Web sites are platform independent and present the same UI across similar platforms. This will end up in saving you on designs, time & costs, project size, etc. But in such case, your software would not be able to leverage the benefits enjoyed by a native app. This should be more of a conscious, well-thought business decision, weighing all possible pros and cons.
 
 
 #End Note

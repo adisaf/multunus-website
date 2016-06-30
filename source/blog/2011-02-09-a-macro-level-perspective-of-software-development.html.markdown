@@ -10,13 +10,13 @@ link: http://www.multunus.com/blog/2011/02/a-macro-level-perspective-of-software
 
 Why is delivering good software on a consistent basis hard? There are many existing answers to this question already. This is our version.
 
-A list of things good software should achieve:*Should solve a real problem
+A list of things good software should achieve:* Should solve a real problem
 
 	
-*Should be shipped and maintained within the budgeted cost and time
+* Should be shipped and maintained within the budgeted cost and time
 
 	
-*Should be easy to use
+* Should be easy to use
 
 **Update: **
 We’ve now migrated to 

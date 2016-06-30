@@ -37,27 +37,27 @@ It’s been 6 months since we left this choice to the team. The trend we’re se
 Some of the reasons for remote work:
 
 
-* Freedom to run errands near their home
+*  Freedom to run errands near their home
 
     
-* Avoid traffic at least a couple of times a week
+*  Avoid traffic at least a couple of times a week
 
     
-* Just work alone and get stuff done without getting pulled into meetings
+*  Just work alone and get stuff done without getting pulled into meetings
 
 And for co-location:
 
 
-* Attend meetings face to face
+*  Attend meetings face to face
 
     
-* Collaborate more closely with the team on tougher challenges
+*  Collaborate more closely with the team on tougher challenges
 
     
-* Bond better with teammates
+*  Bond better with teammates
 
     
-* Engage with the business better
+*  Engage with the business better
 
 The impact? We don’t have a full office everyday because people come in when it works for them. That’s it. Nothing more. Nothing less.
 
@@ -110,16 +110,16 @@ That’s where great hiring comes in. Only hire the kind of people who can lever
 Remember:
 
 
-* They’ve got to be very good communicators - they should be able to write and speak very good English (or whichever language suits your team the best).
+*  They’ve got to be very good communicators - they should be able to write and speak very good English (or whichever language suits your team the best).
 
     
-* They’ve also got to be energetic, honest and self-confident.
+*  They’ve also got to be energetic, honest and self-confident.
 
     
-* Folks who know how to work in teams very well. Look for great listening skills. Equally importantly, look for folks who have high expectations from their teammates.
+*  Folks who know how to work in teams very well. Look for great listening skills. Equally importantly, look for folks who have high expectations from their teammates.
 
     
-* Finally, have small teams and provide them with great tools to help them collaborate well. None of our teams are larger than 3-4 people and we use Slack, Trello and Skype heavily.
+*  Finally, have small teams and provide them with great tools to help them collaborate well. None of our teams are larger than 3-4 people and we use Slack, Trello and Skype heavily.
 
 
 #Conclusion

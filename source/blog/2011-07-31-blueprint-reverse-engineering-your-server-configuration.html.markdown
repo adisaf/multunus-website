@@ -14,13 +14,13 @@ There are many tools like 
 [Puppet](http://projects.puppetlabs.com/projects/puppet) etc. to manage the server configuration, but there are not many which do the reverse i.e. create a configuration from an existing server. 
 [Blueprint](https://github.com/devstructure/blueprint) does exactly the latter.
 
-Its a set of python scripts which reverse engineer your server configuration. It stores the configuration locally in its own repository, but you can also:*Create Puppet/Chef scripts
+Its a set of python scripts which reverse engineer your server configuration. It stores the configuration locally in its own repository, but you can also:* Create Puppet/Chef scripts
 
     
-*Convert into a normal shell script
+* Convert into a normal shell script
 
     
-*Using 
+* Using 
 [Blueprint I/O](https://github.com/devstructure/blueprint-io), store the configuration in remote server and pull it when required
 
 It scans all the packages installed on the machine and adds those into the configuration. According to the 

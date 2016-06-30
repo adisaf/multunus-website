@@ -28,14 +28,14 @@ We all know that almost no opportunity is exactly what it seems like, but it pay
 
 
 
-*About 40 per cent of Internet users in India 
+* About 40 per cent of Internet users in India 
 [access it on their mobile phones](http://www.medianama.com/2011/03/223-google-india-has-100m-internet-40m-mobile-internet-users-india-search-trends/)
 
     
-*[61% users are unlikely](http://googlemobileads.blogspot.com/2011/06/mobile-ize-your-business-with-google.html) to return to a site that they found were not mobile optimized. What’s worse, 40% of them are likely to go to a competitor’s website.
+* [61% users are unlikely](http://googlemobileads.blogspot.com/2011/06/mobile-ize-your-business-with-google.html) to return to a site that they found were not mobile optimized. What’s worse, 40% of them are likely to go to a competitor’s website.
 
     
-*The middle class in the BRIC (Brazil, Russia, India and China) countries together have the  
+* The middle class in the BRIC (Brazil, Russia, India and China) countries together have the  
 [largest untapped populations](http://blog.flurry.com/bid/79595/Kaboom-iOS-and-Android-International-Installed-Base-Expansion) that can now afford a smart phone but are yet to get one.
 
 
@@ -140,14 +140,14 @@ While purely content based sites can choose to rely on the Mobile Optimization S
 
 Main Challenges:
 
-*The data has to kept in sync with the original systems - in a seamless fashion
+* The data has to kept in sync with the original systems - in a seamless fashion
 
     
-*Mobile payment gateways are still far from mature - 
+* Mobile payment gateways are still far from mature - 
 [especially in a country like India](http://www.venturewoods.org/index.php/2011/01/19/mobile-payments-shifting-opportunities-for-startups/).
 
     
-*Oh, and the Mobile Web is Slow - but I said that already.
+* Oh, and the Mobile Web is Slow - but I said that already.
 
 
 
@@ -160,7 +160,7 @@ I’m going on a limb here - but most small retailers in India don’t have an I
 Main Challenge:
 
 
-*With even companies like Google
+* With even companies like Google
 [ facing stiff resistance](http://articles.timesofindia.indiatimes.com/2011-06-20/internet/29679379_1_google-street-view-google-s-street-view-privacy-concerns) while trying to map our streets, you’re left with the only other option - User Generated Content. And that in turn means, the classic chicken and egg conundrum.
  
 
@@ -172,7 +172,7 @@ While there are cloud testing services now available for specific platforms, ser
 Main Challenge:
 
 
-*You’ve got SDK installations, developer & signing certificates, build chains, and custom project layouts to worry about with each platform. 
+* You’ve got SDK installations, developer & signing certificates, build chains, and custom project layouts to worry about with each platform. 
 [PhoneGap solves this problem](http://savagelook.com/blog/portfolio/8-things-to-know-about-phonegap) for you from a deployment perspective, but running automated tests on multiple platforms is a different challenge.
 
 

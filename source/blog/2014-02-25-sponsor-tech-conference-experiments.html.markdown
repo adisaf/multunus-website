@@ -38,7 +38,7 @@ We wanted to connect with our customers and communicate our core values and diff
 Rather than wax eloquent about ourselves in posters and pamphlet inserts, we chose instead to engage with the audience through the following activities:
 
 
-*2 Competitions:
+* 2 Competitions:
 
 ***Twitter Puzzle**
 : Designed to appeal to the algorithmic geek, and
@@ -48,13 +48,13 @@ Rather than wax eloquent about ourselves in posters and pamphlet inserts, we cho
 :  Designed to appeal to the front end evangelist
 
     
-*Pair Programming in Javascript on Angular.js/Backbone.js with a focus on Test Driven Development
+* Pair Programming in Javascript on Angular.js/Backbone.js with a focus on Test Driven Development
 
     
-*A demo of our Continuous Delivery infrastructure
+* A demo of our Continuous Delivery infrastructure
 
     
-*A couple of mini-puzzles
+* A couple of mini-puzzles
 
 Let's dive into each of the above.
 

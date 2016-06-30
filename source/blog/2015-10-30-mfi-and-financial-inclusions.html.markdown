@@ -70,24 +70,24 @@ Financial inclusions are basic financial services available at affordable costs 
 
 Financial Inclusions include the following:
 
-* **Credit**
+*  **Credit**
 
 Though Micro Credit and MFIs are used interchangeably, micro credit is one of the services provided by MFIs. These loans may start from a few hundreds to ten thousands of rupees. They are offered for various purposes like capital investment in small businesses, working capital for businesses, to help with personal expenses like marriage, children’s education, medical help etc that will help them to alleviate acute poverty and move to a better lifestyle.
 
 
-* **Savings**
+*  **Savings**
 
 
 With a goal of creating self-sufficiency among poor people, MFIs encourage small savings to meet their future requirements like repayment of the loan itself. This may be as low as depositing Rs 10 at a time.
 
 
-* **Insurance**
+*  **Insurance**
 
 
 These are the various insurances to cover health, death, loan repayment, loss of income etc. These are provided at a very low rate of premium and the sum insured would be just enough to cover the emergency expenses. These services actually discourage people from taking more loans to cover emergencies like medical expenses, death of a family member etc so that they do not fall into the indefinite debt trap.
 
 
-* **Payments through Mobiles**
+*  **Payments through Mobiles**
 
 
 MFIs are not physically accessible to people in rural areas and hence this service allows them to use mobile phones as a tool to make use of the services provided by the MFIs. eg. M-Pesa in Kenya.

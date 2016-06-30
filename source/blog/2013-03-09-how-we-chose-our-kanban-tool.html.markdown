@@ -38,13 +38,13 @@ I am not going to talk about “Why Kanban”, because there are many articles a
 The different tools we evaluated were:
 
 
-*[LeanKit](http://leankit.com/)
+* [LeanKit](http://leankit.com/)
 
     
-*[Kanbanery](http://kanbanery.com/)
+* [Kanbanery](http://kanbanery.com/)
 
     
-*[KanbanTool](http://kanbantool.com/)
+* [KanbanTool](http://kanbantool.com/)
 
 If you’ve ever used PT, you already know what an awesome piece of software it is. The real-time collaboration features, the sheer fluidity of the user interface, the way it all tightly fits together - is amazing. So, our expectations from the Kanban tool were already fairly high - especially in terms of a clutter free, fluid, “don’t-get-in-my-way” user experience.
 
@@ -62,10 +62,10 @@ So which tool did we end up choosing? Well, its a Kanban Tool called
 Lastly, I would like to mention those articles which helped us to understand Kanban better.
 
 
-*[Kanban Development OverSimplified](http://www.agileproductdesign.com/blog/2009/kanban_over_simplified.html) by Jeff Patton
+* [Kanban Development OverSimplified](http://www.agileproductdesign.com/blog/2009/kanban_over_simplified.html) by Jeff Patton
 
     
-*[Single Piece Workflow in Kanban](http://www.infoq.com/presentations/Single-Piece-Flow-Kanban) by James Shore and Arloo Banshee
+* [Single Piece Workflow in Kanban](http://www.infoq.com/presentations/Single-Piece-Flow-Kanban) by James Shore and Arloo Banshee
 
     
-*[Kanban](http://www.crisp.se/gratis-material-och-guider/kanban) by Henrik Kniberg
+* [Kanban](http://www.crisp.se/gratis-material-och-guider/kanban) by Henrik Kniberg
