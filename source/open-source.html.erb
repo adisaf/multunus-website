@@ -1,0 +1,21 @@
+<section class="section">
+  <div class="container">
+    <h1 class="title text-center font-weight-light">Open Source </h1>
+    <p class="text-center synopsis">Without Open Source software, our business would perhaps have been non-existent. We rely on the hard work and generosity of many many individuals and companies - who have made their software open source. We’ve just started on our own journey of giving back to the community. But please do come back and visit this page every couple of months. You should see some new stuff here.</p>
+  </div>
+  <div class="container">
+    <% data.open_source.segments.each do |segment| %>
+    <% p segment.title %>
+    <% segment.projects.each do |project| %>
+      <% p project.link %>
+    <% end %>
+    <% end %>
+    <div class="row">
+      <% data.open_source.segments.each do |segment| %>
+
+        <%= partial 'open_source_segment', locals: { segment: segment } %>
+
+      <% end %>
+    </div>
+  </div>
+</section>

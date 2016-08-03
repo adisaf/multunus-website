@@ -32,7 +32,7 @@ a {
     &:hover, &:focus {
                  color: $secondary-red;
                  text-decoration: none;
-                 
+
              }
     &.muted-link {
         color: rgba(255, 255, 255, 0.298039);
@@ -121,7 +121,7 @@ a {
     background-color: $primary-red;
     &:hover, &:active {
                  border-color: $primary-red;
-                 background-color: $primary-red;    
+                 background-color: $primary-red;
              }
 }
 .btn.with-pressed-effect  {
@@ -168,7 +168,7 @@ a {
     background-color: transparent;
 }
 .main-banner {
-    background-color: $primary-grey; 
+    background-color: $primary-grey;
     .title-container {
         margin: 15% 0;
         color: $primary-white;
@@ -216,7 +216,7 @@ a {
     .title {
         @media (max-width: $screen-xs-min) {
             font-size: $font-size-medium;
-        }   
+        }
         color: $secondary-black;
         margin-top: 5px;
         margin-bottom: 5px;
@@ -225,4 +225,13 @@ a {
         color: $primary-grey;
         font-size: $font-size-medium;
     }
+}
+
+.synopsis {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  font-size: $font-size-medium;
+  color: $primary-grey;
+  line-height: 1.6;
+  font-family: $secondary-font-family;
 }

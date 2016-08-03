@@ -1,0 +1,37 @@
+.project {
+  min-height: 100px;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 5px solid #bc1f3a;
+  margin: 0 5px;
+}
+.projects > .project:first-child {
+  margin: 0 5px 0 0;
+}
+.projects > .project:last-child {
+  margin: 0 0 0 5px;
+}
+.project-title {
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px;
+  a {
+    font-size: 20px;
+  }
+}
+.project-info {
+  padding: 10px 5px 10px 5px;
+  font-size: medium;
+}
+.hash-tag {
+  a {
+    display: inline-block;
+    text-transform: uppercase;
+    &:before {
+      content: "#";
+    }
+  }
+}
+.project-tags {
+  padding-left: 5px;
+}

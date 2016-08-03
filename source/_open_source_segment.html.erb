@@ -1,0 +1,22 @@
+<div class="col-sm-12">
+  <h2 class="segment-title"><%= segment.title %></h1>
+  <div class="row projects">
+    <% segment.projects.each do |project| %>
+      <div class="col-sm-4 project">
+        <div class="project-title">
+          <a href="<%= project.link %>" target="_blank"><%= project.title %></a>
+        </div>
+        <div class="project-info">
+          <%= project.info %>
+        </div>
+        <div class="project-tags">
+          <ul class="list-inline hidden-xs">
+            <% project.tags.each do |tag| %>
+              <li class="hash-tag font-weight-bold"><a href="<%= project.link %>" target="_blank"><%= tag %></a></li>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    <% end %>
+  </div>
+</div>
