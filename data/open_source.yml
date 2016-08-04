@@ -4,7 +4,7 @@ segments:
     projects:
       - OneMDM:
         title: OneMDM
-        info: OneMDM can manage widely distributed Android devices which are enrolled in the OneMDM server after installing OneMDM client on these devices.
+        info: OneMDM is an open source Mobile Device Management (MDM) solution. OneMDM can manage widely distributed Android devices which are enrolled in the OneMDM server after installing OneMDM client on these devices.
         tags: ['MDM']
         link: "http://www.multunus.com/blog/2015/11/overview-mdm-landscape/"
     related_posts: []
