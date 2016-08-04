@@ -6,7 +6,7 @@ segments:
         title: OneMDM
         info: OneMDM is an open source Mobile Device Management (MDM) solution. OneMDM can manage widely distributed Android devices which are enrolled in the OneMDM server after installing OneMDM client on these devices.
         tags: ['MDM']
-        link: "http://www.multunus.com/blog/2015/11/overview-mdm-landscape/"
+        github_link: "https://github.com/multunus/onemdm-server"
     related_posts: []
   - React:
     title: React
@@ -15,12 +15,12 @@ segments:
         title: React Native Boiler Plate
         info: An opinionated boilerplate to setup a iOS/Android app skeleton. Manually configuring a sensible setup is a thing of the past now.
         tags: ['React Native']
-        link: "https://github.com/multunus/react-native-boilerplate"
+        github_link: "https://github.com/multunus/react-native-boilerplate"
       - ReactNativeTDDTutorial:
         title: React Native TDD tutorial
         info: A hands-on tutorial that helps you in writing unit tests for React Native components. It consists of a setup utilizing Mocha, Chai and Enzyme.
         tags: ['React Native']
-        link: "http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/"
+        github_link: "https://github.com/multunus/React_Native_TDD_tutorial"
     related_posts: ["http://www.multunus.com/blog/2016/06/automated-environment-management-react-native-ios/", "http://www.multunus.com/blog/2015/11/react-essentials-for-javascript-beginners/"]
   - Clojure:
     title: Clojure
@@ -29,7 +29,7 @@ segments:
         title: dashboard-clj
         info: A Clojure library built to aid in the creation of dashboards. It features a simplified setup for aggregating source data and easily sending it over to front-end widgets periodically. This project is inspired by Dashing.
         tags: ['Clojure']
-        link: "https://github.com/multunus/dashboard-clj"
+        github_link: "https://github.com/multunus/dashboard-clj"
     related_posts: ["http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/"]
   - ML:
     title: Machine Learning
@@ -38,7 +38,7 @@ segments:
         title: Autonomous RC car
         info: An autonomous RC car built with a Raspberry Pi and Neural Networks in Python without any Machine Learning libraries.
         tags: ['ML', 'Neural Networks']
-        link: "http://www.multunus.com/blog/2016/07/autonomous-rc-car-using-raspberry-pi-and-neural-networks/"
+        github_link: "https://github.com/multunus/autonomous-rc-car"
     related_posts: []
   - iOS_RubyMotion:
     title: iOS RubyMotion
@@ -47,5 +47,5 @@ segments:
         title: RubyMation
         info: A set of libraries designed to simplify interactions such as tilt control of images, horizontal scrolling of tiles, linear animations and table cell animations.
         tags: ['iOS', 'RubyMotion']
-        link: "http://www.multunus.com/open_source/rubymation-series-animation-libraries-rubymotion/"
+        github_link: "https://github.com/multunus/motion-gyro-image-controller"
     related_posts: []

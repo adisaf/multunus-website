@@ -5,7 +5,7 @@
       <div class="col-sm-4">
         <div class="project">
           <div class="project-title">
-            <a href="<%= project.link %>" target="_blank"><%= project.title %></a>
+            <a href="<%= project.github_link %>" target="_blank"><%= project.title %></a>
           </div>
           <div class="project-info">
             <%= project.info %>
@@ -13,7 +13,7 @@
           <div class="project-tags">
             <ul class="list-inline hidden-xs">
               <% project.tags.each do |tag| %>
-                <li class="hash-tag font-weight-bold"><a href="<%= project.link %>" target="_blank"><%= tag %></a></li>
+                <li class="hash-tag font-weight-bold"><a href="<%= project.github_link %>" target="_blank"><%= tag %></a></li>
               <% end %>
             </ul>
           </div>
