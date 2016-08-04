@@ -40,3 +40,12 @@ segments:
         tags: ['ML', 'Neural Networks']
         link: "http://www.multunus.com/blog/2016/07/autonomous-rc-car-using-raspberry-pi-and-neural-networks/"
     related_posts: []
+  - iOS_RubyMotion:
+    title: iOS RubyMotion
+    projects:
+      - RubyMation:
+        title: RubyMation
+        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        tags: ['iOS', 'RubyMotion']
+        link: "http://www.multunus.com/open_source/rubymation-series-animation-libraries-rubymotion/"
+    related_posts: []
