@@ -10,6 +10,14 @@
           <div class="project-info">
             <%= project.info %>
           </div>
+          <div class="project-tags">
+            <ul class="list-inline hidden-xs">
+              <% project.tags.each do |tag| %>
+                <!-- Link to corresponding service -->
+                <li class="hash-tag font-weight-bold"><a href="#"><%= tag %></a></li>
+              <% end %>
+            </ul>
+          </div>
         </div>
       </div>
     <% end %>
