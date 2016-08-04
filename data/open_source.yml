@@ -18,7 +18,7 @@ segments:
         link: "https://github.com/multunus/react-native-boilerplate"
       - ReactNativeTDDTutorial:
         title: React Native TDD tutorial
-        info: A hands-on tutorial to get started on writing tests for React Native apps.
+        info: A hands-on tutorial that helps you in writing unit tests for React Native components. It consists of a setup utilizing Mocha, Chai and Enzyme.
         tags: ['React Native']
         link: "http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/"
     related_posts: ["http://www.multunus.com/blog/2016/06/automated-environment-management-react-native-ios/", "http://www.multunus.com/blog/2015/11/react-essentials-for-javascript-beginners/"]
@@ -27,7 +27,7 @@ segments:
     projects:
       - DashboardClj:
         title: dashboard-clj
-        info: A clojure mini-framework to build dashboards inspired by dashing.
+        info: A Clojure library built to aid in the creation of dashboards. It features a simplified setup for aggregating source data and easily sending it over to front-end widgets periodically. This project is inspired by Dashing.
         tags: ['Clojure']
         link: "https://github.com/multunus/dashboard-clj"
     related_posts: ["http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/"]
@@ -45,7 +45,7 @@ segments:
     projects:
       - RubyMation:
         title: RubyMation
-        info: A set of libraries designed to simplify interactions such as image viewer using tilt, horizontal scroller, linear animations and table cell animations.
+        info: A set of libraries designed to simplify interactions such as tilt control of images, horizontal scrolling of tiles, linear animations and table cell animations.
         tags: ['iOS', 'RubyMotion']
         link: "http://www.multunus.com/open_source/rubymation-series-animation-libraries-rubymotion/"
     related_posts: []
