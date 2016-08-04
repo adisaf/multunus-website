@@ -3,8 +3,8 @@ segments:
     title: MDM
     projects:
       - OneMDM:
-        title: One MDM
-        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        title: OneMDM
+        info: OneMDM can manage widely distributed Android devices which are enrolled in the OneMDM server after installing OneMDM client on these devices.
         tags: ['MDM']
         link: "http://www.multunus.com/blog/2015/11/overview-mdm-landscape/"
     related_posts: []
@@ -13,12 +13,12 @@ segments:
     projects:
       - ReactNativeBoilerPlate:
         title: React Native Boiler Plate
-        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        info: An opinionated boilerplate to setup a iOS/Android app skeleton. Manually configuring a sensible setup is a thing of the past now.
         tags: ['React Native']
         link: "https://github.com/multunus/react-native-boilerplate"
       - ReactNativeTDDTutorial:
         title: React Native TDD tutorial
-        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        info: A hands-on tutorial to get started on writing tests for React Native apps.
         tags: ['React Native']
         link: "http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/"
     related_posts: ["http://www.multunus.com/blog/2016/06/automated-environment-management-react-native-ios/", "http://www.multunus.com/blog/2015/11/react-essentials-for-javascript-beginners/"]
@@ -26,8 +26,8 @@ segments:
     title: Clojure
     projects:
       - DashboardClj:
-        title: Dashboard Clj
-        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        title: dashboard-clj
+        info: A clojure mini-framework to build dashboards inspired by dashing.
         tags: ['Clojure']
         link: "https://github.com/multunus/dashboard-clj"
     related_posts: ["http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/"]
@@ -36,7 +36,7 @@ segments:
     projects:
       - AutonomousRcCar:
         title: Autonomous RC car
-        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        info: An autonomous RC car built with a Raspberry Pi and Neural Networks in Python without any Machine Learning libraries.
         tags: ['ML', 'Neural Networks']
         link: "http://www.multunus.com/blog/2016/07/autonomous-rc-car-using-raspberry-pi-and-neural-networks/"
     related_posts: []
@@ -45,7 +45,7 @@ segments:
     projects:
       - RubyMation:
         title: RubyMation
-        info: The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive.
+        info: A set of libraries designed to simplify interactions such as image viewer using tilt, horizontal scroller, linear animations and table cell animations.
         tags: ['iOS', 'RubyMotion']
         link: "http://www.multunus.com/open_source/rubymation-series-animation-libraries-rubymotion/"
     related_posts: []
