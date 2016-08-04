@@ -10,13 +10,6 @@
           <div class="project-info">
             <%= project.info %>
           </div>
-          <div class="project-tags">
-            <ul class="list-inline hidden-xs">
-              <% project.tags.each do |tag| %>
-                <li class="hash-tag font-weight-bold"><a href="<%= project.github_link %>" target="_blank"><%= tag %></a></li>
-              <% end %>
-            </ul>
-          </div>
         </div>
       </div>
     <% end %>
