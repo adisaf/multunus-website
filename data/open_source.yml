@@ -20,7 +20,7 @@ segments:
         title: React Native TDD tutorial
         info: A hands-on tutorial that helps you in writing unit tests for React Native components. It consists of a setup utilizing Mocha, Chai and Enzyme.
         tags: ['React Native']
-        github_link: "https://github.com/multunus/React_Native_TDD_tutorial"
+        github_link: "https://github.com/multunus/React-Native-TDD-Tutorial"
     related_posts: ["http://www.multunus.com/blog/2016/06/automated-environment-management-react-native-ios/", "http://www.multunus.com/blog/2015/11/react-essentials-for-javascript-beginners/"]
   - Clojure:
     title: Clojure
