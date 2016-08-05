@@ -27,7 +27,7 @@ segments:
     projects:
       - DashboardClj:
         title: dashboard-clj
-        info: A Clojure library built to aid in the creation of dashboards. It features a simplified setup for aggregating source data and easily sending it over to front-end widgets periodically. This project is inspired by Dashing.
+        info: A Clojure mini-framework for creating realtime dashboards inspired by Dashing.io. It features a simplified setup for aggregating source data and sending it over to front-end widgets periodically.
         tags: ['Clojure']
         github_link: "https://github.com/multunus/dashboard-clj"
     related_posts: ["http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/"]
